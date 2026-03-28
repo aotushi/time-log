@@ -1,0 +1,96 @@
+{
+  "date": "2026-03-28",
+  "synced_at": "2026-03-28T11:49:05.878524+00:00",
+  "computer": {
+    "active_minutes": 151.4,
+    "afk_minutes": 456.9,
+    "apps": [
+      {
+        "app": "msedge.exe",
+        "minutes": 101.3
+      },
+      {
+        "app": "mmc.exe",
+        "minutes": 21.2
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 18.0
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 7.9
+      },
+      {
+        "app": "WindowsTerminal.exe",
+        "minutes": 3.9
+      },
+      {
+        "app": "mintty.exe",
+        "minutes": 3.5
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 2.4
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 2.0
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 1.3
+      },
+      {
+        "app": "PixPin.exe",
+        "minutes": 1.1
+      },
+      {
+        "app": "clash-verge.exe",
+        "minutes": 1.1
+      },
+      {
+        "app": "eudic.exe",
+        "minutes": 0.3
+      },
+      {
+        "app": "olk.exe",
+        "minutes": 0.2
+      },
+      {
+        "app": "python.exe",
+        "minutes": 0.2
+      }
+    ],
+    "sites": [
+      {
+        "site": "claude.ai",
+        "minutes": 27.9
+      },
+      {
+        "site": "grok.com",
+        "minutes": 2.2
+      },
+      {
+        "site": "github.com",
+        "minutes": 2.1
+      },
+      {
+        "site": "www.xiaohongshu.com",
+        "minutes": 1.2
+      },
+      {
+        "site": "localhost:5600",
+        "minutes": 1.0
+      },
+      {
+        "site": "chromewebstore.google.com",
+        "minutes": 0.9
+      },
+      {
+        "site": "dash.cloudflare.com",
+        "minutes": 0.2
+      }
+    ]
+  }
+}
