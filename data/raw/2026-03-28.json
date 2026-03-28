@@ -1,37 +1,37 @@
 {
   "date": "2026-03-28",
-  "synced_at": "2026-03-28T12:00:10.204532+00:00",
+  "synced_at": "2026-03-28T13:00:10.153189+00:00",
   "computer": {
-    "active_minutes": 162.1,
-    "afk_minutes": 456.9,
+    "active_minutes": 175.7,
+    "afk_minutes": 539.9,
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 104.1
+        "minutes": 105.6
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 24.2
       },
       {
         "app": "mmc.exe",
         "minutes": 21.2
       },
       {
-        "app": "chrome.exe",
-        "minutes": 20.4
+        "app": "mintty.exe",
+        "minutes": 13.1
       },
       {
         "app": "Code.exe",
-        "minutes": 10.0
+        "minutes": 10.8
       },
       {
         "app": "WindowsTerminal.exe",
         "minutes": 4.3
       },
       {
-        "app": "mintty.exe",
-        "minutes": 3.5
-      },
-      {
         "app": "explorer.exe",
-        "minutes": 3.5
+        "minutes": 4.2
       },
       {
         "app": "Weixin.exe",
@@ -43,7 +43,7 @@
       },
       {
         "app": "PixPin.exe",
-        "minutes": 1.1
+        "minutes": 1.2
       },
       {
         "app": "clash-verge.exe",
@@ -51,7 +51,7 @@
       },
       {
         "app": "python.exe",
-        "minutes": 0.4
+        "minutes": 0.5
       },
       {
         "app": "eudic.exe",
