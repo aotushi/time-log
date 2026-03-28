@@ -1,13 +1,13 @@
 {
   "date": "2026-03-28",
-  "synced_at": "2026-03-28T11:49:05.878524+00:00",
+  "synced_at": "2026-03-28T12:00:10.204532+00:00",
   "computer": {
-    "active_minutes": 151.4,
+    "active_minutes": 162.1,
     "afk_minutes": 456.9,
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 101.3
+        "minutes": 104.1
       },
       {
         "app": "mmc.exe",
@@ -15,18 +15,22 @@
       },
       {
         "app": "chrome.exe",
-        "minutes": 18.0
+        "minutes": 20.4
       },
       {
         "app": "Code.exe",
-        "minutes": 7.9
+        "minutes": 10.0
       },
       {
         "app": "WindowsTerminal.exe",
-        "minutes": 3.9
+        "minutes": 4.3
       },
       {
         "app": "mintty.exe",
+        "minutes": 3.5
+      },
+      {
+        "app": "explorer.exe",
         "minutes": 3.5
       },
       {
@@ -34,12 +38,8 @@
         "minutes": 2.4
       },
       {
-        "app": "explorer.exe",
-        "minutes": 2.0
-      },
-      {
         "app": "firefox.exe",
-        "minutes": 1.3
+        "minutes": 1.4
       },
       {
         "app": "PixPin.exe",
@@ -50,15 +50,15 @@
         "minutes": 1.1
       },
       {
+        "app": "python.exe",
+        "minutes": 0.4
+      },
+      {
         "app": "eudic.exe",
         "minutes": 0.3
       },
       {
         "app": "olk.exe",
-        "minutes": 0.2
-      },
-      {
-        "app": "python.exe",
         "minutes": 0.2
       }
     ],
@@ -76,12 +76,12 @@
         "minutes": 2.1
       },
       {
-        "site": "www.xiaohongshu.com",
-        "minutes": 1.2
+        "site": "localhost:5600",
+        "minutes": 1.4
       },
       {
-        "site": "localhost:5600",
-        "minutes": 1.0
+        "site": "www.xiaohongshu.com",
+        "minutes": 1.2
       },
       {
         "site": "chromewebstore.google.com",
