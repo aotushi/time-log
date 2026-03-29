@@ -1,9 +1,9 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T10:00:10.155039+00:00",
+  "synced_at": "2026-03-29T11:00:10.139771+00:00",
   "computer": {
-    "active_minutes": 187.4,
-    "afk_minutes": 401.9,
+    "active_minutes": 193.0,
+    "afk_minutes": 456.7,
     "active_intervals": [
       {
         "start": "10:44",
@@ -27,7 +27,7 @@
       },
       {
         "start": "15:14",
-        "end": "17:59"
+        "end": "18:05"
       },
       {
         "start": "17:37",
@@ -37,7 +37,7 @@
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 106.0
+        "minutes": 111.4
       },
       {
         "app": "chrome.exe",
@@ -65,7 +65,7 @@
       },
       {
         "app": "python.exe",
-        "minutes": 0.5
+        "minutes": 0.7
       },
       {
         "app": "LockApp.exe",
