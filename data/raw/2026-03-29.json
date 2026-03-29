@@ -1,9 +1,9 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T09:30:11.229335+00:00",
+  "synced_at": "2026-03-29T10:00:10.155039+00:00",
   "computer": {
-    "active_minutes": 163.0,
-    "afk_minutes": 385.5,
+    "active_minutes": 187.4,
+    "afk_minutes": 401.9,
     "active_intervals": [
       {
         "start": "10:44",
@@ -27,29 +27,33 @@
       },
       {
         "start": "15:14",
-        "end": "17:29"
+        "end": "17:59"
+      },
+      {
+        "start": "17:37",
+        "end": "17:38"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 83.7
+        "minutes": 106.0
       },
       {
         "app": "chrome.exe",
-        "minutes": 41.4
+        "minutes": 43.6
       },
       {
         "app": "Code.exe",
-        "minutes": 35.0
+        "minutes": 39.7
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 15.3
       },
       {
         "app": "Weixin.exe",
         "minutes": 15.3
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 15.2
       },
       {
         "app": "mmc.exe",
@@ -90,16 +94,16 @@
         "minutes": 6.3
       },
       {
+        "site": "github.com",
+        "minutes": 2.2
+      },
+      {
         "site": "support.ariba.com",
         "minutes": 2.1
       },
       {
         "site": "grok.com",
         "minutes": 1.9
-      },
-      {
-        "site": "github.com",
-        "minutes": 1.8
       },
       {
         "site": "time-log-form.nullsh.workers.dev",
