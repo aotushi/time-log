@@ -1,8 +1,8 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T13:25:28.506214+00:00",
+  "synced_at": "2026-03-29T13:36:03.933532+00:00",
   "computer": {
-    "active_minutes": 195.4,
+    "active_minutes": 206.0,
     "afk_minutes": 575.3,
     "active_intervals": [
       {
@@ -44,16 +44,20 @@
       {
         "start": "20:55",
         "end": "20:56"
+      },
+      {
+        "start": "21:25",
+        "end": "21:35"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 119.1
+        "minutes": 123.5
       },
       {
         "app": "chrome.exe",
-        "minutes": 44.1
+        "minutes": 46.0
       },
       {
         "app": "Code.exe",
@@ -69,15 +73,15 @@
       },
       {
         "app": "mmc.exe",
-        "minutes": 2.4
+        "minutes": 5.2
       },
       {
         "app": "cmd.exe",
-        "minutes": 1.4
+        "minutes": 1.5
       },
       {
         "app": "LockApp.exe",
-        "minutes": 1.2
+        "minutes": 1.4
       },
       {
         "app": "python.exe",
@@ -85,7 +89,7 @@
       },
       {
         "app": "PixPin.exe",
-        "minutes": 0.4
+        "minutes": 0.5
       },
       {
         "app": "ShellHost.exe",
@@ -103,11 +107,11 @@
     "sites": [
       {
         "site": "claude.ai",
-        "minutes": 9.2
+        "minutes": 11.0
       },
       {
         "site": "github.com",
-        "minutes": 2.2
+        "minutes": 2.6
       },
       {
         "site": "support.ariba.com",
