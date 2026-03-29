@@ -1,33 +1,59 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T07:00:10.179534+00:00",
+  "synced_at": "2026-03-29T07:49:38.195905+00:00",
   "computer": {
-    "active_minutes": 49.6,
-    "afk_minutes": 319.6,
+    "active_minutes": 73.9,
+    "afk_minutes": 360.0,
+    "active_intervals": [
+      {
+        "start": "10:44",
+        "end": "10:44"
+      },
+      {
+        "start": "10:44",
+        "end": "10:44"
+      },
+      {
+        "start": "11:03",
+        "end": "11:40"
+      },
+      {
+        "start": "11:52",
+        "end": "12:08"
+      },
+      {
+        "start": "13:17",
+        "end": "13:40"
+      },
+      {
+        "start": "15:14",
+        "end": "15:49"
+      }
+    ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 30.7
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 13.3
-      },
-      {
-        "app": "Weixin.exe",
-        "minutes": 10.3
+        "minutes": 37.9
       },
       {
         "app": "chrome.exe",
-        "minutes": 6.8
+        "minutes": 19.2
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 13.9
       },
       {
         "app": "Code.exe",
-        "minutes": 5.3
+        "minutes": 13.9
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 12.9
       },
       {
         "app": "mmc.exe",
-        "minutes": 1.5
+        "minutes": 2.4
       },
       {
         "app": "cmd.exe",
@@ -40,6 +66,10 @@
       {
         "app": "ShellHost.exe",
         "minutes": 0.3
+      },
+      {
+        "app": "PixPin.exe",
+        "minutes": 0.2
       },
       {
         "app": "WindowsTerminal.exe",
@@ -57,7 +87,11 @@
     "sites": [
       {
         "site": "claude.ai",
-        "minutes": 3.3
+        "minutes": 6.2
+      },
+      {
+        "site": "support.ariba.com",
+        "minutes": 2.1
       },
       {
         "site": "grok.com",
@@ -72,12 +106,16 @@
         "minutes": 1.2
       },
       {
-        "site": "support.ariba.com",
-        "minutes": 1.1
-      },
-      {
         "site": "help.sap.com",
         "minutes": 0.4
+      },
+      {
+        "site": "api.github.com",
+        "minutes": 0.3
+      },
+      {
+        "site": "127.0.0.1:8787",
+        "minutes": 0.2
       }
     ]
   }
