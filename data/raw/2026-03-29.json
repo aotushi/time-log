@@ -1,33 +1,33 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T04:00:10.082674+00:00",
+  "synced_at": "2026-03-29T05:00:10.093802+00:00",
   "computer": {
-    "active_minutes": 31.7,
-    "afk_minutes": 121.4,
+    "active_minutes": 37.5,
+    "afk_minutes": 179.2,
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 19.2
+        "minutes": 24.2
       },
       {
         "app": "explorer.exe",
-        "minutes": 10.5
+        "minutes": 13.3
       },
       {
         "app": "Code.exe",
         "minutes": 5.3
       },
       {
+        "app": "chrome.exe",
+        "minutes": 1.5
+      },
+      {
         "app": "mmc.exe",
         "minutes": 1.5
       },
       {
-        "app": "chrome.exe",
-        "minutes": 1.4
-      },
-      {
         "app": "cmd.exe",
-        "minutes": 0.8
+        "minutes": 1.2
       },
       {
         "app": "LockApp.exe",
@@ -39,6 +39,14 @@
       },
       {
         "app": "WindowsTerminal.exe",
+        "minutes": 0.2
+      },
+      {
+        "app": "python.exe",
+        "minutes": 0.2
+      },
+      {
+        "app": "eudic.exe",
         "minutes": 0.2
       }
     ],
@@ -57,7 +65,7 @@
       },
       {
         "site": "grok.com",
-        "minutes": 0.3
+        "minutes": 0.5
       }
     ]
   }
