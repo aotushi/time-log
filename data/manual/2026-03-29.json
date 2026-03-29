@@ -1,0 +1,17 @@
+{
+  "date": "2026-03-29",
+  "submitted_at": "2026-03-29T03:35:10.626Z",
+  "wake_time": "",
+  "sleep_time": "",
+  "activities": [
+    {
+      "name": "吃午饭",
+      "start": "12:17",
+      "end": "12:59",
+      "locked": false
+    }
+  ],
+  "focus_quality": 0,
+  "mood": "",
+  "tomorrow": ""
+}
