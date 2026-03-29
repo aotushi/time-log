@@ -1,15 +1,64 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T03:00:10.816937+00:00",
+  "synced_at": "2026-03-29T03:32:44.540056+00:00",
   "computer": {
-    "active_minutes": 0.5,
-    "afk_minutes": 43.5,
+    "active_minutes": 26.1,
+    "afk_minutes": 57.4,
     "apps": [
+      {
+        "app": "msedge.exe",
+        "minutes": 16.9
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 4.4
+      },
+      {
+        "app": "mmc.exe",
+        "minutes": 1.5
+      },
+      {
+        "app": "cmd.exe",
+        "minutes": 0.8
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 0.8
+      },
       {
         "app": "LockApp.exe",
         "minutes": 0.5
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 0.5
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 0.5
+      },
+      {
+        "app": "WindowsTerminal.exe",
+        "minutes": 0.2
       }
     ],
-    "sites": []
+    "sites": [
+      {
+        "site": "claude.ai",
+        "minutes": 2.0
+      },
+      {
+        "site": "github.com",
+        "minutes": 1.1
+      },
+      {
+        "site": "www.xiaohongshu.com",
+        "minutes": 1.1
+      },
+      {
+        "site": "grok.com",
+        "minutes": 0.3
+      }
+    ]
   }
 }
