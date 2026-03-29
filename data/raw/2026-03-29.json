@@ -1,8 +1,8 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T13:42:18.760070+00:00",
+  "synced_at": "2026-03-29T13:44:11.257298+00:00",
   "computer": {
-    "active_minutes": 212.1,
+    "active_minutes": 214.0,
     "afk_minutes": 575.3,
     "active_intervals": [
       {
@@ -47,13 +47,13 @@
       },
       {
         "start": "21:25",
-        "end": "21:42"
+        "end": "21:44"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 126.7
+        "minutes": 127.6
       },
       {
         "app": "chrome.exe",
@@ -73,7 +73,7 @@
       },
       {
         "app": "mmc.exe",
-        "minutes": 6.1
+        "minutes": 6.8
       },
       {
         "app": "cmd.exe",
@@ -85,7 +85,7 @@
       },
       {
         "app": "python.exe",
-        "minutes": 1.0
+        "minutes": 1.1
       },
       {
         "app": "PixPin.exe",
@@ -107,7 +107,7 @@
     "sites": [
       {
         "site": "claude.ai",
-        "minutes": 11.7
+        "minutes": 12.3
       },
       {
         "site": "github.com",
