@@ -1,10 +1,15 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T02:44:45.954813+00:00",
+  "synced_at": "2026-03-29T03:00:10.816937+00:00",
   "computer": {
-    "active_minutes": 0.0,
-    "afk_minutes": 0.0,
-    "apps": [],
+    "active_minutes": 0.5,
+    "afk_minutes": 43.5,
+    "apps": [
+      {
+        "app": "LockApp.exe",
+        "minutes": 0.5
+      }
+    ],
     "sites": []
   }
 }
