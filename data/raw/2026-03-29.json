@@ -1,25 +1,29 @@
 {
   "date": "2026-03-29",
-  "synced_at": "2026-03-29T05:00:10.093802+00:00",
+  "synced_at": "2026-03-29T06:00:10.117495+00:00",
   "computer": {
-    "active_minutes": 37.5,
-    "afk_minutes": 179.2,
+    "active_minutes": 49.6,
+    "afk_minutes": 259.6,
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 24.2
+        "minutes": 30.7
       },
       {
         "app": "explorer.exe",
         "minutes": 13.3
       },
       {
-        "app": "Code.exe",
-        "minutes": 5.3
+        "app": "Weixin.exe",
+        "minutes": 10.3
       },
       {
         "app": "chrome.exe",
-        "minutes": 1.5
+        "minutes": 6.8
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 5.3
       },
       {
         "app": "mmc.exe",
@@ -27,15 +31,15 @@
       },
       {
         "app": "cmd.exe",
-        "minutes": 1.2
+        "minutes": 1.4
       },
       {
         "app": "LockApp.exe",
         "minutes": 0.5
       },
       {
-        "app": "Weixin.exe",
-        "minutes": 0.5
+        "app": "ShellHost.exe",
+        "minutes": 0.3
       },
       {
         "app": "WindowsTerminal.exe",
@@ -53,19 +57,27 @@
     "sites": [
       {
         "site": "claude.ai",
-        "minutes": 2.6
+        "minutes": 3.3
       },
       {
-        "site": "www.xiaohongshu.com",
-        "minutes": 1.2
+        "site": "grok.com",
+        "minutes": 1.9
       },
       {
         "site": "github.com",
         "minutes": 1.2
       },
       {
-        "site": "grok.com",
-        "minutes": 0.5
+        "site": "www.xiaohongshu.com",
+        "minutes": 1.2
+      },
+      {
+        "site": "support.ariba.com",
+        "minutes": 1.1
+      },
+      {
+        "site": "help.sap.com",
+        "minutes": 0.4
       }
     ]
   }
