@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-30",
+  "synced_at": "2026-03-30T02:00:12.956532+00:00",
+  "computer": {
+    "active_minutes": 26.1,
+    "afk_minutes": 0.0,
+    "active_intervals": [
+      {
+        "start": "09:33",
+        "end": "09:59"
+      }
+    ],
+    "apps": [
+      {
+        "app": "chrome.exe",
+        "minutes": 13.1
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 2.7
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 2.7
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 2.0
+      },
+      {
+        "app": "ixBrowser.exe",
+        "minutes": 0.5
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 0.5
+      },
+      {
+        "app": "olk.exe",
+        "minutes": 0.3
+      }
+    ],
+    "sites": [
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 2.5
+      },
+      {
+        "site": "grok.com",
+        "minutes": 0.9
+      },
+      {
+        "site": "x.com",
+        "minutes": 0.5
+      }
+    ]
+  }
+}
