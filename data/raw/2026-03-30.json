@@ -1,8 +1,8 @@
 {
   "date": "2026-03-30",
-  "synced_at": "2026-03-30T09:00:10.588196+00:00",
+  "synced_at": "2026-03-30T10:00:10.398340+00:00",
   "computer": {
-    "active_minutes": 376.5,
+    "active_minutes": 436.3,
     "afk_minutes": 110.5,
     "active_intervals": [
       {
@@ -15,41 +15,41 @@
       },
       {
         "start": "12:57",
-        "end": "17:00"
+        "end": "17:59"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 152.8
+        "minutes": 182.0
       },
       {
         "app": "chrome.exe",
-        "minutes": 66.9
+        "minutes": 75.3
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 58.7
       },
       {
         "app": "LockApp.exe",
         "minutes": 57.6
       },
       {
-        "app": "Code.exe",
-        "minutes": 45.0
-      },
-      {
         "app": "firefox.exe",
-        "minutes": 18.9
+        "minutes": 19.0
       },
       {
         "app": "explorer.exe",
-        "minutes": 14.8
+        "minutes": 16.7
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 12.1
+        "minutes": 14.1
       },
       {
         "app": "Weixin.exe",
-        "minutes": 11.8
+        "minutes": 11.9
       },
       {
         "app": "Feishu.exe",
@@ -68,15 +68,15 @@
         "minutes": 1.1
       },
       {
+        "app": "eudic.exe",
+        "minutes": 0.9
+      },
+      {
         "app": "mintty.exe",
         "minutes": 0.9
       },
       {
         "app": "olk.exe",
-        "minutes": 0.8
-      },
-      {
-        "app": "eudic.exe",
         "minutes": 0.8
       },
       {
@@ -99,7 +99,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 17.4
+        "minutes": 18.8
       },
       {
         "site": "blog.cmliussss.com",
@@ -110,6 +110,10 @@
         "minutes": 8.4
       },
       {
+        "site": "chatgpt.com",
+        "minutes": 6.6
+      },
+      {
         "site": "github.com",
         "minutes": 5.4
       },
@@ -118,16 +122,16 @@
         "minutes": 4.8
       },
       {
-        "site": "chatgpt.com",
-        "minutes": 4.7
+        "site": "x.com",
+        "minutes": 3.5
       },
       {
         "site": "grok.com",
-        "minutes": 3.3
+        "minutes": 3.5
       },
       {
-        "site": "x.com",
-        "minutes": 3.0
+        "site": "docs.qq.com",
+        "minutes": 3.2
       },
       {
         "site": "www.baota.me",
@@ -138,8 +142,8 @@
         "minutes": 2.4
       },
       {
-        "site": "docs.qq.com",
-        "minutes": 2.3
+        "site": "www.xiaohongshu.com",
+        "minutes": 1.8
       },
       {
         "site": "awwoe.top",
@@ -147,10 +151,6 @@
       },
       {
         "site": "www.boce.com",
-        "minutes": 1.1
-      },
-      {
-        "site": "www.xiaohongshu.com",
         "minutes": 1.1
       },
       {
@@ -172,6 +172,10 @@
       {
         "site": "claude.ai",
         "minutes": 0.5
+      },
+      {
+        "site": "goshipfast.com",
+        "minutes": 0.4
       },
       {
         "site": "www.spaceship.com",
