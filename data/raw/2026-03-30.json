@@ -1,35 +1,51 @@
 {
   "date": "2026-03-30",
-  "synced_at": "2026-03-30T03:00:12.545430+00:00",
+  "synced_at": "2026-03-30T05:00:10.086031+00:00",
   "computer": {
-    "active_minutes": 81.6,
-    "afk_minutes": 8.0,
+    "active_minutes": 136.4,
+    "afk_minutes": 110.5,
     "active_intervals": [
       {
         "start": "09:33",
-        "end": "11:00"
+        "end": "11:51"
+      },
+      {
+        "start": "11:51",
+        "end": "12:48"
+      },
+      {
+        "start": "12:57",
+        "end": "12:59"
       }
     ],
     "apps": [
       {
-        "app": "Code.exe",
-        "minutes": 25.7
-      },
-      {
-        "app": "chrome.exe",
-        "minutes": 23.1
-      },
-      {
         "app": "msedge.exe",
-        "minutes": 17.7
+        "minutes": 61.6
       },
       {
         "app": "LockApp.exe",
-        "minutes": 2.0
+        "minutes": 49.7
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 31.0
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 29.9
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 2.2
       },
       {
         "app": "SourceTree.exe",
         "minutes": 1.9
+      },
+      {
+        "app": "Telegram.exe",
+        "minutes": 1.7
       },
       {
         "app": "firefox.exe",
@@ -37,11 +53,11 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 1.2
+        "minutes": 1.3
       },
       {
-        "app": "Weixin.exe",
-        "minutes": 0.9
+        "app": "eudic.exe",
+        "minutes": 0.8
       },
       {
         "app": "ixBrowser.exe",
@@ -56,10 +72,6 @@
         "minutes": 0.3
       },
       {
-        "app": "eudic.exe",
-        "minutes": 0.3
-      },
-      {
         "app": "mintty.exe",
         "minutes": 0.2
       },
@@ -71,11 +83,23 @@
     "sites": [
       {
         "site": "weijukeji.feishu.cn",
+        "minutes": 4.8
+      },
+      {
+        "site": "chatgpt.com",
         "minutes": 4.6
       },
       {
         "site": "github.com",
-        "minutes": 2.5
+        "minutes": 3.7
+      },
+      {
+        "site": "x.com",
+        "minutes": 3.0
+      },
+      {
+        "site": "weibo.com",
+        "minutes": 2.4
       },
       {
         "site": "dash.cloudflare.com",
@@ -90,8 +114,24 @@
         "minutes": 0.9
       },
       {
-        "site": "x.com",
-        "minutes": 0.6
+        "site": "open.larksuite.com",
+        "minutes": 0.7
+      },
+      {
+        "site": "www.google.com",
+        "minutes": 0.4
+      },
+      {
+        "site": "claude.ai",
+        "minutes": 0.3
+      },
+      {
+        "site": "gemini.google.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "zhuanlan.zhihu.com",
+        "minutes": 0.2
       },
       {
         "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
