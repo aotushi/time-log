@@ -1,8 +1,8 @@
 {
   "date": "2026-03-30",
-  "synced_at": "2026-03-30T10:00:10.398340+00:00",
+  "synced_at": "2026-03-30T11:00:10.431954+00:00",
   "computer": {
-    "active_minutes": 436.3,
+    "active_minutes": 496.5,
     "afk_minutes": 110.5,
     "active_intervals": [
       {
@@ -15,21 +15,21 @@
       },
       {
         "start": "12:57",
-        "end": "17:59"
+        "end": "18:59"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 182.0
+        "minutes": 190.9
       },
       {
         "app": "chrome.exe",
-        "minutes": 75.3
+        "minutes": 86.5
       },
       {
         "app": "Code.exe",
-        "minutes": 58.7
+        "minutes": 72.7
       },
       {
         "app": "LockApp.exe",
@@ -37,19 +37,19 @@
       },
       {
         "app": "firefox.exe",
-        "minutes": 19.0
+        "minutes": 23.1
       },
       {
         "app": "explorer.exe",
-        "minutes": 16.7
+        "minutes": 20.2
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 14.1
+        "minutes": 16.9
       },
       {
         "app": "Weixin.exe",
-        "minutes": 11.9
+        "minutes": 16.6
       },
       {
         "app": "Feishu.exe",
@@ -64,16 +64,16 @@
         "minutes": 2.0
       },
       {
+        "app": "mintty.exe",
+        "minutes": 2.0
+      },
+      {
         "app": "clash-verge.exe",
         "minutes": 1.1
       },
       {
         "app": "eudic.exe",
-        "minutes": 0.9
-      },
-      {
-        "app": "mintty.exe",
-        "minutes": 0.9
+        "minutes": 1.0
       },
       {
         "app": "olk.exe",
@@ -88,6 +88,10 @@
         "minutes": 0.5
       },
       {
+        "app": "WindowsTerminal.exe",
+        "minutes": 0.3
+      },
+      {
         "app": "SearchHost.exe",
         "minutes": 0.2
       },
@@ -99,7 +103,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 18.8
+        "minutes": 22.5
       },
       {
         "site": "blog.cmliussss.com",
@@ -107,31 +111,31 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 8.4
+        "minutes": 8.8
+      },
+      {
+        "site": "github.com",
+        "minutes": 7.0
       },
       {
         "site": "chatgpt.com",
         "minutes": 6.6
       },
       {
-        "site": "github.com",
-        "minutes": 5.4
-      },
-      {
         "site": "console-intl.huaweicloud.com",
         "minutes": 4.8
       },
       {
-        "site": "x.com",
-        "minutes": 3.5
+        "site": "docs.qq.com",
+        "minutes": 4.0
       },
       {
         "site": "grok.com",
-        "minutes": 3.5
+        "minutes": 3.7
       },
       {
-        "site": "docs.qq.com",
-        "minutes": 3.2
+        "site": "x.com",
+        "minutes": 3.6
       },
       {
         "site": "www.baota.me",
@@ -154,11 +158,23 @@
         "minutes": 1.1
       },
       {
+        "site": "claude.ai",
+        "minutes": 0.9
+      },
+      {
         "site": "open.larksuite.com",
         "minutes": 0.7
       },
       {
         "site": "www.xingpingcn.top",
+        "minutes": 0.7
+      },
+      {
+        "site": "okspin.9shi.cc",
+        "minutes": 0.7
+      },
+      {
+        "site": "goshipfast.com",
         "minutes": 0.7
       },
       {
@@ -170,19 +186,19 @@
         "minutes": 0.5
       },
       {
-        "site": "claude.ai",
-        "minutes": 0.5
-      },
-      {
-        "site": "goshipfast.com",
-        "minutes": 0.4
-      },
-      {
         "site": "www.spaceship.com",
         "minutes": 0.3
       },
       {
         "site": "gemini.google.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "localhost:37777",
+        "minutes": 0.2
+      },
+      {
+        "site": "xingpingcn.top",
         "minutes": 0.2
       },
       {
