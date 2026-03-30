@@ -1,8 +1,8 @@
 {
   "date": "2026-03-30",
-  "synced_at": "2026-03-30T07:00:10.065898+00:00",
+  "synced_at": "2026-03-30T08:00:10.533376+00:00",
   "computer": {
-    "active_minutes": 256.5,
+    "active_minutes": 316.2,
     "afk_minutes": 110.5,
     "active_intervals": [
       {
@@ -15,41 +15,45 @@
       },
       {
         "start": "12:57",
-        "end": "15:00"
+        "end": "15:59"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 104.6
+        "minutes": 120.3
       },
       {
         "app": "LockApp.exe",
-        "minutes": 55.0
+        "minutes": 57.6
       },
       {
         "app": "chrome.exe",
-        "minutes": 47.9
+        "minutes": 57.1
       },
       {
         "app": "Code.exe",
-        "minutes": 44.7
+        "minutes": 44.8
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 12.8
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 12.3
       },
       {
         "app": "SourceTree.exe",
         "minutes": 12.1
       },
       {
-        "app": "firefox.exe",
-        "minutes": 10.7
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 5.4
-      },
-      {
         "app": "Weixin.exe",
-        "minutes": 2.6
+        "minutes": 11.0
+      },
+      {
+        "app": "Feishu.exe",
+        "minutes": 10.4
       },
       {
         "app": "Telegram.exe",
@@ -64,11 +68,11 @@
         "minutes": 0.9
       },
       {
-        "app": "eudic.exe",
+        "app": "olk.exe",
         "minutes": 0.8
       },
       {
-        "app": "olk.exe",
+        "app": "eudic.exe",
         "minutes": 0.8
       },
       {
@@ -80,50 +84,50 @@
         "minutes": 0.4
       },
       {
-        "app": "ShellHost.exe",
+        "app": "SearchHost.exe",
         "minutes": 0.2
       },
       {
-        "app": "SearchHost.exe",
+        "app": "ShellHost.exe",
         "minutes": 0.2
       }
     ],
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 9.2
+        "minutes": 10.8
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 7.0
+        "minutes": 8.4
+      },
+      {
+        "site": "blog.cmliussss.com",
+        "minutes": 5.6
       },
       {
         "site": "github.com",
-        "minutes": 4.9
+        "minutes": 5.1
       },
       {
         "site": "chatgpt.com",
         "minutes": 4.7
       },
       {
-        "site": "blog.cmliussss.com",
-        "minutes": 4.6
+        "site": "grok.com",
+        "minutes": 3.1
       },
       {
         "site": "x.com",
         "minutes": 3.0
       },
       {
+        "site": "www.baota.me",
+        "minutes": 2.6
+      },
+      {
         "site": "weibo.com",
         "minutes": 2.4
-      },
-      {
-        "site": "grok.com",
-        "minutes": 2.2
-      },
-      {
-        "site": "www.baota.me",
-        "minutes": 1.4
       },
       {
         "site": "docs.qq.com",
@@ -135,7 +139,7 @@
       },
       {
         "site": "awwoe.top",
-        "minutes": 0.9
+        "minutes": 1.0
       },
       {
         "site": "open.larksuite.com",
@@ -143,6 +147,10 @@
       },
       {
         "site": "www.boce.com",
+        "minutes": 0.7
+      },
+      {
+        "site": "console-intl.huaweicloud.com",
         "minutes": 0.7
       },
       {
