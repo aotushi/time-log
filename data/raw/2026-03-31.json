@@ -1,9 +1,9 @@
 {
   "date": "2026-03-31",
-  "synced_at": "2026-03-31T10:00:12.208685+00:00",
+  "synced_at": "2026-03-31T11:00:11.826652+00:00",
   "computer": {
-    "active_minutes": 434.6,
-    "afk_minutes": 688.9,
+    "active_minutes": 491.3,
+    "afk_minutes": 692.1,
     "active_intervals": [
       {
         "start": "09:32",
@@ -23,21 +23,21 @@
       },
       {
         "start": "13:00",
-        "end": "18:00"
+        "end": "18:59"
       }
     ],
     "apps": [
       {
         "app": "Code.exe",
-        "minutes": 156.3
+        "minutes": 168.7
       },
       {
         "app": "chrome.exe",
-        "minutes": 153.0
+        "minutes": 155.9
       },
       {
         "app": "msedge.exe",
-        "minutes": 132.6
+        "minutes": 145.7
       },
       {
         "app": "LockApp.exe",
@@ -56,12 +56,20 @@
         "minutes": 20.2
       },
       {
+        "app": "claude.exe",
+        "minutes": 18.8
+      },
+      {
         "app": "explorer.exe",
-        "minutes": 13.8
+        "minutes": 14.0
       },
       {
         "app": "Weixin.exe",
-        "minutes": 9.0
+        "minutes": 9.6
+      },
+      {
+        "app": "Typora.exe",
+        "minutes": 8.9
       },
       {
         "app": "Antigravity.exe",
@@ -109,13 +117,13 @@
       },
       {
         "app": "eudic.exe",
-        "minutes": 0.3
+        "minutes": 0.4
       }
     ],
     "sites": [
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 29.6
+        "minutes": 30.2
       },
       {
         "site": "dash.cloudflare.com",
@@ -143,7 +151,7 @@
       },
       {
         "site": "www.google.com",
-        "minutes": 2.3
+        "minutes": 2.4
       },
       {
         "site": "developers.google.com",
@@ -162,12 +170,20 @@
         "minutes": 1.2
       },
       {
+        "site": "status.claude.com",
+        "minutes": 1.1
+      },
+      {
         "site": "poixe.com",
         "minutes": 1.1
       },
       {
-        "site": "status.claude.com",
+        "site": "anthropic.skilljar.com",
         "minutes": 1.1
+      },
+      {
+        "site": "aiicon.etxgy.com",
+        "minutes": 0.9
       },
       {
         "site": "code.claude.com",
@@ -199,6 +215,10 @@
       },
       {
         "site": "demo.tinyship.cn",
+        "minutes": 0.2
+      },
+      {
+        "site": "www.anthropic.com",
         "minutes": 0.2
       },
       {
