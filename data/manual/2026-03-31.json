@@ -1,0 +1,23 @@
+{
+  "date": "2026-03-31",
+  "submitted_at": "2026-03-31T01:48:18.880Z",
+  "wake_time": "",
+  "sleep_time": "",
+  "activities": [
+    {
+      "name": "早饭",
+      "start": "07:06",
+      "end": "07:40",
+      "locked": false
+    },
+    {
+      "name": "交通",
+      "start": "07:46",
+      "end": "09:23",
+      "locked": false
+    }
+  ],
+  "focus_quality": 0,
+  "mood": "",
+  "tomorrow": ""
+}
