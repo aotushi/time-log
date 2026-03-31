@@ -1,8 +1,8 @@
 {
   "date": "2026-03-31",
-  "synced_at": "2026-03-31T05:00:41.737707+00:00",
+  "synced_at": "2026-03-31T06:00:16.103640+00:00",
   "computer": {
-    "active_minutes": 144.0,
+    "active_minutes": 206.1,
     "afk_minutes": 656.6,
     "active_intervals": [
       {
@@ -16,36 +16,48 @@
       {
         "start": "11:36",
         "end": "12:39"
+      },
+      {
+        "start": "13:00",
+        "end": "13:59"
+      },
+      {
+        "start": "13:00",
+        "end": "13:03"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 81.3
+        "minutes": 94.6
       },
       {
         "app": "Code.exe",
-        "minutes": 62.4
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 43.0
+        "minutes": 75.7
       },
       {
         "app": "msedge.exe",
-        "minutes": 40.1
+        "minutes": 49.9
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 47.3
       },
       {
         "app": "firefox.exe",
         "minutes": 15.0
       },
       {
+        "app": "SunBrowser.exe",
+        "minutes": 11.7
+      },
+      {
         "app": "SourceTree.exe",
-        "minutes": 9.1
+        "minutes": 10.6
       },
       {
         "app": "explorer.exe",
-        "minutes": 7.9
+        "minutes": 8.8
       },
       {
         "app": "Weixin.exe",
@@ -84,18 +96,22 @@
         "minutes": 0.5
       },
       {
+        "app": "AdsPower Global.exe",
+        "minutes": 0.4
+      },
+      {
         "app": "WindowsTerminal.exe",
         "minutes": 0.4
       }
     ],
     "sites": [
       {
-        "site": "dash.cloudflare.com",
-        "minutes": 14.7
+        "site": "weijukeji.feishu.cn",
+        "minutes": 18.2
       },
       {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 11.2
+        "site": "dash.cloudflare.com",
+        "minutes": 14.7
       },
       {
         "site": "grok.com",
@@ -103,11 +119,11 @@
       },
       {
         "site": "chatgpt.com",
-        "minutes": 2.3
+        "minutes": 2.4
       },
       {
         "site": "github.com",
-        "minutes": 2.1
+        "minutes": 2.2
       },
       {
         "site": "developers.google.com",
@@ -115,10 +131,14 @@
       },
       {
         "site": "localhost:37777",
-        "minutes": 0.9
+        "minutes": 1.2
       },
       {
         "site": "x.com",
+        "minutes": 0.9
+      },
+      {
+        "site": "docs.qq.com",
         "minutes": 0.6
       },
       {
