@@ -1,8 +1,8 @@
 {
   "date": "2026-04-01",
-  "synced_at": "2026-04-01T06:00:11.220735+00:00",
+  "synced_at": "2026-04-01T07:00:10.617436+00:00",
   "computer": {
-    "active_minutes": 238.6,
+    "active_minutes": 298.6,
     "afk_minutes": 659.9,
     "active_intervals": [
       {
@@ -15,25 +15,25 @@
       },
       {
         "start": "12:10",
-        "end": "14:00"
+        "end": "15:00"
       }
     ],
     "apps": [
       {
         "app": "Code.exe",
-        "minutes": 62.7
-      },
-      {
-        "app": "chrome.exe",
-        "minutes": 40.9
-      },
-      {
-        "app": "msedge.exe",
-        "minutes": 38.2
+        "minutes": 70.1
       },
       {
         "app": "claude.exe",
-        "minutes": 35.1
+        "minutes": 60.6
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 53.4
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 41.8
       },
       {
         "app": "Typora.exe",
@@ -41,27 +41,27 @@
       },
       {
         "app": "LockApp.exe",
-        "minutes": 9.6
+        "minutes": 12.3
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 11.0
       },
       {
         "app": "SourceTree.exe",
         "minutes": 8.2
       },
       {
-        "app": "Weixin.exe",
-        "minutes": 7.3
-      },
-      {
         "app": "explorer.exe",
-        "minutes": 6.1
+        "minutes": 6.7
       },
       {
         "app": "firefox.exe",
-        "minutes": 5.4
+        "minutes": 5.7
       },
       {
         "app": "WeChatAppEx.exe",
-        "minutes": 4.5
+        "minutes": 4.8
       },
       {
         "app": "Antigravity.exe",
@@ -87,7 +87,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 4.0
+        "minutes": 4.3
       },
       {
         "site": "github.com",
@@ -95,19 +95,19 @@
       },
       {
         "site": "x.com",
-        "minutes": 2.1
+        "minutes": 3.2
       },
       {
         "site": "www.xiaohongshu.com",
         "minutes": 1.9
       },
       {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 1.3
+        "site": "ogjibjphoadhljaoicdnjnmgokohngcc",
+        "minutes": 1.4
       },
       {
-        "site": "ogjibjphoadhljaoicdnjnmgokohngcc",
-        "minutes": 0.9
+        "site": "weijukeji.feishu.cn",
+        "minutes": 1.3
       },
       {
         "site": "time-log-form.nullsh.workers.dev",
