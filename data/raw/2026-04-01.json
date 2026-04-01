@@ -1,9 +1,9 @@
 {
   "date": "2026-04-01",
-  "synced_at": "2026-04-01T07:00:10.617436+00:00",
+  "synced_at": "2026-04-01T08:00:10.289457+00:00",
   "computer": {
-    "active_minutes": 298.6,
-    "afk_minutes": 659.9,
+    "active_minutes": 355.1,
+    "afk_minutes": 663.2,
     "active_intervals": [
       {
         "start": "09:19",
@@ -15,25 +15,25 @@
       },
       {
         "start": "12:10",
-        "end": "15:00"
+        "end": "15:59"
       }
     ],
     "apps": [
       {
-        "app": "Code.exe",
-        "minutes": 70.1
+        "app": "claude.exe",
+        "minutes": 87.6
       },
       {
-        "app": "claude.exe",
-        "minutes": 60.6
+        "app": "Code.exe",
+        "minutes": 77.0
       },
       {
         "app": "msedge.exe",
-        "minutes": 53.4
+        "minutes": 63.9
       },
       {
         "app": "chrome.exe",
-        "minutes": 41.8
+        "minutes": 47.3
       },
       {
         "app": "Typora.exe",
@@ -41,11 +41,11 @@
       },
       {
         "app": "LockApp.exe",
-        "minutes": 12.3
+        "minutes": 15.7
       },
       {
         "app": "Weixin.exe",
-        "minutes": 11.0
+        "minutes": 13.3
       },
       {
         "app": "SourceTree.exe",
@@ -53,7 +53,7 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 6.7
+        "minutes": 8.1
       },
       {
         "app": "firefox.exe",
@@ -80,6 +80,10 @@
         "minutes": 0.3
       },
       {
+        "app": "WindowsTerminal.exe",
+        "minutes": 0.2
+      },
+      {
         "app": "SearchHost.exe",
         "minutes": 0.2
       }
@@ -99,11 +103,11 @@
       },
       {
         "site": "www.xiaohongshu.com",
-        "minutes": 1.9
+        "minutes": 2.6
       },
       {
         "site": "ogjibjphoadhljaoicdnjnmgokohngcc",
-        "minutes": 1.4
+        "minutes": 1.6
       },
       {
         "site": "weijukeji.feishu.cn",
