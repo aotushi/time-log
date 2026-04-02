@@ -1,8 +1,8 @@
 {
   "date": "2026-04-02",
-  "synced_at": "2026-04-02T07:00:10.324701+00:00",
+  "synced_at": "2026-04-02T08:00:15.254476+00:00",
   "computer": {
-    "active_minutes": 241.1,
+    "active_minutes": 301.1,
     "afk_minutes": 887.9,
     "active_intervals": [
       {
@@ -43,41 +43,45 @@
       },
       {
         "start": "13:54",
-        "end": "15:00"
+        "end": "16:00"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 91.0
-      },
-      {
-        "app": "chrome.exe",
-        "minutes": 55.2
+        "minutes": 98.4
       },
       {
         "app": "Code.exe",
-        "minutes": 49.1
+        "minutes": 67.8
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 64.7
       },
       {
         "app": "Weixin.exe",
-        "minutes": 34.4
+        "minutes": 40.6
       },
       {
         "app": "LockApp.exe",
-        "minutes": 15.2
-      },
-      {
-        "app": "SunBrowser.exe",
-        "minutes": 14.7
+        "minutes": 17.9
       },
       {
         "app": "firefox.exe",
-        "minutes": 11.8
+        "minutes": 14.9
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 14.8
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 7.2
+        "minutes": 7.3
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 4.4
       },
       {
         "app": "SourceTree.exe",
@@ -88,12 +92,12 @@
         "minutes": 1.8
       },
       {
-        "app": "explorer.exe",
-        "minutes": 1.6
-      },
-      {
         "app": "PixPin.exe",
         "minutes": 1.5
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 1.0
       },
       {
         "app": "Cherry Studio.exe",
@@ -104,15 +108,15 @@
         "minutes": 0.7
       },
       {
+        "app": "olk.exe",
+        "minutes": 0.6
+      },
+      {
         "app": "1Password.exe",
         "minutes": 0.6
       },
       {
         "app": "WeChatAppEx.exe",
-        "minutes": 0.4
-      },
-      {
-        "app": "olk.exe",
         "minutes": 0.4
       },
       {
@@ -123,15 +127,15 @@
     "sites": [
       {
         "site": "x.com",
-        "minutes": 13.5
+        "minutes": 14.3
       },
       {
         "site": "dash.cloudflare.com",
-        "minutes": 11.2
+        "minutes": 14.3
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 4.2
+        "minutes": 4.6
       },
       {
         "site": "hongmacc.com",
@@ -142,12 +146,12 @@
         "minutes": 2.4
       },
       {
-        "site": "developers.openai.com",
-        "minutes": 2.0
+        "site": "grok.com",
+        "minutes": 2.3
       },
       {
-        "site": "grok.com",
-        "minutes": 1.4
+        "site": "developers.openai.com",
+        "minutes": 2.0
       },
       {
         "site": "my.feishu.cn",
@@ -155,7 +159,7 @@
       },
       {
         "site": "lookup.icann.org",
-        "minutes": 0.8
+        "minutes": 1.0
       },
       {
         "site": "claude.ai",
@@ -170,19 +174,19 @@
         "minutes": 0.6
       },
       {
+        "site": "code.claude.com",
+        "minutes": 0.4
+      },
+      {
         "site": "dragoncode.codes",
         "minutes": 0.3
       },
       {
-        "site": "code.claude.com",
+        "site": "github.com",
         "minutes": 0.3
       },
       {
         "site": "claude.com",
-        "minutes": 0.3
-      },
-      {
-        "site": "github.com",
         "minutes": 0.3
       }
     ]
