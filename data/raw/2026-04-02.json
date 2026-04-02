@@ -1,9 +1,9 @@
 {
   "date": "2026-04-02",
-  "synced_at": "2026-04-02T09:00:10.709352+00:00",
+  "synced_at": "2026-04-02T10:00:10.785793+00:00",
   "computer": {
-    "active_minutes": 357.8,
-    "afk_minutes": 891.0,
+    "active_minutes": 413.8,
+    "afk_minutes": 901.9,
     "active_intervals": [
       {
         "start": "09:31",
@@ -43,45 +43,45 @@
       },
       {
         "start": "13:54",
-        "end": "16:59"
+        "end": "17:59"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 103.7
-      },
-      {
-        "app": "Code.exe",
-        "minutes": 77.0
+        "minutes": 105.4
       },
       {
         "app": "chrome.exe",
-        "minutes": 73.9
+        "minutes": 81.3
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 81.2
       },
       {
         "app": "Weixin.exe",
-        "minutes": 45.8
-      },
-      {
-        "app": "SunBrowser.exe",
-        "minutes": 18.0
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 17.9
+        "minutes": 50.9
       },
       {
         "app": "firefox.exe",
-        "minutes": 17.1
+        "minutes": 31.8
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 23.5
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 20.5
       },
       {
         "app": "claude.exe",
-        "minutes": 11.3
+        "minutes": 18.6
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 8.1
+        "minutes": 8.9
       },
       {
         "app": "AdsPower Global.exe",
@@ -89,7 +89,7 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 4.8
+        "minutes": 7.1
       },
       {
         "app": "Feishu.exe",
@@ -97,7 +97,11 @@
       },
       {
         "app": "PixPin.exe",
-        "minutes": 1.6
+        "minutes": 1.7
+      },
+      {
+        "app": "FSCapture.exe",
+        "minutes": 1.1
       },
       {
         "app": "Cherry Studio.exe",
@@ -120,10 +124,6 @@
         "minutes": 0.4
       },
       {
-        "app": "FSCapture.exe",
-        "minutes": 0.4
-      },
-      {
         "app": "WindowsTerminal.exe",
         "minutes": 0.3
       },
@@ -139,15 +139,23 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 16.4
+        "minutes": 18.2
       },
       {
         "site": "x.com",
         "minutes": 14.8
       },
       {
+        "site": "github.com",
+        "minutes": 13.3
+      },
+      {
         "site": "weijukeji.feishu.cn",
         "minutes": 4.7
+      },
+      {
+        "site": "grok.com",
+        "minutes": 3.3
       },
       {
         "site": "hongmacc.com",
@@ -156,10 +164,6 @@
       {
         "site": "www.leads-sniper.com",
         "minutes": 2.4
-      },
-      {
-        "site": "grok.com",
-        "minutes": 2.3
       },
       {
         "site": "developers.openai.com",
@@ -191,10 +195,6 @@
       },
       {
         "site": "dragoncode.codes",
-        "minutes": 0.3
-      },
-      {
-        "site": "github.com",
         "minutes": 0.3
       },
       {
