@@ -1,39 +1,83 @@
 {
   "date": "2026-04-02",
-  "synced_at": "2026-04-02T03:00:12.909652+00:00",
+  "synced_at": "2026-04-02T05:00:10.059458+00:00",
   "computer": {
-    "active_minutes": 72.0,
-    "afk_minutes": 612.3,
+    "active_minutes": 137.8,
+    "afk_minutes": 847.7,
     "active_intervals": [
       {
         "start": "09:31",
-        "end": "10:59"
+        "end": "11:33"
+      },
+      {
+        "start": "11:18",
+        "end": "11:21"
+      },
+      {
+        "start": "11:18",
+        "end": "11:21"
+      },
+      {
+        "start": "11:18",
+        "end": "11:37"
+      },
+      {
+        "start": "11:37",
+        "end": "11:37"
+      },
+      {
+        "start": "12:14",
+        "end": "12:38"
+      },
+      {
+        "start": "12:33",
+        "end": "12:49"
+      },
+      {
+        "start": "12:44",
+        "end": "12:47"
+      },
+      {
+        "start": "12:44",
+        "end": "12:59"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 27.6
+        "minutes": 80.2
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 33.1
       },
       {
         "app": "chrome.exe",
         "minutes": 25.7
       },
       {
-        "app": "Code.exe",
-        "minutes": 12.5
+        "app": "LockApp.exe",
+        "minutes": 15.2
       },
       {
         "app": "Weixin.exe",
-        "minutes": 7.7
+        "minutes": 14.1
       },
       {
         "app": "firefox.exe",
-        "minutes": 2.3
+        "minutes": 6.8
       },
       {
         "app": "Feishu.exe",
         "minutes": 1.8
+      },
+      {
+        "app": "PixPin.exe",
+        "minutes": 1.2
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 1.1
       },
       {
         "app": "Cherry Studio.exe",
@@ -44,11 +88,23 @@
         "minutes": 0.7
       },
       {
-        "app": "explorer.exe",
-        "minutes": 0.7
+        "app": "1Password.exe",
+        "minutes": 0.6
+      },
+      {
+        "app": "WeChatAppEx.exe",
+        "minutes": 0.4
       }
     ],
     "sites": [
+      {
+        "site": "x.com",
+        "minutes": 13.1
+      },
+      {
+        "site": "dash.cloudflare.com",
+        "minutes": 6.8
+      },
       {
         "site": "weijukeji.feishu.cn",
         "minutes": 3.0
@@ -58,20 +114,16 @@
         "minutes": 3.0
       },
       {
-        "site": "x.com",
+        "site": "www.leads-sniper.com",
         "minutes": 2.4
       },
       {
-        "site": "dash.cloudflare.com",
-        "minutes": 2.3
-      },
-      {
-        "site": "www.leads-sniper.com",
+        "site": "developers.openai.com",
         "minutes": 2.0
       },
       {
         "site": "my.feishu.cn",
-        "minutes": 1.0
+        "minutes": 1.1
       },
       {
         "site": "grok.com",
