@@ -1,9 +1,9 @@
 {
   "date": "2026-04-02",
-  "synced_at": "2026-04-02T06:00:10.395160+00:00",
+  "synced_at": "2026-04-02T07:00:10.324701+00:00",
   "computer": {
-    "active_minutes": 187.1,
-    "afk_minutes": 868.4,
+    "active_minutes": 241.1,
+    "afk_minutes": 887.9,
     "active_intervals": [
       {
         "start": "09:31",
@@ -43,25 +43,25 @@
       },
       {
         "start": "13:54",
-        "end": "13:57"
+        "end": "15:00"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 83.6
+        "minutes": 91.0
       },
       {
         "app": "chrome.exe",
-        "minutes": 40.0
+        "minutes": 55.2
       },
       {
         "app": "Code.exe",
-        "minutes": 33.1
+        "minutes": 49.1
       },
       {
         "app": "Weixin.exe",
-        "minutes": 22.0
+        "minutes": 34.4
       },
       {
         "app": "LockApp.exe",
@@ -73,11 +73,15 @@
       },
       {
         "app": "firefox.exe",
-        "minutes": 9.3
+        "minutes": 11.8
       },
       {
         "app": "AdsPower Global.exe",
         "minutes": 7.2
+      },
+      {
+        "app": "SourceTree.exe",
+        "minutes": 2.4
       },
       {
         "app": "Feishu.exe",
@@ -85,11 +89,11 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 1.3
+        "minutes": 1.6
       },
       {
         "app": "PixPin.exe",
-        "minutes": 1.3
+        "minutes": 1.5
       },
       {
         "app": "Cherry Studio.exe",
@@ -108,6 +112,10 @@
         "minutes": 0.4
       },
       {
+        "app": "olk.exe",
+        "minutes": 0.4
+      },
+      {
         "app": "clash-verge.exe",
         "minutes": 0.2
       }
@@ -119,15 +127,15 @@
       },
       {
         "site": "dash.cloudflare.com",
-        "minutes": 9.3
+        "minutes": 11.2
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 4.2
       },
       {
         "site": "hongmacc.com",
         "minutes": 3.1
-      },
-      {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 3.0
       },
       {
         "site": "www.leads-sniper.com",
@@ -138,16 +146,28 @@
         "minutes": 2.0
       },
       {
+        "site": "grok.com",
+        "minutes": 1.4
+      },
+      {
         "site": "my.feishu.cn",
         "minutes": 1.1
       },
       {
-        "site": "grok.com",
-        "minutes": 1.0
+        "site": "lookup.icann.org",
+        "minutes": 0.8
       },
       {
         "site": "claude.ai",
         "minutes": 0.8
+      },
+      {
+        "site": "www.juming.com",
+        "minutes": 0.7
+      },
+      {
+        "site": "hcqsx.com",
+        "minutes": 0.6
       },
       {
         "site": "dragoncode.codes",
@@ -159,6 +179,10 @@
       },
       {
         "site": "claude.com",
+        "minutes": 0.3
+      },
+      {
+        "site": "github.com",
         "minutes": 0.3
       }
     ]
