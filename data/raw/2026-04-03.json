@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-03",
+  "synced_at": "2026-04-03T02:00:10.113333+00:00",
+  "computer": {
+    "active_minutes": 24.2,
+    "afk_minutes": 600.0,
+    "active_intervals": [
+      {
+        "start": "09:26",
+        "end": "09:32"
+      },
+      {
+        "start": "09:32",
+        "end": "09:32"
+      },
+      {
+        "start": "09:32",
+        "end": "09:32"
+      },
+      {
+        "start": "09:36",
+        "end": "09:59"
+      }
+    ],
+    "apps": [
+      {
+        "app": "msedge.exe",
+        "minutes": 9.2
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 5.3
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 5.1
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 3.4
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 1.9
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 0.3
+      }
+    ],
+    "sites": [
+      {
+        "site": "dash.cloudflare.com",
+        "minutes": 3.4
+      },
+      {
+        "site": "x.com",
+        "minutes": 1.9
+      },
+      {
+        "site": "lookup.icann.org",
+        "minutes": 1.5
+      },
+      {
+        "site": "grok.com",
+        "minutes": 0.7
+      },
+      {
+        "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
+        "minutes": 0.5
+      },
+      {
+        "site": "www.juming.com",
+        "minutes": 0.4
+      },
+      {
+        "site": "chatgpt.com",
+        "minutes": 0.2
+      }
+    ]
+  }
+}
