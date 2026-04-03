@@ -1,8 +1,8 @@
 {
   "date": "2026-04-03",
-  "synced_at": "2026-04-03T10:00:10.685855+00:00",
+  "synced_at": "2026-04-03T11:00:10.840953+00:00",
   "computer": {
-    "active_minutes": 412.8,
+    "active_minutes": 472.7,
     "afk_minutes": 807.7,
     "active_intervals": [
       {
@@ -31,36 +31,44 @@
       },
       {
         "start": "16:53",
-        "end": "18:00"
+        "end": "19:00"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 106.0
+        "minutes": 109.7
       },
       {
         "app": "Code.exe",
-        "minutes": 97.8
-      },
-      {
-        "app": "msedge.exe",
-        "minutes": 63.7
+        "minutes": 106.5
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 50.2
+        "minutes": 66.6
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 64.7
       },
       {
         "app": "firefox.exe",
-        "minutes": 35.3
+        "minutes": 40.5
       },
       {
         "app": "Weixin.exe",
-        "minutes": 16.1
+        "minutes": 16.6
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 14.8
       },
       {
         "app": "explorer.exe",
+        "minutes": 11.6
+      },
+      {
+        "app": "AdsPower Global.exe",
         "minutes": 11.4
       },
       {
@@ -68,12 +76,8 @@
         "minutes": 10.8
       },
       {
-        "app": "AdsPower Global.exe",
-        "minutes": 10.8
-      },
-      {
         "app": "SourceTree.exe",
-        "minutes": 7.3
+        "minutes": 9.8
       },
       {
         "app": "olk.exe",
@@ -93,25 +97,25 @@
       },
       {
         "app": "PixPin.exe",
-        "minutes": 1.1
+        "minutes": 1.2
       },
       {
         "app": "Notepad.exe",
         "minutes": 0.4
       },
       {
-        "app": "localsend_app.exe",
-        "minutes": 0.2
+        "app": "eudic.exe",
+        "minutes": 0.3
       },
       {
-        "app": "eudic.exe",
+        "app": "localsend_app.exe",
         "minutes": 0.2
       }
     ],
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 27.0
+        "minutes": 32.2
       },
       {
         "site": "github.com",
@@ -123,7 +127,7 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 4.8
+        "minutes": 5.2
       },
       {
         "site": "chatgpt.com",
