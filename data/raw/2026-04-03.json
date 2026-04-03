@@ -1,8 +1,8 @@
 {
   "date": "2026-04-03",
-  "synced_at": "2026-04-03T07:00:10.430842+00:00",
+  "synced_at": "2026-04-03T08:00:10.420144+00:00",
   "computer": {
-    "active_minutes": 243.3,
+    "active_minutes": 300.4,
     "afk_minutes": 788.0,
     "active_intervals": [
       {
@@ -27,41 +27,41 @@
       },
       {
         "start": "12:57",
-        "end": "14:59"
+        "end": "15:57"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 76.3
+        "minutes": 82.3
       },
       {
         "app": "Code.exe",
-        "minutes": 57.8
+        "minutes": 68.4
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 22.5
+        "minutes": 38.0
       },
       {
         "app": "firefox.exe",
-        "minutes": 16.9
+        "minutes": 27.6
       },
       {
         "app": "msedge.exe",
-        "minutes": 14.9
+        "minutes": 18.2
       },
       {
         "app": "explorer.exe",
-        "minutes": 9.0
+        "minutes": 10.4
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 6.4
+        "minutes": 7.1
       },
       {
         "app": "Weixin.exe",
-        "minutes": 5.2
+        "minutes": 6.8
       },
       {
         "app": "ApplicationFrameHost.exe",
@@ -77,7 +77,7 @@
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 1.5
+        "minutes": 1.6
       },
       {
         "app": "PixPin.exe",
@@ -99,7 +99,11 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 15.1
+        "minutes": 19.4
+      },
+      {
+        "site": "github.com",
+        "minutes": 6.8
       },
       {
         "site": "grok.com",
@@ -120,10 +124,6 @@
       {
         "site": "lookup.icann.org",
         "minutes": 1.5
-      },
-      {
-        "site": "github.com",
-        "minutes": 0.9
       },
       {
         "site": "www.cnblogs.com",
