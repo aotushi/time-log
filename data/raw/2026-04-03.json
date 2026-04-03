@@ -1,8 +1,8 @@
 {
   "date": "2026-04-03",
-  "synced_at": "2026-04-03T02:00:10.113333+00:00",
+  "synced_at": "2026-04-03T03:00:10.179108+00:00",
   "computer": {
-    "active_minutes": 24.2,
+    "active_minutes": 84.6,
     "afk_minutes": 600.0,
     "active_intervals": [
       {
@@ -19,51 +19,67 @@
       },
       {
         "start": "09:36",
-        "end": "09:59"
+        "end": "10:59"
       }
     ],
     "apps": [
       {
-        "app": "msedge.exe",
-        "minutes": 9.2
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 5.3
-      },
-      {
         "app": "chrome.exe",
-        "minutes": 5.1
+        "minutes": 49.6
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 12.2
       },
       {
         "app": "firefox.exe",
-        "minutes": 3.4
+        "minutes": 9.9
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 5.7
       },
       {
         "app": "Code.exe",
-        "minutes": 1.9
+        "minutes": 2.5
+      },
+      {
+        "app": "SourceTree.exe",
+        "minutes": 2.4
       },
       {
         "app": "Weixin.exe",
         "minutes": 0.3
+      },
+      {
+        "app": "localsend_app.exe",
+        "minutes": 0.2
       }
     ],
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 3.4
+        "minutes": 9.9
+      },
+      {
+        "site": "developers.openai.com",
+        "minutes": 3.8
+      },
+      {
+        "site": "grok.com",
+        "minutes": 3.1
       },
       {
         "site": "x.com",
-        "minutes": 1.9
+        "minutes": 2.1
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 1.8
       },
       {
         "site": "lookup.icann.org",
         "minutes": 1.5
-      },
-      {
-        "site": "grok.com",
-        "minutes": 0.7
       },
       {
         "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
