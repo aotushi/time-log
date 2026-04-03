@@ -1,9 +1,9 @@
 {
   "date": "2026-04-03",
-  "synced_at": "2026-04-03T09:00:15.337172+00:00",
+  "synced_at": "2026-04-03T10:00:10.685855+00:00",
   "computer": {
-    "active_minutes": 356.7,
-    "afk_minutes": 803.7,
+    "active_minutes": 412.8,
+    "afk_minutes": 807.7,
     "active_intervals": [
       {
         "start": "09:26",
@@ -27,49 +27,53 @@
       },
       {
         "start": "12:57",
-        "end": "17:00"
+        "end": "17:40"
       },
       {
         "start": "16:53",
-        "end": "16:54"
+        "end": "18:00"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 96.2
+        "minutes": 106.0
       },
       {
         "app": "Code.exe",
-        "minutes": 78.1
-      },
-      {
-        "app": "SunBrowser.exe",
-        "minutes": 45.7
+        "minutes": 97.8
       },
       {
         "app": "msedge.exe",
-        "minutes": 33.8
+        "minutes": 63.7
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 50.2
       },
       {
         "app": "firefox.exe",
-        "minutes": 29.4
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 10.8
+        "minutes": 35.3
       },
       {
         "app": "Weixin.exe",
-        "minutes": 8.7
+        "minutes": 16.1
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 11.4
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 10.8
+      },
+      {
+        "app": "AdsPower Global.exe",
+        "minutes": 10.8
       },
       {
         "app": "SourceTree.exe",
         "minutes": 7.3
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 6.9
       },
       {
         "app": "olk.exe",
@@ -84,12 +88,12 @@
         "minutes": 3.6
       },
       {
-        "app": "AdsPower Global.exe",
+        "app": "Antigravity.exe",
         "minutes": 1.6
       },
       {
         "app": "PixPin.exe",
-        "minutes": 1.0
+        "minutes": 1.1
       },
       {
         "app": "Notepad.exe",
@@ -107,7 +111,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 21.2
+        "minutes": 27.0
       },
       {
         "site": "github.com",
@@ -119,34 +123,34 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 4.7
+        "minutes": 4.8
+      },
+      {
+        "site": "chatgpt.com",
+        "minutes": 4.2
       },
       {
         "site": "developers.openai.com",
         "minutes": 3.9
       },
       {
-        "site": "chatgpt.com",
-        "minutes": 2.2
+        "site": "www.juming.com",
+        "minutes": 3.3
       },
       {
         "site": "x.com",
-        "minutes": 2.1
+        "minutes": 2.4
       },
       {
         "site": "lookup.icann.org",
-        "minutes": 1.5
-      },
-      {
-        "site": "www.juming.com",
-        "minutes": 1.3
-      },
-      {
-        "site": "www.cnblogs.com",
-        "minutes": 0.7
+        "minutes": 2.1
       },
       {
         "site": "databaseschool.com",
+        "minutes": 1.6
+      },
+      {
+        "site": "www.cnblogs.com",
         "minutes": 0.7
       },
       {
@@ -156,6 +160,14 @@
       {
         "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
         "minutes": 0.5
+      },
+      {
+        "site": "nfiuh.top",
+        "minutes": 0.3
+      },
+      {
+        "site": "www.google.com",
+        "minutes": 0.3
       },
       {
         "site": "prv200.etxgy.com",
