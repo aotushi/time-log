@@ -1,8 +1,8 @@
 {
   "date": "2026-04-03",
-  "synced_at": "2026-04-03T06:00:10.386640+00:00",
+  "synced_at": "2026-04-03T07:00:10.430842+00:00",
   "computer": {
-    "active_minutes": 183.4,
+    "active_minutes": 243.3,
     "afk_minutes": 788.0,
     "active_intervals": [
       {
@@ -27,61 +27,61 @@
       },
       {
         "start": "12:57",
-        "end": "14:00"
+        "end": "14:59"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 70.3
+        "minutes": 76.3
       },
       {
         "app": "Code.exe",
-        "minutes": 37.5
-      },
-      {
-        "app": "firefox.exe",
-        "minutes": 15.9
-      },
-      {
-        "app": "msedge.exe",
-        "minutes": 13.6
+        "minutes": 57.8
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 11.1
+        "minutes": 22.5
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 16.9
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 14.9
       },
       {
         "app": "explorer.exe",
+        "minutes": 9.0
+      },
+      {
+        "app": "SourceTree.exe",
         "minutes": 6.4
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 5.2
       },
       {
         "app": "ApplicationFrameHost.exe",
         "minutes": 4.5
       },
       {
-        "app": "SourceTree.exe",
-        "minutes": 4.4
+        "app": "LockApp.exe",
+        "minutes": 3.9
       },
       {
         "app": "WeChatAppEx.exe",
         "minutes": 3.6
       },
       {
-        "app": "Weixin.exe",
-        "minutes": 2.3
-      },
-      {
-        "app": "LockApp.exe",
+        "app": "AdsPower Global.exe",
         "minutes": 1.5
       },
       {
         "app": "PixPin.exe",
-        "minutes": 0.8
-      },
-      {
-        "app": "AdsPower Global.exe",
-        "minutes": 0.4
+        "minutes": 0.9
       },
       {
         "app": "Notepad.exe",
@@ -99,11 +99,11 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 14.2
+        "minutes": 15.1
       },
       {
         "site": "grok.com",
-        "minutes": 5.1
+        "minutes": 6.3
       },
       {
         "site": "developers.openai.com",
@@ -111,7 +111,7 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 3.0
+        "minutes": 3.7
       },
       {
         "site": "x.com",
@@ -122,12 +122,16 @@
         "minutes": 1.5
       },
       {
+        "site": "github.com",
+        "minutes": 0.9
+      },
+      {
         "site": "www.cnblogs.com",
         "minutes": 0.7
       },
       {
-        "site": "github.com",
-        "minutes": 0.6
+        "site": "aa.umwqk.top",
+        "minutes": 0.5
       },
       {
         "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
