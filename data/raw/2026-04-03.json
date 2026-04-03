@@ -1,9 +1,9 @@
 {
   "date": "2026-04-03",
-  "synced_at": "2026-04-03T04:22:25.314515+00:00",
+  "synced_at": "2026-04-03T05:00:10.202148+00:00",
   "computer": {
-    "active_minutes": 120.6,
-    "afk_minutes": 646.3,
+    "active_minutes": 123.4,
+    "afk_minutes": 788.0,
     "active_intervals": [
       {
         "start": "09:26",
@@ -20,6 +20,14 @@
       {
         "start": "09:36",
         "end": "11:35"
+      },
+      {
+        "start": "12:22",
+        "end": "12:23"
+      },
+      {
+        "start": "12:57",
+        "end": "13:00"
       }
     ],
     "apps": [
@@ -52,11 +60,19 @@
         "minutes": 4.3
       },
       {
+        "app": "WeChatAppEx.exe",
+        "minutes": 1.9
+      },
+      {
         "app": "Weixin.exe",
-        "minutes": 1.1
+        "minutes": 1.4
       },
       {
         "app": "localsend_app.exe",
+        "minutes": 0.2
+      },
+      {
+        "app": "LockApp.exe",
         "minutes": 0.2
       }
     ],
