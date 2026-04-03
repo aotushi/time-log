@@ -1,9 +1,9 @@
 {
   "date": "2026-04-03",
-  "synced_at": "2026-04-03T03:00:10.179108+00:00",
+  "synced_at": "2026-04-03T04:22:25.314515+00:00",
   "computer": {
-    "active_minutes": 84.6,
-    "afk_minutes": 600.0,
+    "active_minutes": 120.6,
+    "afk_minutes": 646.3,
     "active_intervals": [
       {
         "start": "09:26",
@@ -19,13 +19,17 @@
       },
       {
         "start": "09:36",
-        "end": "10:59"
+        "end": "11:35"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 49.6
+        "minutes": 63.2
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 12.9
       },
       {
         "app": "msedge.exe",
@@ -33,23 +37,23 @@
       },
       {
         "app": "firefox.exe",
-        "minutes": 9.9
+        "minutes": 11.6
       },
       {
         "app": "explorer.exe",
-        "minutes": 5.7
+        "minutes": 5.8
       },
       {
-        "app": "Code.exe",
-        "minutes": 2.5
+        "app": "ApplicationFrameHost.exe",
+        "minutes": 4.5
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 2.4
+        "minutes": 4.3
       },
       {
         "app": "Weixin.exe",
-        "minutes": 0.3
+        "minutes": 1.1
       },
       {
         "app": "localsend_app.exe",
@@ -59,27 +63,31 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 9.9
+        "minutes": 11.6
       },
       {
         "site": "developers.openai.com",
-        "minutes": 3.8
+        "minutes": 3.9
       },
       {
         "site": "grok.com",
-        "minutes": 3.1
+        "minutes": 3.2
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 2.8
       },
       {
         "site": "x.com",
         "minutes": 2.1
       },
       {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 1.8
-      },
-      {
         "site": "lookup.icann.org",
         "minutes": 1.5
+      },
+      {
+        "site": "www.cnblogs.com",
+        "minutes": 0.7
       },
       {
         "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
@@ -90,7 +98,15 @@
         "minutes": 0.4
       },
       {
+        "site": "prv200.etxgy.com",
+        "minutes": 0.3
+      },
+      {
         "site": "chatgpt.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "localhost:37777",
         "minutes": 0.2
       }
     ]
