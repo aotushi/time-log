@@ -1,9 +1,9 @@
 {
   "date": "2026-04-04",
-  "synced_at": "2026-04-04T03:00:12.367912+00:00",
+  "synced_at": "2026-04-04T04:00:09.883702+00:00",
   "computer": {
-    "active_minutes": 23.3,
-    "afk_minutes": 60.3,
+    "active_minutes": 40.2,
+    "afk_minutes": 126.2,
     "active_intervals": [
       {
         "start": "10:04",
@@ -11,17 +11,21 @@
       },
       {
         "start": "10:14",
-        "end": "10:59"
+        "end": "11:29"
+      },
+      {
+        "start": "11:31",
+        "end": "11:34"
       }
     ],
     "apps": [
       {
-        "app": "LockApp.exe",
-        "minutes": 32.9
+        "app": "msedge.exe",
+        "minutes": 45.6
       },
       {
-        "app": "msedge.exe",
-        "minutes": 14.6
+        "app": "LockApp.exe",
+        "minutes": 32.9
       },
       {
         "app": "unknown",
@@ -34,12 +38,20 @@
       {
         "app": "eudic.exe",
         "minutes": 1.6
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 0.6
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 0.3
       }
     ],
     "sites": [
       {
         "site": "www.xiaohongshu.com",
-        "minutes": 0.8
+        "minutes": 1.0
       }
     ]
   }
