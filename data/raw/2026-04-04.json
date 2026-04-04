@@ -1,9 +1,9 @@
 {
   "date": "2026-04-04",
-  "synced_at": "2026-04-04T12:00:09.926814+00:00",
+  "synced_at": "2026-04-04T13:00:09.989143+00:00",
   "computer": {
-    "active_minutes": 64.5,
-    "afk_minutes": 673.0,
+    "active_minutes": 67.2,
+    "afk_minutes": 746.5,
     "active_intervals": [
       {
         "start": "10:04",
@@ -44,6 +44,14 @@
       {
         "start": "19:05",
         "end": "19:05"
+      },
+      {
+        "start": "20:07",
+        "end": "20:08"
+      },
+      {
+        "start": "20:07",
+        "end": "20:08"
       }
     ],
     "apps": [
@@ -57,7 +65,7 @@
       },
       {
         "app": "chrome.exe",
-        "minutes": 26.9
+        "minutes": 29.7
       },
       {
         "app": "unknown",
