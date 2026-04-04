@@ -1,9 +1,9 @@
 {
   "date": "2026-04-04",
-  "synced_at": "2026-04-04T04:00:09.883702+00:00",
+  "synced_at": "2026-04-04T05:00:09.880368+00:00",
   "computer": {
     "active_minutes": 40.2,
-    "afk_minutes": 126.2,
+    "afk_minutes": 184.1,
     "active_intervals": [
       {
         "start": "10:04",
