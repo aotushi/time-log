@@ -1,0 +1,46 @@
+{
+  "date": "2026-04-04",
+  "synced_at": "2026-04-04T03:00:12.367912+00:00",
+  "computer": {
+    "active_minutes": 23.3,
+    "afk_minutes": 60.3,
+    "active_intervals": [
+      {
+        "start": "10:04",
+        "end": "10:14"
+      },
+      {
+        "start": "10:14",
+        "end": "10:59"
+      }
+    ],
+    "apps": [
+      {
+        "app": "LockApp.exe",
+        "minutes": 32.9
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 14.6
+      },
+      {
+        "app": "unknown",
+        "minutes": 2.0
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 1.7
+      },
+      {
+        "app": "eudic.exe",
+        "minutes": 1.6
+      }
+    ],
+    "sites": [
+      {
+        "site": "www.xiaohongshu.com",
+        "minutes": 0.8
+      }
+    ]
+  }
+}
