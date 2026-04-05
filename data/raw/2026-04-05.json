@@ -1,9 +1,9 @@
 {
   "date": "2026-04-05",
-  "synced_at": "2026-04-05T11:00:10.254681+00:00",
+  "synced_at": "2026-04-05T12:00:10.089257+00:00",
   "computer": {
-    "active_minutes": 209.5,
-    "afk_minutes": 449.2,
+    "active_minutes": 218.1,
+    "afk_minutes": 510.7,
     "active_intervals": [
       {
         "start": "10:40",
@@ -55,17 +55,17 @@
       },
       {
         "start": "16:00",
-        "end": "18:57"
+        "end": "19:10"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 88.8
+        "minutes": 98.7
       },
       {
         "app": "chrome.exe",
-        "minutes": 69.3
+        "minutes": 70.1
       },
       {
         "app": "explorer.exe",
@@ -73,7 +73,7 @@
       },
       {
         "app": "Weixin.exe",
-        "minutes": 14.7
+        "minutes": 16.1
       },
       {
         "app": "Code.exe",
@@ -105,6 +105,10 @@
       },
       {
         "app": "WeChatAppEx.exe",
+        "minutes": 0.6
+      },
+      {
+        "app": "FSCapture.exe",
         "minutes": 0.6
       },
       {
