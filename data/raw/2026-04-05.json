@@ -1,9 +1,9 @@
 {
   "date": "2026-04-05",
-  "synced_at": "2026-04-05T12:00:10.089257+00:00",
+  "synced_at": "2026-04-05T13:00:10.078532+00:00",
   "computer": {
-    "active_minutes": 218.1,
-    "afk_minutes": 510.7,
+    "active_minutes": 220.4,
+    "afk_minutes": 585.9,
     "active_intervals": [
       {
         "start": "10:40",
@@ -56,12 +56,28 @@
       {
         "start": "16:00",
         "end": "19:10"
+      },
+      {
+        "start": "20:22",
+        "end": "20:22"
+      },
+      {
+        "start": "20:22",
+        "end": "20:22"
+      },
+      {
+        "start": "20:22",
+        "end": "20:27"
+      },
+      {
+        "start": "20:26",
+        "end": "20:27"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 98.7
+        "minutes": 105.9
       },
       {
         "app": "chrome.exe",
@@ -130,12 +146,12 @@
     ],
     "sites": [
       {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 4.2
+        "site": "www.xiaohongshu.com",
+        "minutes": 7.0
       },
       {
-        "site": "www.xiaohongshu.com",
-        "minutes": 3.9
+        "site": "weijukeji.feishu.cn",
+        "minutes": 4.2
       },
       {
         "site": "dash.cloudflare.com",
