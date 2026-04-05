@@ -1,9 +1,9 @@
 {
   "date": "2026-04-05",
-  "synced_at": "2026-04-05T08:00:10.022968+00:00",
+  "synced_at": "2026-04-05T09:00:10.354373+00:00",
   "computer": {
-    "active_minutes": 64.8,
-    "afk_minutes": 382.6,
+    "active_minutes": 116.5,
+    "afk_minutes": 401.7,
     "active_intervals": [
       {
         "start": "10:40",
@@ -52,24 +52,28 @@
       {
         "start": "15:33",
         "end": "15:35"
+      },
+      {
+        "start": "16:00",
+        "end": "16:59"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 18.1
+        "minutes": 42.6
       },
       {
         "app": "chrome.exe",
-        "minutes": 17.9
+        "minutes": 41.4
       },
       {
         "app": "Weixin.exe",
-        "minutes": 12.3
+        "minutes": 14.2
       },
       {
         "app": "explorer.exe",
-        "minutes": 12.0
+        "minutes": 12.3
       },
       {
         "app": "unknown",
@@ -80,8 +84,20 @@
         "minutes": 2.3
       },
       {
+        "app": "Code.exe",
+        "minutes": 1.6
+      },
+      {
         "app": "LockApp.exe",
         "minutes": 1.5
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 1.4
+      },
+      {
+        "app": "SourceTree.exe",
+        "minutes": 1.0
       },
       {
         "app": "1Password.exe",
@@ -92,22 +108,54 @@
         "minutes": 0.2
       },
       {
-        "app": "Code.exe",
+        "app": "BaiduNetdisk.exe",
         "minutes": 0.2
       }
     ],
     "sites": [
       {
+        "site": "dash.cloudflare.com",
+        "minutes": 2.1
+      },
+      {
+        "site": "9shi.cc",
+        "minutes": 1.7
+      },
+      {
         "site": "rxresu.me",
+        "minutes": 1.3
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 1.0
+      },
+      {
+        "site": "www.xiaohongshu.com",
         "minutes": 0.9
+      },
+      {
+        "site": "feaqa.top",
+        "minutes": 0.6
       },
       {
         "site": "ainews.58information.vip",
         "minutes": 0.4
       },
       {
-        "site": "www.xiaohongshu.com",
+        "site": "fitness-plan-guide.mparticletech.com",
+        "minutes": 0.4
+      },
+      {
+        "site": "dripulse.9shi.cc",
         "minutes": 0.3
+      },
+      {
+        "site": "awwoe.top",
+        "minutes": 0.2
+      },
+      {
+        "site": "play.google.com",
+        "minutes": 0.2
       }
     ]
   }
