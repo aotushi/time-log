@@ -1,9 +1,9 @@
 {
   "date": "2026-04-06",
-  "synced_at": "2026-04-06T09:00:10.104092+00:00",
+  "synced_at": "2026-04-06T10:00:10.100498+00:00",
   "computer": {
-    "active_minutes": 122.2,
-    "afk_minutes": 356.8,
+    "active_minutes": 159.3,
+    "afk_minutes": 399.7,
     "active_intervals": [
       {
         "start": "10:42",
@@ -39,25 +39,29 @@
       },
       {
         "start": "15:50",
-        "end": "17:00"
+        "end": "17:24"
+      },
+      {
+        "start": "17:37",
+        "end": "17:58"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 137.3
+        "minutes": 157.1
       },
       {
         "app": "Code.exe",
-        "minutes": 23.7
+        "minutes": 34.5
       },
       {
         "app": "chrome.exe",
-        "minutes": 18.5
+        "minutes": 23.1
       },
       {
         "app": "claude.exe",
-        "minutes": 8.7
+        "minutes": 16.0
       },
       {
         "app": "Weixin.exe",
@@ -73,7 +77,7 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 1.5
+        "minutes": 2.4
       },
       {
         "app": "eudic.exe",
@@ -115,11 +119,15 @@
       },
       {
         "site": "www.yfsp.tv",
-        "minutes": 3.4
+        "minutes": 4.0
       },
       {
         "site": "dash.cloudflare.com",
-        "minutes": 1.4
+        "minutes": 2.5
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 1.5
       },
       {
         "site": "chatgpt.com",
@@ -130,8 +138,28 @@
         "minutes": 1.1
       },
       {
+        "site": "games.upalg.com",
+        "minutes": 0.6
+      },
+      {
         "site": "funda.ai",
         "minutes": 0.5
+      },
+      {
+        "site": "game.upalg.com",
+        "minutes": 0.5
+      },
+      {
+        "site": "39.106.253.222:3001",
+        "minutes": 0.5
+      },
+      {
+        "site": "games.hcqsx.com",
+        "minutes": 0.3
+      },
+      {
+        "site": "qcpvyfp.com",
+        "minutes": 0.3
       },
       {
         "site": "9shi.cc",
