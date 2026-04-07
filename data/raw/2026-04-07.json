@@ -1,8 +1,8 @@
 {
   "date": "2026-04-07",
-  "synced_at": "2026-04-07T09:00:10.318529+00:00",
+  "synced_at": "2026-04-07T10:00:10.492873+00:00",
   "computer": {
-    "active_minutes": 383.3,
+    "active_minutes": 443.2,
     "afk_minutes": 171.5,
     "active_intervals": [
       {
@@ -27,7 +27,7 @@
       },
       {
         "start": "12:52",
-        "end": "16:59"
+        "end": "17:59"
       },
       {
         "start": "13:02",
@@ -37,39 +37,39 @@
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 103.1
+        "minutes": 133.2
       },
       {
         "app": "chrome.exe",
-        "minutes": 56.4
+        "minutes": 64.4
       },
       {
         "app": "Code.exe",
-        "minutes": 49.2
+        "minutes": 52.4
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 34.2
+        "minutes": 35.3
       },
       {
         "app": "claude.exe",
-        "minutes": 28.3
+        "minutes": 28.4
       },
       {
         "app": "Weixin.exe",
-        "minutes": 25.9
+        "minutes": 27.8
       },
       {
         "app": "explorer.exe",
-        "minutes": 17.9
+        "minutes": 23.9
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 13.9
       },
       {
         "app": "firefox.exe",
         "minutes": 12.1
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 11.1
       },
       {
         "app": "AdsPower Global.exe",
@@ -78,6 +78,10 @@
       {
         "app": "SourceTree.exe",
         "minutes": 4.9
+      },
+      {
+        "app": "WeChatAppEx.exe",
+        "minutes": 3.2
       },
       {
         "app": "Notepad.exe",
@@ -89,10 +93,6 @@
       },
       {
         "app": "olk.exe",
-        "minutes": 1.9
-      },
-      {
-        "app": "WeChatAppEx.exe",
         "minutes": 1.9
       },
       {
@@ -130,16 +130,20 @@
     ],
     "sites": [
       {
+        "site": "x.com",
+        "minutes": 10.1
+      },
+      {
         "site": "grok.com",
-        "minutes": 8.1
+        "minutes": 8.8
       },
       {
         "site": "dash.cloudflare.com",
         "minutes": 7.5
       },
       {
-        "site": "x.com",
-        "minutes": 5.8
+        "site": "github.com",
+        "minutes": 3.2
       },
       {
         "site": "weijukeji.feishu.cn",
@@ -147,10 +151,6 @@
       },
       {
         "site": "localhost:8848",
-        "minutes": 2.2
-      },
-      {
-        "site": "github.com",
         "minutes": 2.2
       },
       {
@@ -174,20 +174,32 @@
         "minutes": 0.8
       },
       {
+        "site": "www.google.com",
+        "minutes": 0.8
+      },
+      {
         "site": "ipcheck.ing",
         "minutes": 0.7
+      },
+      {
+        "site": "www.youtube.com",
+        "minutes": 0.6
+      },
+      {
+        "site": "claude.ai",
+        "minutes": 0.5
       },
       {
         "site": "dnschecker.org",
         "minutes": 0.5
       },
       {
-        "site": "mp.weixin.qq.com",
-        "minutes": 0.4
+        "site": "gemini.google.com",
+        "minutes": 0.5
       },
       {
-        "site": "www.google.com",
-        "minutes": 0.3
+        "site": "mp.weixin.qq.com",
+        "minutes": 0.4
       },
       {
         "site": "ip8.com",
