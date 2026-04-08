@@ -1,9 +1,9 @@
 {
   "date": "2026-04-09",
-  "synced_at": "2026-04-08T16:00:10.082682+00:00",
+  "synced_at": "2026-04-08T17:00:10.009567+00:00",
   "computer": {
     "active_minutes": 0.0,
-    "afk_minutes": 0.1,
+    "afk_minutes": 59.9,
     "active_intervals": [],
     "apps": [],
     "sites": []
