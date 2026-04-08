@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-08",
+  "synced_at": "2026-04-08T02:00:12.883273+00:00",
+  "computer": {
+    "active_minutes": 29.1,
+    "afk_minutes": 574.2,
+    "active_intervals": [
+      {
+        "start": "09:26",
+        "end": "10:00"
+      }
+    ],
+    "apps": [
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 9.2
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 6.6
+      },
+      {
+        "app": "unknown",
+        "minutes": 4.4
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 3.9
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 2.6
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 2.5
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 0.9
+      },
+      {
+        "app": "AdsPower Global.exe",
+        "minutes": 0.3
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 0.2
+      }
+    ],
+    "sites": [
+      {
+        "site": "dash.cloudflare.com",
+        "minutes": 0.4
+      }
+    ]
+  }
+}
