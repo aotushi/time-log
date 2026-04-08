@@ -1,8 +1,8 @@
 {
   "date": "2026-04-08",
-  "synced_at": "2026-04-08T10:00:10.699431+00:00",
+  "synced_at": "2026-04-08T11:00:10.752939+00:00",
   "computer": {
-    "active_minutes": 443.8,
+    "active_minutes": 503.8,
     "afk_minutes": 694.9,
     "active_intervals": [
       {
@@ -27,7 +27,7 @@
       },
       {
         "start": "13:00",
-        "end": "18:00"
+        "end": "19:00"
       },
       {
         "start": "16:16",
@@ -37,23 +37,23 @@
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 131.2
+        "minutes": 159.7
       },
       {
         "app": "chrome.exe",
-        "minutes": 66.1
+        "minutes": 70.7
       },
       {
         "app": "Code.exe",
-        "minutes": 64.7
+        "minutes": 70.3
       },
       {
         "app": "claude.exe",
-        "minutes": 34.1
+        "minutes": 44.3
       },
       {
         "app": "firefox.exe",
-        "minutes": 29.9
+        "minutes": 31.1
       },
       {
         "app": "SunBrowser.exe",
@@ -69,11 +69,11 @@
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 14.5
+        "minutes": 15.6
       },
       {
         "app": "Weixin.exe",
-        "minutes": 10.7
+        "minutes": 11.3
       },
       {
         "app": "Notepad.exe",
@@ -81,7 +81,7 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 5.6
+        "minutes": 7.1
       },
       {
         "app": "unknown",
@@ -104,6 +104,10 @@
         "minutes": 1.2
       },
       {
+        "app": "ShellHost.exe",
+        "minutes": 1.0
+      },
+      {
         "app": "AdsPower Global.exe",
         "minutes": 0.8
       },
@@ -122,16 +126,20 @@
         "minutes": 20.2
       },
       {
+        "site": "github.com",
+        "minutes": 9.3
+      },
+      {
         "site": "chatgpt.com",
-        "minutes": 9.1
+        "minutes": 9.2
       },
       {
         "site": "x.com",
         "minutes": 8.6
       },
       {
-        "site": "github.com",
-        "minutes": 8.0
+        "site": "2x.nz",
+        "minutes": 6.5
       },
       {
         "site": "weijukeji.feishu.cn",
@@ -142,20 +150,24 @@
         "minutes": 4.0
       },
       {
+        "site": "kirigaya.cn",
+        "minutes": 2.8
+      },
+      {
         "site": "grok.com",
         "minutes": 2.7
       },
       {
-        "site": "2x.nz",
-        "minutes": 2.4
-      },
-      {
         "site": "www.google.com",
-        "minutes": 1.8
+        "minutes": 2.6
       },
       {
         "site": "www.cloudflarestatus.com",
-        "minutes": 1.7
+        "minutes": 1.8
+      },
+      {
+        "site": "blog.cmliussss.com",
+        "minutes": 1.2
       },
       {
         "site": "admin.wayleemob.com",
@@ -163,6 +175,14 @@
       },
       {
         "site": "huntifyai.com",
+        "minutes": 0.8
+      },
+      {
+        "site": "www.youtube.com",
+        "minutes": 0.8
+      },
+      {
+        "site": "u.2x.nz",
         "minutes": 0.8
       },
       {
@@ -174,8 +194,8 @@
         "minutes": 0.6
       },
       {
-        "site": "u.2x.nz",
-        "minutes": 0.6
+        "site": "dnc.org.nz",
+        "minutes": 0.5
       },
       {
         "site": "www.reddit.com",
@@ -186,7 +206,15 @@
         "minutes": 0.5
       },
       {
+        "site": "www.zhihu.com",
+        "minutes": 0.5
+      },
+      {
         "site": "localhost:8848",
+        "minutes": 0.4
+      },
+      {
+        "site": "www.boce.com",
         "minutes": 0.4
       },
       {
@@ -198,7 +226,7 @@
         "minutes": 0.3
       },
       {
-        "site": "www.boce.com",
+        "site": "ntldstats.com",
         "minutes": 0.3
       },
       {
@@ -207,10 +235,6 @@
       },
       {
         "site": "ipcheck.ing",
-        "minutes": 0.2
-      },
-      {
-        "site": "ntldstats.com",
         "minutes": 0.2
       },
       {
