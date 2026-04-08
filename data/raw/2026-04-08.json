@@ -1,39 +1,67 @@
 {
   "date": "2026-04-08",
-  "synced_at": "2026-04-08T03:00:10.435430+00:00",
+  "synced_at": "2026-04-08T05:00:10.314838+00:00",
   "computer": {
-    "active_minutes": 87.6,
-    "afk_minutes": 574.2,
+    "active_minutes": 153.7,
+    "afk_minutes": 661.9,
     "active_intervals": [
       {
         "start": "09:26",
-        "end": "10:58"
+        "end": "11:40"
+      },
+      {
+        "start": "11:40",
+        "end": "11:40"
+      },
+      {
+        "start": "12:21",
+        "end": "12:55"
+      },
+      {
+        "start": "12:54",
+        "end": "12:55"
+      },
+      {
+        "start": "12:54",
+        "end": "12:58"
       }
     ],
     "apps": [
       {
         "app": "Code.exe",
-        "minutes": 29.5
+        "minutes": 34.5
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 28.3
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 22.3
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 17.1
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 12.9
       },
       {
         "app": "SunBrowser.exe",
         "minutes": 11.1
       },
       {
-        "app": "chrome.exe",
-        "minutes": 10.9
+        "app": "SourceTree.exe",
+        "minutes": 7.7
       },
       {
-        "app": "msedge.exe",
-        "minutes": 9.6
+        "app": "Notepad.exe",
+        "minutes": 6.9
       },
       {
-        "app": "claude.exe",
-        "minutes": 4.6
-      },
-      {
-        "app": "firefox.exe",
-        "minutes": 4.5
+        "app": "LockApp.exe",
+        "minutes": 5.0
       },
       {
         "app": "unknown",
@@ -41,15 +69,11 @@
       },
       {
         "app": "Weixin.exe",
-        "minutes": 3.4
-      },
-      {
-        "app": "SourceTree.exe",
-        "minutes": 2.4
+        "minutes": 3.9
       },
       {
         "app": "explorer.exe",
-        "minutes": 0.6
+        "minutes": 0.9
       },
       {
         "app": "mintty.exe",
@@ -71,11 +95,35 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 3.6
+        "minutes": 10.6
       },
       {
         "site": "x.com",
+        "minutes": 2.9
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 2.8
+      },
+      {
+        "site": "www.cloudflarestatus.com",
+        "minutes": 1.0
+      },
+      {
+        "site": "admin.wayleemob.com",
         "minutes": 0.9
+      },
+      {
+        "site": "github.com",
+        "minutes": 0.7
+      },
+      {
+        "site": "en.wikipedia.org",
+        "minutes": 0.5
+      },
+      {
+        "site": "www.google.com",
+        "minutes": 0.3
       }
     ]
   }
