@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
-  "synced_at": "2026-04-09T07:00:10.539226+00:00",
+  "synced_at": "2026-04-09T08:00:10.692168+00:00",
   "computer": {
-    "active_minutes": 242.4,
+    "active_minutes": 302.4,
     "afk_minutes": 687.6,
     "active_intervals": [
       {
@@ -15,52 +15,52 @@
       },
       {
         "start": "12:58",
-        "end": "15:00"
+        "end": "16:00"
       }
     ],
     "apps": [
+      {
+        "app": "chrome.exe",
+        "minutes": 56.1
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 53.9
+      },
       {
         "app": "LockApp.exe",
         "minutes": 49.3
       },
       {
         "app": "claude.exe",
-        "minutes": 45.0
-      },
-      {
-        "app": "msedge.exe",
-        "minutes": 42.6
+        "minutes": 48.8
       },
       {
         "app": "Code.exe",
-        "minutes": 38.2
-      },
-      {
-        "app": "chrome.exe",
-        "minutes": 35.4
+        "minutes": 40.2
       },
       {
         "app": "firefox.exe",
-        "minutes": 23.7
+        "minutes": 27.4
       },
       {
         "app": "explorer.exe",
-        "minutes": 11.9
+        "minutes": 12.8
       },
       {
         "app": "Weixin.exe",
-        "minutes": 8.1
+        "minutes": 9.8
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 2.3
-      },
-      {
-        "app": "olk.exe",
-        "minutes": 1.8
+        "minutes": 5.7
       },
       {
         "app": "AdsPower Global.exe",
+        "minutes": 3.4
+      },
+      {
+        "app": "olk.exe",
         "minutes": 1.8
       },
       {
@@ -83,7 +83,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 22.4
+        "minutes": 26.1
       },
       {
         "site": "x.com",
@@ -92,6 +92,10 @@
       {
         "site": "blog.cmliussss.com",
         "minutes": 3.8
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 2.9
       },
       {
         "site": "console-intl.huaweicloud.com",
@@ -104,10 +108,6 @@
       {
         "site": "admin.shanetwilkes.com",
         "minutes": 1.3
-      },
-      {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 0.9
       },
       {
         "site": "docs.aicodewith.com",
@@ -131,6 +131,10 @@
       },
       {
         "site": "www.wetest.vip",
+        "minutes": 0.4
+      },
+      {
+        "site": "www.google.com",
         "minutes": 0.4
       },
       {
