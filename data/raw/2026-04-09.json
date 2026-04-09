@@ -1,51 +1,71 @@
 {
   "date": "2026-04-09",
-  "synced_at": "2026-04-09T03:00:10.495104+00:00",
+  "synced_at": "2026-04-09T05:00:10.136039+00:00",
   "computer": {
-    "active_minutes": 76.3,
-    "afk_minutes": 583.5,
+    "active_minutes": 122.3,
+    "afk_minutes": 687.6,
     "active_intervals": [
       {
         "start": "09:43",
-        "end": "10:59"
+        "end": "11:34"
+      },
+      {
+        "start": "11:35",
+        "end": "12:32"
+      },
+      {
+        "start": "12:58",
+        "end": "12:59"
       }
     ],
     "apps": [
       {
-        "app": "msedge.exe",
-        "minutes": 18.3
+        "app": "LockApp.exe",
+        "minutes": 45.7
       },
       {
-        "app": "chrome.exe",
-        "minutes": 16.0
+        "app": "msedge.exe",
+        "minutes": 35.3
       },
       {
         "app": "firefox.exe",
-        "minutes": 14.0
+        "minutes": 19.5
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 18.1
       },
       {
         "app": "claude.exe",
-        "minutes": 9.2
-      },
-      {
-        "app": "Weixin.exe",
-        "minutes": 5.7
-      },
-      {
-        "app": "olk.exe",
-        "minutes": 1.5
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 1.2
+        "minutes": 17.6
       },
       {
         "app": "Code.exe",
+        "minutes": 6.3
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 5.8
+      },
+      {
+        "app": "olk.exe",
+        "minutes": 1.8
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 1.8
+      },
+      {
+        "app": "Notepad.exe",
         "minutes": 0.8
       },
       {
         "app": "PixPin.exe",
-        "minutes": 0.4
+        "minutes": 0.7
+      },
+      {
+        "app": "unknown",
+        "minutes": 0.7
       },
       {
         "app": "ShellHost.exe",
@@ -55,19 +75,23 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 12.8
+        "minutes": 18.2
       },
       {
         "site": "x.com",
-        "minutes": 1.9
-      },
-      {
-        "site": "aicodewith.com",
-        "minutes": 1.4
+        "minutes": 4.6
       },
       {
         "site": "blog.cmliussss.com",
-        "minutes": 1.0
+        "minutes": 2.8
+      },
+      {
+        "site": "console-intl.huaweicloud.com",
+        "minutes": 1.6
+      },
+      {
+        "site": "aicodewith.com",
+        "minutes": 1.6
       },
       {
         "site": "docs.aicodewith.com",
@@ -82,11 +106,23 @@
         "minutes": 0.5
       },
       {
+        "site": "www.boce.com",
+        "minutes": 0.5
+      },
+      {
         "site": "www.wetest.vip",
         "minutes": 0.4
       },
       {
+        "site": "github.com",
+        "minutes": 0.3
+      },
+      {
         "site": "api.shanetwilkes.com",
+        "minutes": 0.3
+      },
+      {
+        "site": "gist.github.com",
         "minutes": 0.2
       }
     ]
