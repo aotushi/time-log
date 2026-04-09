@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
-  "synced_at": "2026-04-09T05:00:10.136039+00:00",
+  "synced_at": "2026-04-09T06:00:10.327721+00:00",
   "computer": {
-    "active_minutes": 122.3,
+    "active_minutes": 181.7,
     "afk_minutes": 687.6,
     "active_intervals": [
       {
@@ -15,44 +15,44 @@
       },
       {
         "start": "12:58",
-        "end": "12:59"
+        "end": "13:59"
       }
     ],
     "apps": [
       {
         "app": "LockApp.exe",
-        "minutes": 45.7
+        "minutes": 46.9
       },
       {
         "app": "msedge.exe",
-        "minutes": 35.3
-      },
-      {
-        "app": "firefox.exe",
-        "minutes": 19.5
-      },
-      {
-        "app": "chrome.exe",
-        "minutes": 18.1
+        "minutes": 41.7
       },
       {
         "app": "claude.exe",
-        "minutes": 17.6
+        "minutes": 35.8
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 22.5
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 22.4
       },
       {
         "app": "Code.exe",
-        "minutes": 6.3
-      },
-      {
-        "app": "Weixin.exe",
-        "minutes": 5.8
-      },
-      {
-        "app": "olk.exe",
-        "minutes": 1.8
+        "minutes": 18.4
       },
       {
         "app": "explorer.exe",
+        "minutes": 8.4
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 6.5
+      },
+      {
+        "app": "olk.exe",
         "minutes": 1.8
       },
       {
@@ -75,19 +75,19 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 18.2
+        "minutes": 21.1
       },
       {
         "site": "x.com",
-        "minutes": 4.6
+        "minutes": 6.2
       },
       {
         "site": "blog.cmliussss.com",
-        "minutes": 2.8
+        "minutes": 3.2
       },
       {
         "site": "console-intl.huaweicloud.com",
-        "minutes": 1.6
+        "minutes": 1.7
       },
       {
         "site": "aicodewith.com",
@@ -102,20 +102,28 @@
         "minutes": 0.9
       },
       {
-        "site": "www.spaceship.com",
-        "minutes": 0.5
+        "site": "2x.nz",
+        "minutes": 0.8
+      },
+      {
+        "site": "admin.shanetwilkes.com",
+        "minutes": 0.8
       },
       {
         "site": "www.boce.com",
         "minutes": 0.5
       },
       {
-        "site": "www.wetest.vip",
-        "minutes": 0.4
+        "site": "www.spaceship.com",
+        "minutes": 0.5
       },
       {
         "site": "github.com",
-        "minutes": 0.3
+        "minutes": 0.5
+      },
+      {
+        "site": "www.wetest.vip",
+        "minutes": 0.4
       },
       {
         "site": "api.shanetwilkes.com",
