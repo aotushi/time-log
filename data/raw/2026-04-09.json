@@ -1,8 +1,8 @@
 {
   "date": "2026-04-09",
-  "synced_at": "2026-04-09T09:00:10.731950+00:00",
+  "synced_at": "2026-04-09T10:00:10.961328+00:00",
   "computer": {
-    "active_minutes": 362.3,
+    "active_minutes": 422.4,
     "afk_minutes": 687.6,
     "active_intervals": [
       {
@@ -15,25 +15,25 @@
       },
       {
         "start": "12:58",
-        "end": "16:59"
+        "end": "18:00"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 76.8
+        "minutes": 83.0
       },
       {
         "app": "msedge.exe",
-        "minutes": 54.5
-      },
-      {
-        "app": "claude.exe",
-        "minutes": 50.2
+        "minutes": 70.7
       },
       {
         "app": "LockApp.exe",
-        "minutes": 49.3
+        "minutes": 51.9
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 51.1
       },
       {
         "app": "Code.exe",
@@ -41,11 +41,15 @@
       },
       {
         "app": "firefox.exe",
-        "minutes": 30.8
+        "minutes": 32.4
       },
       {
         "app": "Weixin.exe",
-        "minutes": 16.2
+        "minutes": 22.1
+      },
+      {
+        "app": "Antigravity.exe",
+        "minutes": 17.4
       },
       {
         "app": "SunBrowser.exe",
@@ -53,19 +57,19 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 13.4
+        "minutes": 13.7
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 3.9
+        "minutes": 5.0
+      },
+      {
+        "app": "WindowsSandboxRemoteSession.exe",
+        "minutes": 4.5
       },
       {
         "app": "AdsPower Global.exe",
         "minutes": 3.4
-      },
-      {
-        "app": "Antigravity.exe",
-        "minutes": 2.5
       },
       {
         "app": "olk.exe",
@@ -73,6 +77,10 @@
       },
       {
         "app": "PixPin.exe",
+        "minutes": 1.0
+      },
+      {
+        "app": "mintty.exe",
         "minutes": 0.9
       },
       {
@@ -91,11 +99,11 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 29.5
+        "minutes": 31.1
       },
       {
         "site": "x.com",
-        "minutes": 6.2
+        "minutes": 6.4
       },
       {
         "site": "blog.cmliussss.com",
@@ -103,19 +111,19 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 3.5
+        "minutes": 3.7
       },
       {
         "site": "analytics.google.com",
-        "minutes": 2.5
+        "minutes": 2.6
+      },
+      {
+        "site": "aicodewith.com",
+        "minutes": 2.3
       },
       {
         "site": "console-intl.huaweicloud.com",
         "minutes": 1.7
-      },
-      {
-        "site": "aicodewith.com",
-        "minutes": 1.6
       },
       {
         "site": "admin.shanetwilkes.com",
@@ -130,15 +138,15 @@
         "minutes": 0.8
       },
       {
-        "site": "www.boce.com",
-        "minutes": 0.5
-      },
-      {
         "site": "github.com",
-        "minutes": 0.5
+        "minutes": 0.6
       },
       {
         "site": "grok.com",
+        "minutes": 0.6
+      },
+      {
+        "site": "www.boce.com",
         "minutes": 0.5
       },
       {
