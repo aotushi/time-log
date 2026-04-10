@@ -1,46 +1,74 @@
 {
   "date": "2026-04-10",
-  "synced_at": "2026-04-10T02:00:10.598994+00:00",
+  "synced_at": "2026-04-10T03:00:14.227049+00:00",
   "computer": {
-    "active_minutes": 31.3,
-    "afk_minutes": 568.8,
+    "active_minutes": 87.7,
+    "afk_minutes": 579.1,
     "active_intervals": [
       {
         "start": "09:28",
-        "end": "10:00"
+        "end": "10:59"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 14.1
+        "minutes": 33.5
       },
       {
         "app": "claude.exe",
-        "minutes": 5.6
+        "minutes": 15.0
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 12.4
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 3.7
       },
       {
         "app": "QQ.exe",
         "minutes": 3.5
       },
       {
+        "app": "Code.exe",
+        "minutes": 2.6
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 1.9
+      },
+      {
         "app": "olk.exe",
         "minutes": 1.7
       },
       {
-        "app": "Weixin.exe",
-        "minutes": 0.9
+        "app": "explorer.exe",
+        "minutes": 1.7
+      },
+      {
+        "app": "WindowsTerminal.exe",
+        "minutes": 1.2
       },
       {
         "app": "msedge.exe",
-        "minutes": 0.7
+        "minutes": 0.8
+      },
+      {
+        "app": "unknown",
+        "minutes": 0.5
+      },
+      {
+        "app": "AdsPower Global.exe",
+        "minutes": 0.4
       },
       {
         "app": "Antigravity.exe",
         "minutes": 0.3
       },
       {
-        "app": "explorer.exe",
+        "app": "firefox.exe",
         "minutes": 0.2
       }
     ],
@@ -50,8 +78,16 @@
         "minutes": 1.5
       },
       {
+        "site": "jsonbin.io",
+        "minutes": 1.2
+      },
+      {
         "site": "weijukeji.feishu.cn",
         "minutes": 1.0
+      },
+      {
+        "site": "localhost:8085",
+        "minutes": 0.9
       },
       {
         "site": "analytics.google.com",
@@ -59,6 +95,10 @@
       },
       {
         "site": "localhost:8080",
+        "minutes": 0.2
+      },
+      {
+        "site": "dash.cloudflare.com",
         "minutes": 0.2
       }
     ]
