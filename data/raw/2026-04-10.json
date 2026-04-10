@@ -1,11 +1,66 @@
 {
   "date": "2026-04-10",
-  "synced_at": "2026-04-10T01:00:10.238421+00:00",
+  "synced_at": "2026-04-10T02:00:10.598994+00:00",
   "computer": {
-    "active_minutes": 0.0,
-    "afk_minutes": 540.0,
-    "active_intervals": [],
-    "apps": [],
-    "sites": []
+    "active_minutes": 31.3,
+    "afk_minutes": 568.8,
+    "active_intervals": [
+      {
+        "start": "09:28",
+        "end": "10:00"
+      }
+    ],
+    "apps": [
+      {
+        "app": "chrome.exe",
+        "minutes": 14.1
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 5.6
+      },
+      {
+        "app": "QQ.exe",
+        "minutes": 3.5
+      },
+      {
+        "app": "olk.exe",
+        "minutes": 1.7
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 0.9
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 0.7
+      },
+      {
+        "app": "Antigravity.exe",
+        "minutes": 0.3
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 0.2
+      }
+    ],
+    "sites": [
+      {
+        "site": "www.juming.com",
+        "minutes": 1.5
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 1.0
+      },
+      {
+        "site": "analytics.google.com",
+        "minutes": 0.4
+      },
+      {
+        "site": "localhost:8080",
+        "minutes": 0.2
+      }
+    ]
   }
 }
