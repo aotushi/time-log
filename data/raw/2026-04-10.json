@@ -1,8 +1,8 @@
 {
   "date": "2026-04-10",
-  "synced_at": "2026-04-10T08:00:10.428309+00:00",
+  "synced_at": "2026-04-10T09:00:10.673509+00:00",
   "computer": {
-    "active_minutes": 298.9,
+    "active_minutes": 358.9,
     "afk_minutes": 861.3,
     "active_intervals": [
       {
@@ -15,29 +15,33 @@
       },
       {
         "start": "12:56",
-        "end": "16:00"
+        "end": "16:59"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 75.0
+        "minutes": 84.7
       },
       {
         "app": "msedge.exe",
-        "minutes": 55.5
+        "minutes": 67.9
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 30.4
       },
       {
         "app": "claude.exe",
         "minutes": 29.5
       },
       {
-        "app": "SunBrowser.exe",
-        "minutes": 25.7
+        "app": "firefox.exe",
+        "minutes": 27.9
       },
       {
-        "app": "firefox.exe",
-        "minutes": 25.3
+        "app": "Antigravity.exe",
+        "minutes": 25.5
       },
       {
         "app": "LockApp.exe",
@@ -45,39 +49,39 @@
       },
       {
         "app": "Code.exe",
-        "minutes": 14.8
+        "minutes": 17.9
       },
       {
         "app": "Weixin.exe",
-        "minutes": 9.1
-      },
-      {
-        "app": "Antigravity.exe",
-        "minutes": 7.3
+        "minutes": 9.9
       },
       {
         "app": "explorer.exe",
-        "minutes": 6.3
+        "minutes": 6.5
       },
       {
         "app": "QQ.exe",
         "minutes": 3.5
       },
       {
+        "app": "olk.exe",
+        "minutes": 2.9
+      },
+      {
         "app": "Recordly.exe",
         "minutes": 2.6
       },
       {
-        "app": "olk.exe",
-        "minutes": 2.5
+        "app": "SourceTree.exe",
+        "minutes": 2.2
+      },
+      {
+        "app": "AdsPower Global.exe",
+        "minutes": 1.7
       },
       {
         "app": "WindowsTerminal.exe",
         "minutes": 1.4
-      },
-      {
-        "app": "SourceTree.exe",
-        "minutes": 0.7
       },
       {
         "app": "PixPin.exe",
@@ -85,10 +89,6 @@
       },
       {
         "app": "unknown",
-        "minutes": 0.6
-      },
-      {
-        "app": "AdsPower Global.exe",
         "minutes": 0.6
       },
       {
@@ -100,22 +100,30 @@
         "minutes": 0.4
       },
       {
+        "app": "ShellHost.exe",
+        "minutes": 0.4
+      },
+      {
         "app": "FSCapture.exe",
         "minutes": 0.4
       },
       {
-        "app": "ShellHost.exe",
+        "app": "localsend_app.exe",
+        "minutes": 0.2
+      },
+      {
+        "app": "SearchHost.exe",
         "minutes": 0.2
       }
     ],
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 24.7
+        "minutes": 27.2
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 6.1
+        "minutes": 6.7
       },
       {
         "site": "x.com",
@@ -176,6 +184,10 @@
       {
         "site": "blog.cmliussss.com",
         "minutes": 0.3
+      },
+      {
+        "site": "www.spaceship.com",
+        "minutes": 0.2
       },
       {
         "site": "localhost:8080",
