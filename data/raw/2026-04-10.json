@@ -1,43 +1,51 @@
 {
   "date": "2026-04-10",
-  "synced_at": "2026-04-10T04:00:13.552636+00:00",
+  "synced_at": "2026-04-10T05:00:10.311071+00:00",
   "computer": {
-    "active_minutes": 119.1,
-    "afk_minutes": 712.0,
+    "active_minutes": 128.1,
+    "afk_minutes": 830.1,
     "active_intervals": [
       {
         "start": "09:28",
         "end": "11:34"
+      },
+      {
+        "start": "12:17",
+        "end": "12:27"
+      },
+      {
+        "start": "12:56",
+        "end": "12:59"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 36.1
+        "minutes": 39.6
       },
       {
         "app": "claude.exe",
-        "minutes": 17.5
+        "minutes": 18.0
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 15.1
+        "minutes": 16.2
       },
       {
         "app": "msedge.exe",
-        "minutes": 10.5
-      },
-      {
-        "app": "firefox.exe",
-        "minutes": 6.5
+        "minutes": 11.4
       },
       {
         "app": "LockApp.exe",
-        "minutes": 5.4
+        "minutes": 10.3
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 7.2
       },
       {
         "app": "Weixin.exe",
-        "minutes": 5.2
+        "minutes": 5.9
       },
       {
         "app": "Code.exe",
@@ -49,7 +57,7 @@
       },
       {
         "app": "olk.exe",
-        "minutes": 2.1
+        "minutes": 2.2
       },
       {
         "app": "explorer.exe",
@@ -61,7 +69,7 @@
       },
       {
         "app": "unknown",
-        "minutes": 0.5
+        "minutes": 0.6
       },
       {
         "app": "1Password.exe",
@@ -83,15 +91,19 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 6.5
-      },
-      {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 2.5
+        "minutes": 7.2
       },
       {
         "site": "www.juming.com",
-        "minutes": 1.5
+        "minutes": 2.7
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 2.7
+      },
+      {
+        "site": "x.com",
+        "minutes": 2.2
       },
       {
         "site": "jsonbin.io",
@@ -100,10 +112,6 @@
       {
         "site": "localhost:8085",
         "minutes": 0.9
-      },
-      {
-        "site": "x.com",
-        "minutes": 0.8
       },
       {
         "site": "analytics.google.com",
