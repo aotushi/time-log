@@ -1,8 +1,8 @@
 {
   "date": "2026-04-10",
-  "synced_at": "2026-04-10T05:00:10.311071+00:00",
+  "synced_at": "2026-04-10T06:00:10.561840+00:00",
   "computer": {
-    "active_minutes": 128.1,
+    "active_minutes": 188.2,
     "afk_minutes": 830.1,
     "active_intervals": [
       {
@@ -15,61 +15,69 @@
       },
       {
         "start": "12:56",
-        "end": "12:59"
+        "end": "13:59"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 39.6
-      },
-      {
-        "app": "claude.exe",
-        "minutes": 18.0
-      },
-      {
-        "app": "SunBrowser.exe",
-        "minutes": 16.2
+        "minutes": 48.7
       },
       {
         "app": "msedge.exe",
-        "minutes": 11.4
+        "minutes": 29.8
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 23.8
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 18.2
       },
       {
         "app": "LockApp.exe",
-        "minutes": 10.3
+        "minutes": 13.0
       },
       {
         "app": "firefox.exe",
-        "minutes": 7.2
-      },
-      {
-        "app": "Weixin.exe",
-        "minutes": 5.9
+        "minutes": 9.5
       },
       {
         "app": "Code.exe",
-        "minutes": 3.6
+        "minutes": 6.9
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 6.2
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 6.0
       },
       {
         "app": "QQ.exe",
         "minutes": 3.5
       },
       {
-        "app": "olk.exe",
-        "minutes": 2.2
+        "app": "Recordly.exe",
+        "minutes": 2.6
       },
       {
-        "app": "explorer.exe",
-        "minutes": 1.9
+        "app": "olk.exe",
+        "minutes": 2.4
       },
       {
         "app": "WindowsTerminal.exe",
-        "minutes": 1.2
+        "minutes": 1.4
       },
       {
         "app": "unknown",
         "minutes": 0.6
+      },
+      {
+        "app": "ApplicationFrameHost.exe",
+        "minutes": 0.5
       },
       {
         "app": "1Password.exe",
@@ -78,6 +86,10 @@
       {
         "app": "AdsPower Global.exe",
         "minutes": 0.4
+      },
+      {
+        "app": "SourceTree.exe",
+        "minutes": 0.3
       },
       {
         "app": "Antigravity.exe",
@@ -91,35 +103,59 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 7.2
-      },
-      {
-        "site": "www.juming.com",
-        "minutes": 2.7
-      },
-      {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 2.7
+        "minutes": 9.5
       },
       {
         "site": "x.com",
-        "minutes": 2.2
+        "minutes": 4.6
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 3.0
+      },
+      {
+        "site": "www.juming.com",
+        "minutes": 2.8
       },
       {
         "site": "jsonbin.io",
-        "minutes": 1.2
+        "minutes": 1.7
       },
       {
         "site": "localhost:8085",
+        "minutes": 1.1
+      },
+      {
+        "site": "recordly.dev",
         "minutes": 0.9
+      },
+      {
+        "site": "grok.com",
+        "minutes": 0.9
+      },
+      {
+        "site": "2x.nz",
+        "minutes": 0.7
+      },
+      {
+        "site": "github.com",
+        "minutes": 0.7
+      },
+      {
+        "site": "chromewebstore.google.com",
+        "minutes": 0.6
+      },
+      {
+        "site": "eihpmapodnppeemkhkbhikmggfojdkjd",
+        "minutes": 0.6
       },
       {
         "site": "analytics.google.com",
         "minutes": 0.4
       },
       {
-        "site": "github.com",
-        "minutes": 0.4
+        "site": "blog.cmliussss.com",
+        "minutes": 0.2
       },
       {
         "site": "localhost:8080",
