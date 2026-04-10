@@ -1,63 +1,71 @@
 {
   "date": "2026-04-10",
-  "synced_at": "2026-04-10T03:00:14.227049+00:00",
+  "synced_at": "2026-04-10T04:00:13.552636+00:00",
   "computer": {
-    "active_minutes": 87.7,
-    "afk_minutes": 579.1,
+    "active_minutes": 119.1,
+    "afk_minutes": 712.0,
     "active_intervals": [
       {
         "start": "09:28",
-        "end": "10:59"
+        "end": "11:34"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 33.5
+        "minutes": 36.1
       },
       {
         "app": "claude.exe",
-        "minutes": 15.0
+        "minutes": 17.5
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 12.4
+        "minutes": 15.1
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 10.5
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 6.5
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 5.4
       },
       {
         "app": "Weixin.exe",
-        "minutes": 3.7
+        "minutes": 5.2
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 3.6
       },
       {
         "app": "QQ.exe",
         "minutes": 3.5
       },
       {
-        "app": "Code.exe",
-        "minutes": 2.6
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 1.9
-      },
-      {
         "app": "olk.exe",
-        "minutes": 1.7
+        "minutes": 2.1
       },
       {
         "app": "explorer.exe",
-        "minutes": 1.7
+        "minutes": 1.9
       },
       {
         "app": "WindowsTerminal.exe",
         "minutes": 1.2
       },
       {
-        "app": "msedge.exe",
-        "minutes": 0.8
-      },
-      {
         "app": "unknown",
         "minutes": 0.5
+      },
+      {
+        "app": "1Password.exe",
+        "minutes": 0.4
       },
       {
         "app": "AdsPower Global.exe",
@@ -68,11 +76,19 @@
         "minutes": 0.3
       },
       {
-        "app": "firefox.exe",
+        "app": "ShellHost.exe",
         "minutes": 0.2
       }
     ],
     "sites": [
+      {
+        "site": "dash.cloudflare.com",
+        "minutes": 6.5
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 2.5
+      },
       {
         "site": "www.juming.com",
         "minutes": 1.5
@@ -82,23 +98,23 @@
         "minutes": 1.2
       },
       {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 1.0
-      },
-      {
         "site": "localhost:8085",
         "minutes": 0.9
+      },
+      {
+        "site": "x.com",
+        "minutes": 0.8
       },
       {
         "site": "analytics.google.com",
         "minutes": 0.4
       },
       {
-        "site": "localhost:8080",
-        "minutes": 0.2
+        "site": "github.com",
+        "minutes": 0.4
       },
       {
-        "site": "dash.cloudflare.com",
+        "site": "localhost:8080",
         "minutes": 0.2
       }
     ]
