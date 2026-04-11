@@ -1,9 +1,9 @@
 {
   "date": "2026-04-11",
-  "synced_at": "2026-04-11T12:00:09.958418+00:00",
+  "synced_at": "2026-04-11T13:00:09.975151+00:00",
   "computer": {
-    "active_minutes": 96.3,
-    "afk_minutes": 625.2,
+    "active_minutes": 146.2,
+    "afk_minutes": 635.2,
     "active_intervals": [
       {
         "start": "09:55",
@@ -52,12 +52,16 @@
       {
         "start": "16:56",
         "end": "17:18"
+      },
+      {
+        "start": "20:09",
+        "end": "20:59"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 143.0
+        "minutes": 189.5
       },
       {
         "app": "eudic.exe",
@@ -131,7 +135,7 @@
     "sites": [
       {
         "site": "anthropic.skilljar.com",
-        "minutes": 4.3
+        "minutes": 7.0
       },
       {
         "site": "www.zhihu.com",
