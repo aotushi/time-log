@@ -1,9 +1,9 @@
 {
   "date": "2026-04-12",
-  "synced_at": "2026-04-12T07:00:09.889136+00:00",
+  "synced_at": "2026-04-12T08:00:10.031519+00:00",
   "computer": {
-    "active_minutes": 165.2,
-    "afk_minutes": 767.5,
+    "active_minutes": 179.1,
+    "afk_minutes": 814.5,
     "active_intervals": [
       {
         "start": "11:05",
@@ -12,40 +12,52 @@
       {
         "start": "14:00",
         "end": "14:18"
+      },
+      {
+        "start": "15:47",
+        "end": "15:59"
+      },
+      {
+        "start": "15:47",
+        "end": "15:48"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 74.4
+        "minutes": 78.6
       },
       {
         "app": "Code.exe",
-        "minutes": 42.1
+        "minutes": 47.0
       },
       {
         "app": "chrome.exe",
-        "minutes": 29.6
+        "minutes": 30.4
       },
       {
         "app": "claude.exe",
         "minutes": 14.1
       },
       {
+        "app": "Weixin.exe",
+        "minutes": 3.7
+      },
+      {
         "app": "SourceTree.exe",
         "minutes": 2.8
       },
       {
-        "app": "Weixin.exe",
-        "minutes": 2.0
-      },
-      {
         "app": "explorer.exe",
-        "minutes": 1.8
+        "minutes": 2.0
       },
       {
         "app": "eudic.exe",
         "minutes": 1.0
+      },
+      {
+        "app": "Typora.exe",
+        "minutes": 0.9
       },
       {
         "app": "LockApp.exe",
@@ -55,7 +67,7 @@
     "sites": [
       {
         "site": "www.xiaohongshu.com",
-        "minutes": 4.2
+        "minutes": 4.3
       },
       {
         "site": "aicodewith.com",
