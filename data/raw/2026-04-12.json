@@ -1,27 +1,31 @@
 {
   "date": "2026-04-12",
-  "synced_at": "2026-04-12T06:00:09.974229+00:00",
+  "synced_at": "2026-04-12T07:00:09.889136+00:00",
   "computer": {
-    "active_minutes": 154.6,
-    "afk_minutes": 693.2,
+    "active_minutes": 165.2,
+    "afk_minutes": 767.5,
     "active_intervals": [
       {
         "start": "11:05",
         "end": "13:46"
+      },
+      {
+        "start": "14:00",
+        "end": "14:18"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 58.9
+        "minutes": 74.4
       },
       {
         "app": "Code.exe",
-        "minutes": 41.5
+        "minutes": 42.1
       },
       {
         "app": "chrome.exe",
-        "minutes": 29.1
+        "minutes": 29.6
       },
       {
         "app": "claude.exe",
@@ -29,7 +33,7 @@
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 2.5
+        "minutes": 2.8
       },
       {
         "app": "Weixin.exe",
@@ -50,6 +54,10 @@
     ],
     "sites": [
       {
+        "site": "www.xiaohongshu.com",
+        "minutes": 4.2
+      },
+      {
         "site": "aicodewith.com",
         "minutes": 4.0
       },
@@ -59,11 +67,7 @@
       },
       {
         "site": "grok.com",
-        "minutes": 2.6
-      },
-      {
-        "site": "www.xiaohongshu.com",
-        "minutes": 2.3
+        "minutes": 3.7
       },
       {
         "site": "weibo.com",
@@ -82,7 +86,15 @@
         "minutes": 1.2
       },
       {
+        "site": "ghproxy.vip",
+        "minutes": 0.7
+      },
+      {
         "site": "claude.ai",
+        "minutes": 0.5
+      },
+      {
+        "site": "ghproxy.link",
         "minutes": 0.5
       },
       {
@@ -94,12 +106,8 @@
         "minutes": 0.4
       },
       {
-        "site": "ghproxy.link",
-        "minutes": 0.3
-      },
-      {
         "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
-        "minutes": 0.2
+        "minutes": 0.3
       },
       {
         "site": "www.youtube.com",
@@ -107,6 +115,10 @@
       },
       {
         "site": "www.yfsp.tv",
+        "minutes": 0.2
+      },
+      {
+        "site": "gh-proxy.com",
         "minutes": 0.2
       }
     ]
