@@ -1,9 +1,9 @@
 {
   "date": "2026-04-12",
-  "synced_at": "2026-04-12T13:00:10.036827+00:00",
+  "synced_at": "2026-04-12T14:00:10.186190+00:00",
   "computer": {
-    "active_minutes": 290.7,
-    "afk_minutes": 1076.3,
+    "active_minutes": 323.0,
+    "afk_minutes": 1118.4,
     "active_intervals": [
       {
         "start": "11:05",
@@ -36,44 +36,52 @@
       {
         "start": "19:22",
         "end": "19:28"
+      },
+      {
+        "start": "21:03",
+        "end": "22:00"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 115.9
+        "minutes": 124.7
       },
       {
         "app": "Code.exe",
-        "minutes": 88.2
+        "minutes": 102.0
       },
       {
         "app": "chrome.exe",
-        "minutes": 60.4
+        "minutes": 64.8
       },
       {
         "app": "claude.exe",
-        "minutes": 14.1
+        "minutes": 22.4
+      },
+      {
+        "app": "unknown",
+        "minutes": 14.4
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 8.4
+        "minutes": 9.5
       },
       {
         "app": "Weixin.exe",
-        "minutes": 4.3
+        "minutes": 5.1
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 3.9
       },
       {
         "app": "eudic.exe",
         "minutes": 2.8
       },
       {
-        "app": "explorer.exe",
-        "minutes": 2.8
-      },
-      {
         "app": "ShellHost.exe",
-        "minutes": 2.1
+        "minutes": 2.6
       },
       {
         "app": "Typora.exe",
@@ -91,11 +99,11 @@
     "sites": [
       {
         "site": "localhost:5173",
-        "minutes": 7.8
+        "minutes": 8.3
       },
       {
         "site": "aicodewith.com",
-        "minutes": 6.2
+        "minutes": 6.5
       },
       {
         "site": "www.xiaohongshu.com",
@@ -108,6 +116,10 @@
       {
         "site": "www.yfsp.tv",
         "minutes": 3.3
+      },
+      {
+        "site": "www.bilibili.com",
+        "minutes": 3.1
       },
       {
         "site": "weibo.com",
