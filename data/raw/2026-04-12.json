@@ -1,9 +1,9 @@
 {
   "date": "2026-04-12",
-  "synced_at": "2026-04-12T09:00:09.992622+00:00",
+  "synced_at": "2026-04-12T10:00:10.033175+00:00",
   "computer": {
-    "active_minutes": 228.7,
-    "afk_minutes": 835.3,
+    "active_minutes": 257.0,
+    "afk_minutes": 866.8,
     "active_intervals": [
       {
         "start": "11:05",
@@ -20,20 +20,24 @@
       {
         "start": "15:47",
         "end": "15:48"
+      },
+      {
+        "start": "17:31",
+        "end": "17:59"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 92.2
+        "minutes": 102.1
       },
       {
         "app": "Code.exe",
-        "minutes": 69.5
+        "minutes": 76.2
       },
       {
         "app": "chrome.exe",
-        "minutes": 32.3
+        "minutes": 40.9
       },
       {
         "app": "claude.exe",
@@ -41,19 +45,19 @@
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 8.3
+        "minutes": 8.4
       },
       {
         "app": "Weixin.exe",
-        "minutes": 3.9
+        "minutes": 4.1
+      },
+      {
+        "app": "eudic.exe",
+        "minutes": 2.8
       },
       {
         "app": "explorer.exe",
         "minutes": 2.7
-      },
-      {
-        "app": "eudic.exe",
-        "minutes": 2.6
       },
       {
         "app": "Typora.exe",
@@ -70,16 +74,16 @@
     ],
     "sites": [
       {
+        "site": "localhost:5173",
+        "minutes": 6.1
+      },
+      {
         "site": "www.xiaohongshu.com",
         "minutes": 4.3
       },
       {
-        "site": "localhost:5173",
-        "minutes": 4.2
-      },
-      {
         "site": "aicodewith.com",
-        "minutes": 4.0
+        "minutes": 4.1
       },
       {
         "site": "grok.com",
@@ -87,11 +91,15 @@
       },
       {
         "site": "weibo.com",
-        "minutes": 1.9
+        "minutes": 2.8
       },
       {
         "site": "github.com",
-        "minutes": 1.7
+        "minutes": 2.6
+      },
+      {
+        "site": "www.yfsp.tv",
+        "minutes": 2.4
       },
       {
         "site": "anthropic.skilljar.com",
@@ -102,12 +110,12 @@
         "minutes": 1.2
       },
       {
-        "site": "www.yfsp.tv",
-        "minutes": 1.2
+        "site": "ghproxy.vip",
+        "minutes": 1.0
       },
       {
-        "site": "ghproxy.vip",
-        "minutes": 0.7
+        "site": "www.youtube.com",
+        "minutes": 0.6
       },
       {
         "site": "claude.ai",
@@ -128,10 +136,6 @@
       {
         "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
         "minutes": 0.3
-      },
-      {
-        "site": "www.youtube.com",
-        "minutes": 0.2
       },
       {
         "site": "gh-proxy.com",
