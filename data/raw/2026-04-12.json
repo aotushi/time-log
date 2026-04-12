@@ -1,47 +1,47 @@
 {
   "date": "2026-04-12",
-  "synced_at": "2026-04-12T04:00:12.456595+00:00",
+  "synced_at": "2026-04-12T05:00:09.915312+00:00",
   "computer": {
-    "active_minutes": 47.7,
+    "active_minutes": 107.9,
     "afk_minutes": 675.8,
     "active_intervals": [
       {
         "start": "11:05",
-        "end": "11:59"
+        "end": "13:00"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 25.3
-      },
-      {
-        "app": "claude.exe",
-        "minutes": 13.5
-      },
-      {
-        "app": "chrome.exe",
-        "minutes": 4.3
+        "minutes": 40.9
       },
       {
         "app": "Code.exe",
-        "minutes": 3.1
+        "minutes": 32.0
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 14.7
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 14.1
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 1.9
+        "minutes": 2.0
       },
       {
         "app": "explorer.exe",
-        "minutes": 1.2
+        "minutes": 1.8
+      },
+      {
+        "app": "eudic.exe",
+        "minutes": 1.0
       },
       {
         "app": "Weixin.exe",
         "minutes": 0.9
-      },
-      {
-        "app": "eudic.exe",
-        "minutes": 0.5
       },
       {
         "app": "LockApp.exe",
@@ -51,15 +51,31 @@
     "sites": [
       {
         "site": "aicodewith.com",
-        "minutes": 1.0
+        "minutes": 2.6
+      },
+      {
+        "site": "localhost:5173",
+        "minutes": 1.4
       },
       {
         "site": "anthropic.skilljar.com",
-        "minutes": 0.7
+        "minutes": 1.4
+      },
+      {
+        "site": "weibo.com",
+        "minutes": 1.2
       },
       {
         "site": "www.zhipin.com",
-        "minutes": 0.6
+        "minutes": 1.2
+      },
+      {
+        "site": "github.com",
+        "minutes": 1.0
+      },
+      {
+        "site": "grok.com",
+        "minutes": 1.0
       },
       {
         "site": "claude.ai",
@@ -67,7 +83,11 @@
       },
       {
         "site": "claude.com",
-        "minutes": 0.2
+        "minutes": 0.5
+      },
+      {
+        "site": "docs.aicodewith.com",
+        "minutes": 0.4
       },
       {
         "site": "www.youtube.com",
@@ -75,6 +95,10 @@
       },
       {
         "site": "www.yfsp.tv",
+        "minutes": 0.2
+      },
+      {
+        "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
         "minutes": 0.2
       }
     ]
