@@ -1,11 +1,82 @@
 {
   "date": "2026-04-12",
-  "synced_at": "2026-04-12T03:05:42.308172+00:00",
+  "synced_at": "2026-04-12T04:00:12.456595+00:00",
   "computer": {
-    "active_minutes": 0.0,
-    "afk_minutes": 0.0,
-    "active_intervals": [],
-    "apps": [],
-    "sites": []
+    "active_minutes": 47.7,
+    "afk_minutes": 675.8,
+    "active_intervals": [
+      {
+        "start": "11:05",
+        "end": "11:59"
+      }
+    ],
+    "apps": [
+      {
+        "app": "msedge.exe",
+        "minutes": 25.3
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 13.5
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 4.3
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 3.1
+      },
+      {
+        "app": "SourceTree.exe",
+        "minutes": 1.9
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 1.2
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 0.9
+      },
+      {
+        "app": "eudic.exe",
+        "minutes": 0.5
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 0.3
+      }
+    ],
+    "sites": [
+      {
+        "site": "aicodewith.com",
+        "minutes": 1.0
+      },
+      {
+        "site": "anthropic.skilljar.com",
+        "minutes": 0.7
+      },
+      {
+        "site": "www.zhipin.com",
+        "minutes": 0.6
+      },
+      {
+        "site": "claude.ai",
+        "minutes": 0.5
+      },
+      {
+        "site": "claude.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "www.youtube.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "www.yfsp.tv",
+        "minutes": 0.2
+      }
+    ]
   }
 }
