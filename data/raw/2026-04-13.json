@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
-  "synced_at": "2026-04-13T08:00:10.409507+00:00",
+  "synced_at": "2026-04-13T09:00:10.538734+00:00",
   "computer": {
-    "active_minutes": 332.0,
+    "active_minutes": 392.0,
     "afk_minutes": 91.4,
     "active_intervals": [
       {
@@ -23,7 +23,7 @@
       },
       {
         "start": "12:46",
-        "end": "15:59"
+        "end": "16:59"
       }
     ],
     "apps": [
@@ -33,43 +33,43 @@
       },
       {
         "app": "Antigravity.exe",
-        "minutes": 63.0
+        "minutes": 82.7
       },
       {
         "app": "msedge.exe",
-        "minutes": 62.5
+        "minutes": 74.0
       },
       {
         "app": "chrome.exe",
-        "minutes": 58.4
+        "minutes": 61.3
       },
       {
         "app": "Code.exe",
-        "minutes": 40.8
+        "minutes": 46.2
       },
       {
         "app": "firefox.exe",
-        "minutes": 38.3
+        "minutes": 43.8
       },
       {
         "app": "Weixin.exe",
-        "minutes": 26.2
+        "minutes": 26.9
       },
       {
         "app": "LockApp.exe",
-        "minutes": 18.6
+        "minutes": 21.3
+      },
+      {
+        "app": "SourceTree.exe",
+        "minutes": 12.2
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 7.4
       },
       {
         "app": "AdsPower Global.exe",
         "minutes": 7.2
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 7.1
-      },
-      {
-        "app": "SourceTree.exe",
-        "minutes": 6.3
       },
       {
         "app": "olk.exe",
@@ -78,6 +78,10 @@
       {
         "app": "WeChatAppEx.exe",
         "minutes": 3.3
+      },
+      {
+        "app": "clash-verge.exe",
+        "minutes": 1.5
       },
       {
         "app": "Telegram.exe",
@@ -112,10 +116,6 @@
         "minutes": 0.4
       },
       {
-        "app": "clash-verge.exe",
-        "minutes": 0.2
-      },
-      {
         "app": "1Password.exe",
         "minutes": 0.2
       }
@@ -123,7 +123,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 33.5
+        "minutes": 39.1
       },
       {
         "site": "weijukeji.feishu.cn",
@@ -150,12 +150,20 @@
         "minutes": 1.4
       },
       {
+        "site": "x.com",
+        "minutes": 1.0
+      },
+      {
         "site": "www.juming.com",
         "minutes": 1.0
       },
       {
         "site": "account.live.com",
         "minutes": 0.9
+      },
+      {
+        "site": "ax.awwoe.top",
+        "minutes": 0.8
       },
       {
         "site": "2x.nz",
@@ -168,10 +176,6 @@
       {
         "site": "claude.ai",
         "minutes": 0.5
-      },
-      {
-        "site": "ax.awwoe.top",
-        "minutes": 0.4
       },
       {
         "site": "login.microsoft.com",
@@ -191,6 +195,10 @@
       },
       {
         "site": "excashier.alipay.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "localhost:3000",
         "minutes": 0.2
       },
       {
