@@ -1,9 +1,9 @@
 {
   "date": "2026-04-13",
-  "synced_at": "2026-04-13T04:00:13.278824+00:00",
+  "synced_at": "2026-04-13T05:00:10.164058+00:00",
   "computer": {
-    "active_minutes": 129.4,
-    "afk_minutes": 41.1,
+    "active_minutes": 155.7,
+    "afk_minutes": 84.5,
     "active_intervals": [
       {
         "start": "09:25",
@@ -12,9 +12,25 @@
       {
         "start": "09:25",
         "end": "11:37"
+      },
+      {
+        "start": "12:28",
+        "end": "12:56"
+      },
+      {
+        "start": "12:46",
+        "end": "12:48"
+      },
+      {
+        "start": "12:46",
+        "end": "13:00"
       }
     ],
     "apps": [
+      {
+        "app": "msedge.exe",
+        "minutes": 51.2
+      },
       {
         "app": "SunBrowser.exe",
         "minutes": 46.0
@@ -25,7 +41,7 @@
       },
       {
         "app": "Code.exe",
-        "minutes": 34.3
+        "minutes": 36.3
       },
       {
         "app": "firefox.exe",
@@ -33,7 +49,7 @@
       },
       {
         "app": "Weixin.exe",
-        "minutes": 14.9
+        "minutes": 15.0
       },
       {
         "app": "LockApp.exe",
@@ -44,16 +60,12 @@
         "minutes": 14.2
       },
       {
-        "app": "msedge.exe",
-        "minutes": 13.7
-      },
-      {
         "app": "explorer.exe",
         "minutes": 5.4
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 3.9
+        "minutes": 4.9
       },
       {
         "app": "SourceTree.exe",
@@ -72,16 +84,16 @@
         "minutes": 1.0
       },
       {
+        "app": "eudic.exe",
+        "minutes": 0.9
+      },
+      {
         "app": "ShellExperienceHost.exe",
         "minutes": 0.8
       },
       {
         "app": "ShellHost.exe",
         "minutes": 0.6
-      },
-      {
-        "app": "eudic.exe",
-        "minutes": 0.5
       },
       {
         "app": "SearchHost.exe",
@@ -118,16 +130,24 @@
         "minutes": 6.4
       },
       {
+        "site": "anthropic.skilljar.com",
+        "minutes": 2.5
+      },
+      {
+        "site": "grok.com",
+        "minutes": 2.4
+      },
+      {
         "site": "caaca.top",
+        "minutes": 1.5
+      },
+      {
+        "site": "weibo.com",
         "minutes": 1.5
       },
       {
         "site": "github.com",
         "minutes": 1.4
-      },
-      {
-        "site": "grok.com",
-        "minutes": 1.0
       },
       {
         "site": "www.juming.com",
@@ -140,10 +160,6 @@
       {
         "site": "claude.ai",
         "minutes": 0.5
-      },
-      {
-        "site": "anthropic.skilljar.com",
-        "minutes": 0.2
       },
       {
         "site": "www.vivo.com",
