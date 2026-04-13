@@ -1,9 +1,9 @@
 {
   "date": "2026-04-13",
-  "synced_at": "2026-04-13T06:00:10.236644+00:00",
+  "synced_at": "2026-04-13T07:00:10.415183+00:00",
   "computer": {
-    "active_minutes": 215.7,
-    "afk_minutes": 84.5,
+    "active_minutes": 271.9,
+    "afk_minutes": 91.4,
     "active_intervals": [
       {
         "start": "09:25",
@@ -23,49 +23,49 @@
       },
       {
         "start": "12:46",
-        "end": "14:00"
+        "end": "14:59"
       }
     ],
     "apps": [
       {
         "app": "SunBrowser.exe",
-        "minutes": 57.1
+        "minutes": 73.0
       },
       {
         "app": "msedge.exe",
-        "minutes": 52.5
+        "minutes": 58.2
       },
       {
         "app": "chrome.exe",
-        "minutes": 51.9
-      },
-      {
-        "app": "Code.exe",
-        "minutes": 39.1
+        "minutes": 53.9
       },
       {
         "app": "Antigravity.exe",
-        "minutes": 30.1
+        "minutes": 46.6
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 40.2
       },
       {
         "app": "firefox.exe",
-        "minutes": 29.6
+        "minutes": 30.0
       },
       {
         "app": "Weixin.exe",
-        "minutes": 15.8
+        "minutes": 22.1
       },
       {
         "app": "LockApp.exe",
-        "minutes": 15.7
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 6.1
+        "minutes": 18.6
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 5.5
+        "minutes": 7.2
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 7.1
       },
       {
         "app": "SourceTree.exe",
@@ -77,11 +77,11 @@
       },
       {
         "app": "olk.exe",
-        "minutes": 2.5
+        "minutes": 3.0
       },
       {
         "app": "Telegram.exe",
-        "minutes": 1.0
+        "minutes": 1.2
       },
       {
         "app": "eudic.exe",
@@ -127,15 +127,15 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 7.2
+        "minutes": 8.3
+      },
+      {
+        "site": "grok.com",
+        "minutes": 3.6
       },
       {
         "site": "anthropic.skilljar.com",
         "minutes": 2.5
-      },
-      {
-        "site": "grok.com",
-        "minutes": 2.4
       },
       {
         "site": "caaca.top",
@@ -167,7 +167,7 @@
       },
       {
         "site": "ax.awwoe.top",
-        "minutes": 0.3
+        "minutes": 0.4
       },
       {
         "site": "cx.awwoe.top",
@@ -175,6 +175,10 @@
       },
       {
         "site": "www.vivo.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "wanwang.aliyun.com",
         "minutes": 0.2
       }
     ]
