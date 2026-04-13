@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
-  "synced_at": "2026-04-13T09:00:10.538734+00:00",
+  "synced_at": "2026-04-13T10:00:10.658999+00:00",
   "computer": {
-    "active_minutes": 392.0,
+    "active_minutes": 452.1,
     "afk_minutes": 91.4,
     "active_intervals": [
       {
@@ -23,13 +23,13 @@
       },
       {
         "start": "12:46",
-        "end": "16:59"
+        "end": "18:00"
       }
     ],
     "apps": [
       {
         "app": "SunBrowser.exe",
-        "minutes": 85.4
+        "minutes": 104.2
       },
       {
         "app": "Antigravity.exe",
@@ -37,23 +37,23 @@
       },
       {
         "app": "msedge.exe",
-        "minutes": 74.0
+        "minutes": 79.2
       },
       {
         "app": "chrome.exe",
-        "minutes": 61.3
+        "minutes": 67.3
       },
       {
         "app": "Code.exe",
-        "minutes": 46.2
+        "minutes": 61.4
       },
       {
         "app": "firefox.exe",
-        "minutes": 43.8
+        "minutes": 47.7
       },
       {
         "app": "Weixin.exe",
-        "minutes": 26.9
+        "minutes": 27.9
       },
       {
         "app": "LockApp.exe",
@@ -61,19 +61,19 @@
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 12.2
+        "minutes": 14.5
       },
       {
         "app": "explorer.exe",
-        "minutes": 7.4
+        "minutes": 7.6
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 7.2
+        "minutes": 7.4
       },
       {
         "app": "olk.exe",
-        "minutes": 3.3
+        "minutes": 3.5
       },
       {
         "app": "WeChatAppEx.exe",
@@ -89,15 +89,15 @@
       },
       {
         "app": "eudic.exe",
+        "minutes": 1.0
+      },
+      {
+        "app": "ShellHost.exe",
         "minutes": 0.9
       },
       {
         "app": "ShellExperienceHost.exe",
         "minutes": 0.8
-      },
-      {
-        "app": "ShellHost.exe",
-        "minutes": 0.6
       },
       {
         "app": "SearchHost.exe",
@@ -112,6 +112,10 @@
         "minutes": 0.4
       },
       {
+        "app": "localsend_app.exe",
+        "minutes": 0.4
+      },
+      {
         "app": "geek64.exe",
         "minutes": 0.4
       },
@@ -123,11 +127,11 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 39.1
+        "minutes": 43.0
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 9.2
+        "minutes": 11.6
       },
       {
         "site": "grok.com",
