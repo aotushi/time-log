@@ -1,8 +1,8 @@
 {
   "date": "2026-04-13",
-  "synced_at": "2026-04-13T05:00:10.164058+00:00",
+  "synced_at": "2026-04-13T06:00:10.236644+00:00",
   "computer": {
-    "active_minutes": 155.7,
+    "active_minutes": 215.7,
     "afk_minutes": 84.5,
     "active_intervals": [
       {
@@ -23,53 +23,53 @@
       },
       {
         "start": "12:46",
-        "end": "13:00"
+        "end": "14:00"
       }
     ],
     "apps": [
       {
-        "app": "msedge.exe",
-        "minutes": 51.2
+        "app": "SunBrowser.exe",
+        "minutes": 57.1
       },
       {
-        "app": "SunBrowser.exe",
-        "minutes": 46.0
+        "app": "msedge.exe",
+        "minutes": 52.5
       },
       {
         "app": "chrome.exe",
-        "minutes": 40.6
+        "minutes": 51.9
       },
       {
         "app": "Code.exe",
-        "minutes": 36.3
-      },
-      {
-        "app": "firefox.exe",
-        "minutes": 23.0
-      },
-      {
-        "app": "Weixin.exe",
-        "minutes": 15.0
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 14.6
+        "minutes": 39.1
       },
       {
         "app": "Antigravity.exe",
-        "minutes": 14.2
+        "minutes": 30.1
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 29.6
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 15.8
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 15.7
       },
       {
         "app": "explorer.exe",
-        "minutes": 5.4
+        "minutes": 6.1
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 4.9
+        "minutes": 5.5
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 3.3
+        "minutes": 4.7
       },
       {
         "app": "WeChatAppEx.exe",
@@ -123,11 +123,11 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 21.6
+        "minutes": 27.7
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 6.4
+        "minutes": 7.2
       },
       {
         "site": "anthropic.skilljar.com",
@@ -158,8 +158,20 @@
         "minutes": 0.6
       },
       {
+        "site": "imgs.awwoe.top",
+        "minutes": 0.5
+      },
+      {
         "site": "claude.ai",
         "minutes": 0.5
+      },
+      {
+        "site": "ax.awwoe.top",
+        "minutes": 0.3
+      },
+      {
+        "site": "cx.awwoe.top",
+        "minutes": 0.2
       },
       {
         "site": "www.vivo.com",
