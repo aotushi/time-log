@@ -1,9 +1,9 @@
 {
   "date": "2026-04-13",
-  "synced_at": "2026-04-13T13:00:10.722282+00:00",
+  "synced_at": "2026-04-13T14:00:11.008419+00:00",
   "computer": {
-    "active_minutes": 512.4,
-    "afk_minutes": 356.8,
+    "active_minutes": 532.9,
+    "afk_minutes": 420.5,
     "active_intervals": [
       {
         "start": "09:25",
@@ -24,6 +24,14 @@
       {
         "start": "12:46",
         "end": "19:03"
+      },
+      {
+        "start": "21:26",
+        "end": "21:29"
+      },
+      {
+        "start": "21:26",
+        "end": "22:00"
       }
     ],
     "apps": [
@@ -37,7 +45,7 @@
       },
       {
         "app": "chrome.exe",
-        "minutes": 83.5
+        "minutes": 86.2
       },
       {
         "app": "Antigravity.exe",
@@ -45,15 +53,19 @@
       },
       {
         "app": "Code.exe",
-        "minutes": 75.8
+        "minutes": 77.2
       },
       {
         "app": "firefox.exe",
-        "minutes": 55.7
+        "minutes": 56.3
       },
       {
         "app": "Weixin.exe",
         "minutes": 30.1
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 25.0
       },
       {
         "app": "LockApp.exe",
@@ -61,19 +73,19 @@
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 14.5
+        "minutes": 16.9
       },
       {
         "app": "explorer.exe",
-        "minutes": 8.7
+        "minutes": 12.1
       },
       {
         "app": "AdsPower Global.exe",
         "minutes": 7.4
       },
       {
-        "app": "claude.exe",
-        "minutes": 5.4
+        "app": "ApplicationFrameHost.exe",
+        "minutes": 3.8
       },
       {
         "app": "olk.exe",
@@ -105,11 +117,11 @@
       },
       {
         "app": "SearchHost.exe",
-        "minutes": 0.6
+        "minutes": 0.7
       },
       {
         "app": "PixPin.exe",
-        "minutes": 0.4
+        "minutes": 0.6
       },
       {
         "app": "TaskExplorer.exe",
@@ -124,6 +136,10 @@
         "minutes": 0.4
       },
       {
+        "app": "unknown",
+        "minutes": 0.2
+      },
+      {
         "app": "1Password.exe",
         "minutes": 0.2
       }
@@ -131,7 +147,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 50.9
+        "minutes": 51.5
       },
       {
         "site": "weijukeji.feishu.cn",
