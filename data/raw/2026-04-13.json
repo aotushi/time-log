@@ -1,128 +1,152 @@
 {
   "date": "2026-04-13",
-  "synced_at": "2026-04-13T03:00:10.225578+00:00",
+  "synced_at": "2026-04-13T04:00:13.278824+00:00",
   "computer": {
-    "active_minutes": 96.6,
-    "afk_minutes": 0.0,
+    "active_minutes": 129.4,
+    "afk_minutes": 41.1,
     "active_intervals": [
       {
         "start": "09:25",
-        "end": "10:59"
+        "end": "11:32"
       },
       {
         "start": "09:25",
-        "end": "09:28"
+        "end": "11:37"
       }
     ],
     "apps": [
       {
         "app": "SunBrowser.exe",
-        "minutes": 18.0
+        "minutes": 46.0
       },
       {
         "app": "chrome.exe",
-        "minutes": 17.5
+        "minutes": 40.6
       },
       {
         "app": "Code.exe",
-        "minutes": 8.8
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 6.6
+        "minutes": 34.3
       },
       {
         "app": "firefox.exe",
-        "minutes": 6.3
-      },
-      {
-        "app": "msedge.exe",
-        "minutes": 5.4
+        "minutes": 23.0
       },
       {
         "app": "Weixin.exe",
-        "minutes": 5.2
+        "minutes": 14.9
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 14.6
       },
       {
         "app": "Antigravity.exe",
-        "minutes": 4.3
+        "minutes": 14.2
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 13.7
       },
       {
         "app": "explorer.exe",
-        "minutes": 1.9
+        "minutes": 5.4
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 1.7
-      },
-      {
-        "app": "WeChatAppEx.exe",
-        "minutes": 1.6
+        "minutes": 3.9
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 1.6
+        "minutes": 3.3
+      },
+      {
+        "app": "WeChatAppEx.exe",
+        "minutes": 3.3
       },
       {
         "app": "olk.exe",
-        "minutes": 1.2
+        "minutes": 2.5
       },
       {
         "app": "Telegram.exe",
-        "minutes": 0.5
+        "minutes": 1.0
       },
       {
         "app": "ShellExperienceHost.exe",
-        "minutes": 0.4
+        "minutes": 0.8
       },
       {
         "app": "ShellHost.exe",
-        "minutes": 0.3
+        "minutes": 0.6
+      },
+      {
+        "app": "eudic.exe",
+        "minutes": 0.5
       },
       {
         "app": "SearchHost.exe",
-        "minutes": 0.3
+        "minutes": 0.5
       },
       {
         "app": "TaskExplorer.exe",
-        "minutes": 0.2
+        "minutes": 0.4
       },
       {
         "app": "geek64.exe",
-        "minutes": 0.2
+        "minutes": 0.4
       },
       {
         "app": "PixPin.exe",
+        "minutes": 0.4
+      },
+      {
+        "app": "clash-verge.exe",
+        "minutes": 0.2
+      },
+      {
+        "app": "1Password.exe",
         "minutes": 0.2
       }
     ],
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 6.0
+        "minutes": 21.6
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 2.1
+        "minutes": 6.4
       },
       {
         "site": "caaca.top",
-        "minutes": 0.7
+        "minutes": 1.5
       },
       {
         "site": "github.com",
-        "minutes": 0.7
+        "minutes": 1.4
+      },
+      {
+        "site": "grok.com",
+        "minutes": 1.0
       },
       {
         "site": "www.juming.com",
-        "minutes": 0.3
+        "minutes": 0.7
       },
       {
         "site": "2x.nz",
-        "minutes": 0.3
+        "minutes": 0.6
       },
       {
         "site": "claude.ai",
+        "minutes": 0.5
+      },
+      {
+        "site": "anthropic.skilljar.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "www.vivo.com",
         "minutes": 0.2
       }
     ]
