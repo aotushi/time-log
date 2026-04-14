@@ -1,9 +1,9 @@
 {
   "date": "2026-04-14",
-  "synced_at": "2026-04-14T14:00:10.417290+00:00",
+  "synced_at": "2026-04-14T15:00:10.668503+00:00",
   "computer": {
-    "active_minutes": 502.9,
-    "afk_minutes": 925.8,
+    "active_minutes": 536.0,
+    "afk_minutes": 951.4,
     "active_intervals": [
       {
         "start": "09:16",
@@ -20,71 +20,87 @@
       {
         "start": "17:53",
         "end": "17:54"
+      },
+      {
+        "start": "22:25",
+        "end": "22:58"
+      },
+      {
+        "start": "22:25",
+        "end": "22:25"
       }
     ],
     "apps": [
       {
         "app": "Code.exe",
-        "minutes": 117.7
+        "minutes": 119.1
       },
       {
         "app": "msedge.exe",
-        "minutes": 94.9
+        "minutes": 100.3
       },
       {
         "app": "chrome.exe",
-        "minutes": 53.6
+        "minutes": 59.5
       },
       {
         "app": "firefox.exe",
-        "minutes": 51.0
+        "minutes": 54.6
       },
       {
         "app": "SunBrowser.exe",
         "minutes": 50.3
       },
       {
-        "app": "Weixin.exe",
-        "minutes": 30.7
+        "app": "claude.exe",
+        "minutes": 35.8
       },
       {
-        "app": "claude.exe",
-        "minutes": 29.2
+        "app": "Weixin.exe",
+        "minutes": 32.2
       },
       {
         "app": "LockApp.exe",
         "minutes": 12.8
       },
       {
-        "app": "olk.exe",
-        "minutes": 5.7
+        "app": "explorer.exe",
+        "minutes": 7.3
       },
       {
-        "app": "explorer.exe",
-        "minutes": 4.9
+        "app": "olk.exe",
+        "minutes": 5.7
       },
       {
         "app": "AdsPower Global.exe",
         "minutes": 4.4
       },
       {
+        "app": "unknown",
+        "minutes": 1.7
+      },
+      {
         "app": "SourceTree.exe",
         "minutes": 1.2
+      },
+      {
+        "app": "ApplicationFrameHost.exe",
+        "minutes": 1.1
       },
       {
         "app": "WindowsTerminal.exe",
         "minutes": 0.9
       },
       {
-        "app": "ApplicationFrameHost.exe",
-        "minutes": 0.9
+        "app": "PixPin.exe",
+        "minutes": 0.8
+      },
+      {
+        "app": "1Password.exe",
+        "minutes": 0.7
       },
       {
         "app": "ixBrowser.exe",
-        "minutes": 0.6
-      },
-      {
-        "app": "PixPin.exe",
         "minutes": 0.6
       },
       {
@@ -92,8 +108,8 @@
         "minutes": 0.4
       },
       {
-        "app": "1Password.exe",
-        "minutes": 0.3
+        "app": "SearchHost.exe",
+        "minutes": 0.2
       },
       {
         "app": "localsend_app.exe",
@@ -103,15 +119,15 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 31.4
+        "minutes": 34.9
+      },
+      {
+        "site": "grok.com",
+        "minutes": 6.1
       },
       {
         "site": "developers.cloudflare.com",
         "minutes": 5.9
-      },
-      {
-        "site": "grok.com",
-        "minutes": 5.0
       },
       {
         "site": "github.com",
@@ -123,7 +139,7 @@
       },
       {
         "site": "www.google.com",
-        "minutes": 3.9
+        "minutes": 4.1
       },
       {
         "site": "account.live.com",
