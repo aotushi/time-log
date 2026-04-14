@@ -1,35 +1,43 @@
 {
   "date": "2026-04-14",
-  "synced_at": "2026-04-14T04:00:10.554714+00:00",
+  "synced_at": "2026-04-14T05:00:10.479910+00:00",
   "computer": {
-    "active_minutes": 132.3,
-    "afk_minutes": 633.2,
+    "active_minutes": 147.1,
+    "afk_minutes": 655.6,
     "active_intervals": [
       {
         "start": "09:16",
         "end": "11:38"
+      },
+      {
+        "start": "12:22",
+        "end": "12:33"
+      },
+      {
+        "start": "12:56",
+        "end": "13:00"
       }
     ],
     "apps": [
       {
         "app": "Code.exe",
-        "minutes": 41.6
+        "minutes": 42.7
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 27.1
-      },
-      {
-        "app": "Weixin.exe",
-        "minutes": 13.9
-      },
-      {
-        "app": "chrome.exe",
-        "minutes": 13.4
+        "minutes": 27.2
       },
       {
         "app": "msedge.exe",
-        "minutes": 8.7
+        "minutes": 18.6
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 14.9
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 14.8
       },
       {
         "app": "LockApp.exe",
@@ -75,7 +83,7 @@
       },
       {
         "site": "www.xiaohongshu.com",
-        "minutes": 1.1
+        "minutes": 1.2
       },
       {
         "site": "anthropic.skilljar.com",
@@ -88,6 +96,10 @@
       {
         "site": "weibo.com",
         "minutes": 0.8
+      },
+      {
+        "site": "grok.com",
+        "minutes": 0.5
       },
       {
         "site": "vue-jueblog.nullsh.workers.dev",
