@@ -1,55 +1,67 @@
 {
   "date": "2026-04-14",
-  "synced_at": "2026-04-14T03:00:10.493254+00:00",
+  "synced_at": "2026-04-14T04:00:10.554714+00:00",
   "computer": {
-    "active_minutes": 99.1,
-    "afk_minutes": 571.7,
+    "active_minutes": 132.3,
+    "afk_minutes": 633.2,
     "active_intervals": [
       {
         "start": "09:16",
-        "end": "10:59"
+        "end": "11:38"
       }
     ],
     "apps": [
       {
         "app": "Code.exe",
-        "minutes": 40.0
+        "minutes": 41.6
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 15.7
-      },
-      {
-        "app": "chrome.exe",
-        "minutes": 11.8
+        "minutes": 27.1
       },
       {
         "app": "Weixin.exe",
-        "minutes": 7.0
+        "minutes": 13.9
+      },
+      {
+        "app": "chrome.exe",
+        "minutes": 13.4
       },
       {
         "app": "msedge.exe",
-        "minutes": 6.2
+        "minutes": 8.7
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 7.5
       },
       {
         "app": "firefox.exe",
-        "minutes": 5.4
+        "minutes": 6.2
       },
       {
         "app": "AdsPower Global.exe",
         "minutes": 2.9
       },
       {
-        "app": "LockApp.exe",
-        "minutes": 2.3
+        "app": "olk.exe",
+        "minutes": 1.5
+      },
+      {
+        "app": "ApplicationFrameHost.exe",
+        "minutes": 0.9
       },
       {
         "app": "explorer.exe",
-        "minutes": 0.3
+        "minutes": 0.6
       },
       {
-        "app": "olk.exe",
-        "minutes": 0.2
+        "app": "WindowsTerminal.exe",
+        "minutes": 0.4
+      },
+      {
+        "app": "1Password.exe",
+        "minutes": 0.3
       }
     ],
     "sites": [
@@ -59,7 +71,7 @@
       },
       {
         "site": "github.com",
-        "minutes": 1.5
+        "minutes": 1.6
       },
       {
         "site": "www.xiaohongshu.com",
@@ -70,16 +82,16 @@
         "minutes": 1.1
       },
       {
+        "site": "dash.cloudflare.com",
+        "minutes": 1.0
+      },
+      {
         "site": "weibo.com",
         "minutes": 0.8
       },
       {
         "site": "vue-jueblog.nullsh.workers.dev",
         "minutes": 0.4
-      },
-      {
-        "site": "dash.cloudflare.com",
-        "minutes": 0.2
       }
     ]
   }
