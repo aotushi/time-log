@@ -1,9 +1,9 @@
 {
   "date": "2026-04-14",
-  "synced_at": "2026-04-14T09:00:10.509396+00:00",
+  "synced_at": "2026-04-14T10:00:13.834506+00:00",
   "computer": {
-    "active_minutes": 387.1,
-    "afk_minutes": 655.6,
+    "active_minutes": 442.3,
+    "afk_minutes": 667.6,
     "active_intervals": [
       {
         "start": "09:16",
@@ -15,37 +15,41 @@
       },
       {
         "start": "12:56",
-        "end": "17:00"
+        "end": "17:59"
+      },
+      {
+        "start": "17:53",
+        "end": "17:54"
       }
     ],
     "apps": [
       {
         "app": "Code.exe",
-        "minutes": 75.4
+        "minutes": 98.2
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 73.7
       },
       {
         "app": "SunBrowser.exe",
         "minutes": 50.2
       },
       {
-        "app": "msedge.exe",
-        "minutes": 48.1
-      },
-      {
         "app": "chrome.exe",
-        "minutes": 46.4
+        "minutes": 46.8
       },
       {
         "app": "firefox.exe",
-        "minutes": 44.1
-      },
-      {
-        "app": "claude.exe",
-        "minutes": 27.2
+        "minutes": 45.7
       },
       {
         "app": "Weixin.exe",
-        "minutes": 27.1
+        "minutes": 29.9
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 29.2
       },
       {
         "app": "LockApp.exe",
@@ -56,16 +60,20 @@
         "minutes": 5.6
       },
       {
-        "app": "AdsPower Global.exe",
-        "minutes": 4.3
+        "app": "explorer.exe",
+        "minutes": 4.6
       },
       {
-        "app": "explorer.exe",
+        "app": "AdsPower Global.exe",
         "minutes": 4.3
       },
       {
         "app": "SourceTree.exe",
         "minutes": 1.2
+      },
+      {
+        "app": "WindowsTerminal.exe",
+        "minutes": 0.9
       },
       {
         "app": "ApplicationFrameHost.exe",
@@ -76,12 +84,8 @@
         "minutes": 0.6
       },
       {
-        "app": "WindowsTerminal.exe",
-        "minutes": 0.6
-      },
-      {
         "app": "PixPin.exe",
-        "minutes": 0.4
+        "minutes": 0.5
       },
       {
         "app": "Telegram.exe",
@@ -99,15 +103,23 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 25.8
+        "minutes": 26.1
       },
       {
         "site": "developers.cloudflare.com",
-        "minutes": 4.5
+        "minutes": 5.9
+      },
+      {
+        "site": "grok.com",
+        "minutes": 4.4
       },
       {
         "site": "github.com",
         "minutes": 4.3
+      },
+      {
+        "site": "www.xiaohongshu.com",
+        "minutes": 4.2
       },
       {
         "site": "www.google.com",
@@ -118,10 +130,6 @@
         "minutes": 3.8
       },
       {
-        "site": "www.xiaohongshu.com",
-        "minutes": 3.1
-      },
-      {
         "site": "x.com",
         "minutes": 2.6
       },
@@ -130,12 +138,12 @@
         "minutes": 2.3
       },
       {
-        "site": "grok.com",
-        "minutes": 1.6
-      },
-      {
         "site": "weibo.com",
         "minutes": 1.3
+      },
+      {
+        "site": "aicodewith.com",
+        "minutes": 1.2
       },
       {
         "site": "anthropic.skilljar.com",
@@ -168,6 +176,10 @@
       {
         "site": "127.0.0.1:8787",
         "minutes": 0.4
+      },
+      {
+        "site": "ccusage.com",
+        "minutes": 0.3
       }
     ]
   }
