@@ -1,8 +1,8 @@
 {
   "date": "2026-04-14",
-  "synced_at": "2026-04-14T05:00:10.479910+00:00",
+  "synced_at": "2026-04-14T06:00:10.893290+00:00",
   "computer": {
-    "active_minutes": 147.1,
+    "active_minutes": 207.1,
     "afk_minutes": 655.6,
     "active_intervals": [
       {
@@ -15,45 +15,45 @@
       },
       {
         "start": "12:56",
-        "end": "13:00"
+        "end": "14:00"
       }
     ],
     "apps": [
       {
         "app": "Code.exe",
-        "minutes": 42.7
+        "minutes": 49.5
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 27.2
+        "minutes": 45.5
       },
       {
         "app": "msedge.exe",
-        "minutes": 18.6
+        "minutes": 24.4
       },
       {
         "app": "chrome.exe",
-        "minutes": 14.9
+        "minutes": 20.7
       },
       {
         "app": "Weixin.exe",
-        "minutes": 14.8
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 7.5
+        "minutes": 19.5
       },
       {
         "app": "firefox.exe",
-        "minutes": 6.2
+        "minutes": 10.0
       },
       {
-        "app": "AdsPower Global.exe",
-        "minutes": 2.9
+        "app": "LockApp.exe",
+        "minutes": 9.9
       },
       {
         "app": "olk.exe",
-        "minutes": 1.5
+        "minutes": 5.1
+      },
+      {
+        "app": "AdsPower Global.exe",
+        "minutes": 3.1
       },
       {
         "app": "ApplicationFrameHost.exe",
@@ -61,10 +61,18 @@
       },
       {
         "app": "explorer.exe",
+        "minutes": 0.8
+      },
+      {
+        "app": "ixBrowser.exe",
         "minutes": 0.6
       },
       {
         "app": "WindowsTerminal.exe",
+        "minutes": 0.4
+      },
+      {
+        "app": "Telegram.exe",
         "minutes": 0.4
       },
       {
@@ -74,32 +82,40 @@
     ],
     "sites": [
       {
+        "site": "github.com",
+        "minutes": 4.0
+      },
+      {
         "site": "account.live.com",
         "minutes": 3.8
       },
       {
-        "site": "github.com",
-        "minutes": 1.6
+        "site": "dash.cloudflare.com",
+        "minutes": 1.8
       },
       {
         "site": "www.xiaohongshu.com",
-        "minutes": 1.2
+        "minutes": 1.6
+      },
+      {
+        "site": "grok.com",
+        "minutes": 1.6
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 1.5
       },
       {
         "site": "anthropic.skilljar.com",
         "minutes": 1.1
       },
       {
-        "site": "dash.cloudflare.com",
+        "site": "weibo.com",
         "minutes": 1.0
       },
       {
-        "site": "weibo.com",
-        "minutes": 0.8
-      },
-      {
-        "site": "grok.com",
-        "minutes": 0.5
+        "site": "dnschecker.org",
+        "minutes": 0.6
       },
       {
         "site": "vue-jueblog.nullsh.workers.dev",
