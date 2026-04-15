@@ -1,9 +1,9 @@
 {
   "date": "2026-04-15",
-  "synced_at": "2026-04-15T14:00:11.599052+00:00",
+  "synced_at": "2026-04-15T15:00:11.719822+00:00",
   "computer": {
-    "active_minutes": 472.0,
-    "afk_minutes": 1184.4,
+    "active_minutes": 486.8,
+    "afk_minutes": 1271.2,
     "active_intervals": [
       {
         "start": "09:29",
@@ -59,7 +59,11 @@
       },
       {
         "start": "21:55",
-        "end": "22:00"
+        "end": "22:12"
+      },
+      {
+        "start": "22:54",
+        "end": "23:00"
       }
     ],
     "apps": [
@@ -69,11 +73,11 @@
       },
       {
         "app": "msedge.exe",
-        "minutes": 92.2
+        "minutes": 104.6
       },
       {
         "app": "Code.exe",
-        "minutes": 89.6
+        "minutes": 90.8
       },
       {
         "app": "LockApp.exe",
@@ -81,27 +85,27 @@
       },
       {
         "app": "Weixin.exe",
-        "minutes": 52.8
+        "minutes": 52.9
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 31.3
       },
       {
         "app": "firefox.exe",
         "minutes": 30.9
       },
       {
-        "app": "explorer.exe",
-        "minutes": 29.6
+        "app": "claude.exe",
+        "minutes": 22.7
       },
       {
-        "app": "claude.exe",
-        "minutes": 22.3
+        "app": "SourceTree.exe",
+        "minutes": 7.8
       },
       {
         "app": "MuMuNxDevice.exe",
         "minutes": 7.8
-      },
-      {
-        "app": "SourceTree.exe",
-        "minutes": 7.3
       },
       {
         "app": "Antigravity.exe",
@@ -132,12 +136,12 @@
         "minutes": 1.3
       },
       {
-        "app": "WindowsTerminal.exe",
-        "minutes": 1.1
+        "app": "eudic.exe",
+        "minutes": 1.2
       },
       {
-        "app": "eudic.exe",
-        "minutes": 0.9
+        "app": "WindowsTerminal.exe",
+        "minutes": 1.1
       },
       {
         "app": "ApplicationFrameHost.exe",
@@ -145,6 +149,10 @@
       },
       {
         "app": "SearchHost.exe",
+        "minutes": 0.7
+      },
+      {
+        "app": "PixPin.exe",
         "minutes": 0.5
       },
       {
@@ -164,7 +172,7 @@
         "minutes": 0.2
       },
       {
-        "app": "PixPin.exe",
+        "app": "MuMuNxMain.exe",
         "minutes": 0.2
       }
     ],
@@ -182,12 +190,12 @@
         "minutes": 6.2
       },
       {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 4.3
+        "site": "grok.com",
+        "minutes": 5.5
       },
       {
-        "site": "grok.com",
-        "minutes": 3.8
+        "site": "weijukeji.feishu.cn",
+        "minutes": 4.3
       },
       {
         "site": "aa.quickshipin.com",
@@ -226,15 +234,15 @@
         "minutes": 0.9
       },
       {
+        "site": "www.google.com",
+        "minutes": 0.8
+      },
+      {
         "site": "addons.mozilla.org",
         "minutes": 0.8
       },
       {
         "site": "rxresu.me",
-        "minutes": 0.7
-      },
-      {
-        "site": "www.google.com",
         "minutes": 0.7
       },
       {
