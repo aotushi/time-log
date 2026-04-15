@@ -1,9 +1,9 @@
 {
   "date": "2026-04-15",
-  "synced_at": "2026-04-15T10:00:11.240683+00:00",
+  "synced_at": "2026-04-15T11:00:11.462765+00:00",
   "computer": {
-    "active_minutes": 413.7,
-    "afk_minutes": 867.4,
+    "active_minutes": 459.3,
+    "afk_minutes": 945.1,
     "active_intervals": [
       {
         "start": "09:29",
@@ -31,21 +31,41 @@
       },
       {
         "start": "17:00",
-        "end": "18:00"
+        "end": "18:11"
+      },
+      {
+        "start": "18:11",
+        "end": "18:27"
+      },
+      {
+        "start": "18:15",
+        "end": "19:00"
+      },
+      {
+        "start": "18:46",
+        "end": "18:49"
+      },
+      {
+        "start": "18:46",
+        "end": "18:49"
+      },
+      {
+        "start": "18:46",
+        "end": "18:47"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 133.6
+        "minutes": 152.7
       },
       {
         "app": "msedge.exe",
-        "minutes": 87.1
+        "minutes": 92.1
       },
       {
         "app": "Code.exe",
-        "minutes": 70.3
+        "minutes": 86.1
       },
       {
         "app": "LockApp.exe",
@@ -53,19 +73,19 @@
       },
       {
         "app": "Weixin.exe",
-        "minutes": 36.6
+        "minutes": 52.1
       },
       {
         "app": "firefox.exe",
-        "minutes": 24.1
-      },
-      {
-        "app": "claude.exe",
-        "minutes": 20.8
+        "minutes": 30.6
       },
       {
         "app": "explorer.exe",
-        "minutes": 14.1
+        "minutes": 26.3
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 20.9
       },
       {
         "app": "MuMuNxDevice.exe",
@@ -73,7 +93,7 @@
       },
       {
         "app": "SourceTree.exe",
-        "minutes": 7.2
+        "minutes": 7.3
       },
       {
         "app": "Antigravity.exe",
@@ -96,12 +116,12 @@
         "minutes": 1.5
       },
       {
-        "app": "Typora.exe",
-        "minutes": 1.3
+        "app": "ixBrowser.exe",
+        "minutes": 1.4
       },
       {
-        "app": "ixBrowser.exe",
-        "minutes": 1.2
+        "app": "Typora.exe",
+        "minutes": 1.3
       },
       {
         "app": "WindowsTerminal.exe",
@@ -143,23 +163,23 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 15.5
+        "minutes": 22.1
       },
       {
         "site": "www.spaceship.com",
-        "minutes": 7.0
+        "minutes": 7.9
       },
       {
         "site": "x.com",
         "minutes": 6.2
       },
       {
-        "site": "grok.com",
-        "minutes": 3.8
+        "site": "weijukeji.feishu.cn",
+        "minutes": 4.3
       },
       {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 3.7
+        "site": "grok.com",
+        "minutes": 3.8
       },
       {
         "site": "aa.quickshipin.com",
@@ -224,6 +244,10 @@
       {
         "site": "www.codefather.cn",
         "minutes": 0.4
+      },
+      {
+        "site": "localhost:64499",
+        "minutes": 0.3
       },
       {
         "site": "login.microsoft.com",
