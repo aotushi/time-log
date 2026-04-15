@@ -1,43 +1,59 @@
 {
   "date": "2026-04-15",
-  "synced_at": "2026-04-15T03:00:15.869187+00:00",
+  "synced_at": "2026-04-15T04:00:16.187644+00:00",
   "computer": {
-    "active_minutes": 86.1,
-    "afk_minutes": 650.5,
+    "active_minutes": 117.3,
+    "afk_minutes": 740.5,
     "active_intervals": [
       {
         "start": "09:29",
-        "end": "11:00"
+        "end": "11:36"
+      },
+      {
+        "start": "11:36",
+        "end": "11:44"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 30.3
+        "minutes": 42.3
       },
       {
         "app": "Code.exe",
-        "minutes": 25.3
+        "minutes": 33.7
       },
       {
         "app": "chrome.exe",
-        "minutes": 16.1
+        "minutes": 16.9
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 12.5
       },
       {
         "app": "firefox.exe",
-        "minutes": 7.3
+        "minutes": 9.3
+      },
+      {
+        "app": "Acrobat.exe",
+        "minutes": 2.9
+      },
+      {
+        "app": "BaiduNetdiskUnite.exe",
+        "minutes": 1.5
       },
       {
         "app": "Weixin.exe",
-        "minutes": 1.4
+        "minutes": 1.5
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 1.1
       },
       {
         "app": "WindowsTerminal.exe",
         "minutes": 1.1
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 0.6
       },
       {
         "app": "Telegram.exe",
@@ -47,11 +63,19 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 7.3
+        "minutes": 9.3
       },
       {
         "site": "x.com",
-        "minutes": 2.3
+        "minutes": 3.6
+      },
+      {
+        "site": "dunwu.github.io",
+        "minutes": 0.9
+      },
+      {
+        "site": "www.google.com",
+        "minutes": 0.7
       },
       {
         "site": "weijukeji.feishu.cn",
@@ -64,6 +88,14 @@
       {
         "site": "127.0.0.1:8787",
         "minutes": 0.3
+      },
+      {
+        "site": "github.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "aicodewith.com",
+        "minutes": 0.2
       }
     ]
   }
