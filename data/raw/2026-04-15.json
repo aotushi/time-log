@@ -1,8 +1,8 @@
 {
   "date": "2026-04-15",
-  "synced_at": "2026-04-15T05:00:13.303687+00:00",
+  "synced_at": "2026-04-15T06:00:10.465071+00:00",
   "computer": {
-    "active_minutes": 127.0,
+    "active_minutes": 187.0,
     "afk_minutes": 814.4,
     "active_intervals": [
       {
@@ -19,33 +19,33 @@
       },
       {
         "start": "12:58",
-        "end": "12:59"
+        "end": "13:59"
       }
     ],
     "apps": [
+      {
+        "app": "msedge.exe",
+        "minutes": 63.7
+      },
       {
         "app": "LockApp.exe",
         "minutes": 51.8
       },
       {
-        "app": "msedge.exe",
-        "minutes": 48.0
+        "app": "chrome.exe",
+        "minutes": 42.3
       },
       {
         "app": "Code.exe",
         "minutes": 34.0
       },
       {
-        "app": "chrome.exe",
-        "minutes": 16.9
-      },
-      {
         "app": "firefox.exe",
-        "minutes": 10.3
+        "minutes": 16.6
       },
       {
         "app": "Weixin.exe",
-        "minutes": 3.0
+        "minutes": 4.9
       },
       {
         "app": "Acrobat.exe",
@@ -53,7 +53,7 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 1.7
+        "minutes": 2.6
       },
       {
         "app": "WeChatAppEx.exe",
@@ -69,10 +69,22 @@
       },
       {
         "app": "ApplicationFrameHost.exe",
+        "minutes": 0.7
+      },
+      {
+        "app": "ixBrowser.exe",
         "minutes": 0.6
       },
       {
+        "app": "olk.exe",
+        "minutes": 0.4
+      },
+      {
         "app": "SearchHost.exe",
+        "minutes": 0.3
+      },
+      {
+        "app": "ShellExperienceHost.exe",
         "minutes": 0.2
       },
       {
@@ -87,31 +99,51 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 9.5
+        "minutes": 10.9
       },
       {
         "site": "x.com",
-        "minutes": 3.9
+        "minutes": 6.2
       },
       {
         "site": "grok.com",
         "minutes": 3.4
       },
       {
+        "site": "github.com",
+        "minutes": 2.0
+      },
+      {
+        "site": "weijukeji.feishu.cn",
+        "minutes": 1.2
+      },
+      {
+        "site": "aicodewith.com",
+        "minutes": 1.0
+      },
+      {
+        "site": "creativecommons.org",
+        "minutes": 1.0
+      },
+      {
         "site": "dunwu.github.io",
         "minutes": 0.9
+      },
+      {
+        "site": "addons.mozilla.org",
+        "minutes": 0.8
       },
       {
         "site": "www.google.com",
         "minutes": 0.7
       },
       {
-        "site": "addons.mozilla.org",
-        "minutes": 0.7
+        "site": "2x.nz",
+        "minutes": 0.6
       },
       {
-        "site": "weijukeji.feishu.cn",
-        "minutes": 0.5
+        "site": "weread.qq.com",
+        "minutes": 0.6
       },
       {
         "site": "www.codefather.cn",
@@ -122,11 +154,7 @@
         "minutes": 0.3
       },
       {
-        "site": "github.com",
-        "minutes": 0.2
-      },
-      {
-        "site": "aicodewith.com",
+        "site": "login.microsoft.com",
         "minutes": 0.2
       }
     ]
