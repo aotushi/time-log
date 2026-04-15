@@ -1,9 +1,9 @@
 {
   "date": "2026-04-15",
-  "synced_at": "2026-04-15T11:00:11.462765+00:00",
+  "synced_at": "2026-04-15T12:00:11.251530+00:00",
   "computer": {
-    "active_minutes": 459.3,
-    "afk_minutes": 945.1,
+    "active_minutes": 460.7,
+    "afk_minutes": 1006.9,
     "active_intervals": [
       {
         "start": "09:29",
@@ -39,7 +39,7 @@
       },
       {
         "start": "18:15",
-        "end": "19:00"
+        "end": "19:01"
       },
       {
         "start": "18:46",
@@ -61,7 +61,7 @@
       },
       {
         "app": "msedge.exe",
-        "minutes": 92.1
+        "minutes": 92.2
       },
       {
         "app": "Code.exe",
@@ -69,7 +69,7 @@
       },
       {
         "app": "LockApp.exe",
-        "minutes": 66.3
+        "minutes": 67.1
       },
       {
         "app": "Weixin.exe",
@@ -77,11 +77,11 @@
       },
       {
         "app": "firefox.exe",
-        "minutes": 30.6
+        "minutes": 30.7
       },
       {
         "app": "explorer.exe",
-        "minutes": 26.3
+        "minutes": 26.4
       },
       {
         "app": "claude.exe",
@@ -163,7 +163,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 22.1
+        "minutes": 22.2
       },
       {
         "site": "www.spaceship.com",
