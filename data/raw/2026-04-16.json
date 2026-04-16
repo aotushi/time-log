@@ -1,9 +1,9 @@
 {
   "date": "2026-04-16",
-  "synced_at": "2026-04-16T04:00:13.436679+00:00",
+  "synced_at": "2026-04-16T05:00:15.658453+00:00",
   "computer": {
-    "active_minutes": 141.1,
-    "afk_minutes": 679.4,
+    "active_minutes": 177.9,
+    "afk_minutes": 746.4,
     "active_intervals": [
       {
         "start": "07:20",
@@ -15,37 +15,49 @@
       },
       {
         "start": "11:37",
-        "end": "11:40"
+        "end": "13:00"
+      },
+      {
+        "start": "12:54",
+        "end": "12:57"
+      },
+      {
+        "start": "12:54",
+        "end": "12:56"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 34.4
-      },
-      {
-        "app": "firefox.exe",
-        "minutes": 27.2
-      },
-      {
-        "app": "msedge.exe",
-        "minutes": 26.6
+        "minutes": 68.0
       },
       {
         "app": "LockApp.exe",
-        "minutes": 12.3
+        "minutes": 37.3
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 28.7
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 28.3
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 14.4
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 9.8
       },
       {
         "app": "claude.exe",
-        "minutes": 7.6
+        "minutes": 7.9
       },
       {
         "app": "Code.exe",
         "minutes": 6.4
-      },
-      {
-        "app": "Weixin.exe",
-        "minutes": 6.0
       },
       {
         "app": "Typora.exe",
@@ -56,11 +68,11 @@
         "minutes": 3.9
       },
       {
-        "app": "explorer.exe",
-        "minutes": 3.8
+        "app": "olk.exe",
+        "minutes": 2.0
       },
       {
-        "app": "olk.exe",
+        "app": "SunBrowser.exe",
         "minutes": 2.0
       },
       {
@@ -70,16 +82,28 @@
       {
         "app": "PowerToys.Settings.exe",
         "minutes": 0.3
+      },
+      {
+        "app": "ShellHost.exe",
+        "minutes": 0.2
+      },
+      {
+        "app": "WeChatAppEx.exe",
+        "minutes": 0.2
       }
     ],
     "sites": [
       {
         "site": "beta.publishers.adsterra.com",
-        "minutes": 17.4
+        "minutes": 17.5
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 5.2
+        "minutes": 8.2
+      },
+      {
+        "site": "dash.cloudflare.com",
+        "minutes": 3.3
       },
       {
         "site": "mail.jabber.org",
@@ -88,10 +112,6 @@
       {
         "site": "grok.com",
         "minutes": 2.5
-      },
-      {
-        "site": "dash.cloudflare.com",
-        "minutes": 2.0
       },
       {
         "site": "www.xiaohongshu.com",
