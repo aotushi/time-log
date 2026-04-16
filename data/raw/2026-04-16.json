@@ -1,11 +1,38 @@
 {
   "date": "2026-04-16",
-  "synced_at": "2026-04-15T23:00:10.143843+00:00",
+  "synced_at": "2026-04-16T00:00:10.138338+00:00",
   "computer": {
-    "active_minutes": 0.0,
-    "afk_minutes": 419.9,
-    "active_intervals": [],
-    "apps": [],
-    "sites": []
+    "active_minutes": 13.3,
+    "afk_minutes": 533.6,
+    "active_intervals": [
+      {
+        "start": "07:20",
+        "end": "07:42"
+      }
+    ],
+    "apps": [
+      {
+        "app": "msedge.exe",
+        "minutes": 12.4
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 7.0
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 0.9
+      }
+    ],
+    "sites": [
+      {
+        "site": "www.xiaohongshu.com",
+        "minutes": 1.9
+      },
+      {
+        "site": "status.claude.com",
+        "minutes": 0.3
+      }
+    ]
   }
 }
