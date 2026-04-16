@@ -1,8 +1,8 @@
 {
   "date": "2026-04-16",
-  "synced_at": "2026-04-16T07:00:10.572475+00:00",
+  "synced_at": "2026-04-16T08:00:10.942106+00:00",
   "computer": {
-    "active_minutes": 294.1,
+    "active_minutes": 354.2,
     "afk_minutes": 753.3,
     "active_intervals": [
       {
@@ -23,41 +23,41 @@
       },
       {
         "start": "12:54",
-        "end": "14:59"
+        "end": "16:00"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 104.3
+        "minutes": 118.6
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 45.7
       },
       {
         "app": "firefox.exe",
-        "minutes": 42.4
+        "minutes": 44.5
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 44.2
       },
       {
         "app": "LockApp.exe",
         "minutes": 41.1
       },
       {
-        "app": "msedge.exe",
-        "minutes": 40.2
-      },
-      {
         "app": "Code.exe",
-        "minutes": 34.6
-      },
-      {
-        "app": "SunBrowser.exe",
-        "minutes": 25.7
+        "minutes": 38.5
       },
       {
         "app": "Weixin.exe",
-        "minutes": 24.0
+        "minutes": 28.1
       },
       {
         "app": "explorer.exe",
-        "minutes": 16.3
+        "minutes": 18.0
       },
       {
         "app": "claude.exe",
@@ -69,7 +69,11 @@
       },
       {
         "app": "Notepad.exe",
-        "minutes": 4.7
+        "minutes": 4.8
+      },
+      {
+        "app": "AdsPower Global.exe",
+        "minutes": 2.6
       },
       {
         "app": "olk.exe",
@@ -80,8 +84,8 @@
         "minutes": 1.7
       },
       {
-        "app": "AdsPower Global.exe",
-        "minutes": 0.9
+        "app": "PixPin.exe",
+        "minutes": 1.0
       },
       {
         "app": "PowerToys.Settings.exe",
@@ -90,6 +94,10 @@
       {
         "app": "ixBrowser.exe",
         "minutes": 0.6
+      },
+      {
+        "app": "FSCapture.exe",
+        "minutes": 0.5
       },
       {
         "app": "WeChatAppEx.exe",
@@ -107,19 +115,19 @@
       },
       {
         "site": "dash.cloudflare.com",
-        "minutes": 15.8
+        "minutes": 17.9
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 9.8
+        "minutes": 12.6
+      },
+      {
+        "site": "grok.com",
+        "minutes": 2.6
       },
       {
         "site": "mail.jabber.org",
         "minutes": 2.6
-      },
-      {
-        "site": "grok.com",
-        "minutes": 2.5
       },
       {
         "site": "www.xiaohongshu.com",
@@ -127,7 +135,11 @@
       },
       {
         "site": "127.0.0.1:8787",
-        "minutes": 1.4
+        "minutes": 1.6
+      },
+      {
+        "site": "game1.quickshipin.com",
+        "minutes": 1.5
       },
       {
         "site": "wj-site301.pages.dev",
@@ -138,6 +150,10 @@
         "minutes": 1.0
       },
       {
+        "site": "ggzpqa.com",
+        "minutes": 0.7
+      },
+      {
         "site": "www.bing.com",
         "minutes": 0.7
       },
@@ -146,7 +162,7 @@
         "minutes": 0.7
       },
       {
-        "site": "ggzpqa.com",
+        "site": "quickshipin.com",
         "minutes": 0.6
       },
       {
