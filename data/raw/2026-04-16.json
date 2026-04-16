@@ -1,9 +1,9 @@
 {
   "date": "2026-04-16",
-  "synced_at": "2026-04-16T10:00:10.804230+00:00",
+  "synced_at": "2026-04-16T11:00:11.120654+00:00",
   "computer": {
-    "active_minutes": 471.8,
-    "afk_minutes": 758.4,
+    "active_minutes": 528.5,
+    "afk_minutes": 765.3,
     "active_intervals": [
       {
         "start": "07:20",
@@ -23,7 +23,7 @@
       },
       {
         "start": "12:54",
-        "end": "17:59"
+        "end": "18:13"
       },
       {
         "start": "16:46",
@@ -31,45 +31,45 @@
       },
       {
         "start": "16:46",
-        "end": "16:48"
+        "end": "19:00"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 155.4
-      },
-      {
-        "app": "SunBrowser.exe",
-        "minutes": 73.9
+        "minutes": 217.5
       },
       {
         "app": "Code.exe",
-        "minutes": 65.8
+        "minutes": 88.3
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 87.7
       },
       {
         "app": "firefox.exe",
-        "minutes": 51.5
+        "minutes": 62.5
       },
       {
         "app": "msedge.exe",
-        "minutes": 46.2
+        "minutes": 54.6
       },
       {
         "app": "LockApp.exe",
-        "minutes": 41.1
+        "minutes": 44.5
       },
       {
         "app": "Weixin.exe",
-        "minutes": 34.5
+        "minutes": 35.9
       },
       {
         "app": "explorer.exe",
-        "minutes": 18.9
+        "minutes": 20.7
       },
       {
         "app": "claude.exe",
-        "minutes": 7.9
+        "minutes": 8.2
       },
       {
         "app": "Typora.exe",
@@ -77,11 +77,15 @@
       },
       {
         "app": "Notepad.exe",
-        "minutes": 4.8
+        "minutes": 4.9
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 3.1
+        "minutes": 4.1
+      },
+      {
+        "app": "localsend_app.exe",
+        "minutes": 2.5
       },
       {
         "app": "olk.exe",
@@ -93,7 +97,7 @@
       },
       {
         "app": "PixPin.exe",
-        "minutes": 1.1
+        "minutes": 1.4
       },
       {
         "app": "PowerToys.Settings.exe",
@@ -108,18 +112,18 @@
         "minutes": 0.5
       },
       {
-        "app": "WeChatAppEx.exe",
-        "minutes": 0.3
+        "app": "ShellHost.exe",
+        "minutes": 0.4
       },
       {
-        "app": "ShellHost.exe",
-        "minutes": 0.2
+        "app": "WeChatAppEx.exe",
+        "minutes": 0.3
       }
     ],
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 24.5
+        "minutes": 35.1
       },
       {
         "site": "beta.publishers.adsterra.com",
@@ -127,15 +131,15 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 15.0
+        "minutes": 18.0
       },
       {
         "site": "127.0.0.1:8787",
-        "minutes": 3.1
+        "minutes": 9.9
       },
       {
         "site": "grok.com",
-        "minutes": 2.6
+        "minutes": 7.1
       },
       {
         "site": "mail.jabber.org",
@@ -159,10 +163,18 @@
       },
       {
         "site": "ggzpqa.com",
-        "minutes": 0.9
+        "minutes": 1.0
       },
       {
         "site": "aicodewith.com",
+        "minutes": 0.9
+      },
+      {
+        "site": "github.com",
+        "minutes": 0.8
+      },
+      {
+        "site": "aa.nfiuh.top",
         "minutes": 0.7
       },
       {
@@ -178,7 +190,15 @@
         "minutes": 0.7
       },
       {
+        "site": "www.juming.com",
+        "minutes": 0.6
+      },
+      {
         "site": "bb.quickshipin.com",
+        "minutes": 0.4
+      },
+      {
+        "site": "bb.nfiuh.top",
         "minutes": 0.4
       },
       {
