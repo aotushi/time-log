@@ -1,8 +1,8 @@
 {
   "date": "2026-04-16",
-  "synced_at": "2026-04-16T09:00:11.198537+00:00",
+  "synced_at": "2026-04-16T10:00:10.804230+00:00",
   "computer": {
-    "active_minutes": 412.0,
+    "active_minutes": 471.8,
     "afk_minutes": 758.4,
     "active_intervals": [
       {
@@ -23,7 +23,7 @@
       },
       {
         "start": "12:54",
-        "end": "17:00"
+        "end": "17:59"
       },
       {
         "start": "16:46",
@@ -37,23 +37,23 @@
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 137.2
+        "minutes": 155.4
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 66.2
-      },
-      {
-        "app": "firefox.exe",
-        "minutes": 47.5
-      },
-      {
-        "app": "msedge.exe",
-        "minutes": 46.1
+        "minutes": 73.9
       },
       {
         "app": "Code.exe",
-        "minutes": 46.0
+        "minutes": 65.8
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 51.5
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 46.2
       },
       {
         "app": "LockApp.exe",
@@ -61,11 +61,11 @@
       },
       {
         "app": "Weixin.exe",
-        "minutes": 33.6
+        "minutes": 34.5
       },
       {
         "app": "explorer.exe",
-        "minutes": 18.1
+        "minutes": 18.9
       },
       {
         "app": "claude.exe",
@@ -81,7 +81,7 @@
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 2.6
+        "minutes": 3.1
       },
       {
         "app": "olk.exe",
@@ -119,7 +119,7 @@
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 21.0
+        "minutes": 24.5
       },
       {
         "site": "beta.publishers.adsterra.com",
@@ -127,7 +127,11 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 14.0
+        "minutes": 15.0
+      },
+      {
+        "site": "127.0.0.1:8787",
+        "minutes": 3.1
       },
       {
         "site": "grok.com",
@@ -146,10 +150,6 @@
         "minutes": 1.9
       },
       {
-        "site": "127.0.0.1:8787",
-        "minutes": 1.8
-      },
-      {
         "site": "wj-site301.pages.dev",
         "minutes": 1.1
       },
@@ -159,6 +159,10 @@
       },
       {
         "site": "ggzpqa.com",
+        "minutes": 0.9
+      },
+      {
+        "site": "aicodewith.com",
         "minutes": 0.7
       },
       {
@@ -172,10 +176,6 @@
       {
         "site": "account.microsoft.com",
         "minutes": 0.7
-      },
-      {
-        "site": "aicodewith.com",
-        "minutes": 0.5
       },
       {
         "site": "bb.quickshipin.com",
