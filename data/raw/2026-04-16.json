@@ -1,9 +1,9 @@
 {
   "date": "2026-04-16",
-  "synced_at": "2026-04-16T08:00:10.942106+00:00",
+  "synced_at": "2026-04-16T09:00:11.198537+00:00",
   "computer": {
-    "active_minutes": 354.2,
-    "afk_minutes": 753.3,
+    "active_minutes": 412.0,
+    "afk_minutes": 758.4,
     "active_intervals": [
       {
         "start": "07:20",
@@ -23,41 +23,49 @@
       },
       {
         "start": "12:54",
-        "end": "16:00"
+        "end": "17:00"
+      },
+      {
+        "start": "16:46",
+        "end": "16:48"
+      },
+      {
+        "start": "16:46",
+        "end": "16:48"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 118.6
+        "minutes": 137.2
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 45.7
+        "minutes": 66.2
       },
       {
         "app": "firefox.exe",
-        "minutes": 44.5
+        "minutes": 47.5
       },
       {
         "app": "msedge.exe",
-        "minutes": 44.2
+        "minutes": 46.1
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 46.0
       },
       {
         "app": "LockApp.exe",
         "minutes": 41.1
       },
       {
-        "app": "Code.exe",
-        "minutes": 38.5
-      },
-      {
         "app": "Weixin.exe",
-        "minutes": 28.1
+        "minutes": 33.6
       },
       {
         "app": "explorer.exe",
-        "minutes": 18.0
+        "minutes": 18.1
       },
       {
         "app": "claude.exe",
@@ -85,7 +93,7 @@
       },
       {
         "app": "PixPin.exe",
-        "minutes": 1.0
+        "minutes": 1.1
       },
       {
         "app": "PowerToys.Settings.exe",
@@ -110,16 +118,16 @@
     ],
     "sites": [
       {
+        "site": "dash.cloudflare.com",
+        "minutes": 21.0
+      },
+      {
         "site": "beta.publishers.adsterra.com",
         "minutes": 18.3
       },
       {
-        "site": "dash.cloudflare.com",
-        "minutes": 17.9
-      },
-      {
         "site": "weijukeji.feishu.cn",
-        "minutes": 12.6
+        "minutes": 14.0
       },
       {
         "site": "grok.com",
@@ -130,16 +138,16 @@
         "minutes": 2.6
       },
       {
+        "site": "game1.quickshipin.com",
+        "minutes": 2.2
+      },
+      {
         "site": "www.xiaohongshu.com",
         "minutes": 1.9
       },
       {
         "site": "127.0.0.1:8787",
-        "minutes": 1.6
-      },
-      {
-        "site": "game1.quickshipin.com",
-        "minutes": 1.5
+        "minutes": 1.8
       },
       {
         "site": "wj-site301.pages.dev",
@@ -158,12 +166,12 @@
         "minutes": 0.7
       },
       {
-        "site": "account.microsoft.com",
+        "site": "quickshipin.com",
         "minutes": 0.7
       },
       {
-        "site": "quickshipin.com",
-        "minutes": 0.6
+        "site": "account.microsoft.com",
+        "minutes": 0.7
       },
       {
         "site": "aicodewith.com",
