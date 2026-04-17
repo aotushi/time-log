@@ -1,9 +1,9 @@
 {
   "date": "2026-04-17",
-  "synced_at": "2026-04-17T07:00:15.427493+00:00",
+  "synced_at": "2026-04-17T08:00:10.416748+00:00",
   "computer": {
-    "active_minutes": 250.8,
-    "afk_minutes": 666.7,
+    "active_minutes": 301.4,
+    "afk_minutes": 694.7,
     "active_intervals": [
       {
         "start": "09:35",
@@ -19,7 +19,7 @@
       },
       {
         "start": "12:56",
-        "end": "15:00"
+        "end": "15:24"
       },
       {
         "start": "13:19",
@@ -35,99 +35,123 @@
       },
       {
         "start": "13:19",
-        "end": "13:21"
+        "end": "15:59"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 83.2
-      },
-      {
-        "app": "LockApp.exe",
-        "minutes": 53.3
-      },
-      {
-        "app": "firefox.exe",
-        "minutes": 51.7
+        "minutes": 117.7
       },
       {
         "app": "msedge.exe",
-        "minutes": 48.9
+        "minutes": 84.7
+      },
+      {
+        "app": "firefox.exe",
+        "minutes": 79.0
       },
       {
         "app": "Code.exe",
-        "minutes": 22.6
+        "minutes": 66.7
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 58.2
       },
       {
         "app": "Weixin.exe",
-        "minutes": 20.9
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 5.4
+        "minutes": 29.1
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 3.3
+        "minutes": 6.7
+      },
+      {
+        "app": "explorer.exe",
+        "minutes": 6.3
       },
       {
         "app": "WeChatAppEx.exe",
-        "minutes": 2.0
+        "minutes": 3.2
       },
       {
         "app": "SunBrowser.exe",
-        "minutes": 1.3
+        "minutes": 2.4
       },
       {
         "app": "ShellHost.exe",
-        "minutes": 0.7
+        "minutes": 0.8
       },
       {
         "app": "Notepad.exe",
-        "minutes": 0.5
+        "minutes": 0.7
       },
       {
         "app": "olk.exe",
+        "minutes": 0.4
+      },
+      {
+        "app": "PickerHost.exe",
         "minutes": 0.3
+      },
+      {
+        "app": "PixPin.exe",
+        "minutes": 0.2
+      },
+      {
+        "app": "ShellExperienceHost.exe",
+        "minutes": 0.2
       }
     ],
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 30.2
+        "minutes": 41.1
       },
       {
         "site": "beta.publishers.adsterra.com",
-        "minutes": 16.8
+        "minutes": 29.9
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 11.9
+        "minutes": 19.2
       },
       {
         "site": "grok.com",
-        "minutes": 11.1
+        "minutes": 13.6
       },
       {
         "site": "x.com",
-        "minutes": 8.5
+        "minutes": 11.4
       },
       {
         "site": "127.0.0.1:8787",
-        "minutes": 7.9
-      },
-      {
-        "site": "github.com",
-        "minutes": 3.0
+        "minutes": 11.2
       },
       {
         "site": "www.typescriptlang.org",
-        "minutes": 1.5
+        "minutes": 5.7
+      },
+      {
+        "site": "github.com",
+        "minutes": 4.3
       },
       {
         "site": "ee.shanetwilkes.com",
+        "minutes": 3.0
+      },
+      {
+        "site": "aicodewith.com",
         "minutes": 1.5
+      },
+      {
+        "site": "wj-site301.pages.dev",
+        "minutes": 1.4
+      },
+      {
+        "site": "www.xiaohongshu.com",
+        "minutes": 1.3
       },
       {
         "site": "shadcn-dashboard.kiranism.dev",
@@ -138,19 +162,27 @@
         "minutes": 1.3
       },
       {
-        "site": "wj-site301.pages.dev",
-        "minutes": 1.2
-      },
-      {
         "site": "bb.nfiuh.top",
         "minutes": 1.0
       },
       {
         "site": "wj-site305.pages.dev",
-        "minutes": 0.7
+        "minutes": 0.8
+      },
+      {
+        "site": "www.google.com",
+        "minutes": 0.6
+      },
+      {
+        "site": "wj-site306.pages.dev",
+        "minutes": 0.6
       },
       {
         "site": "shadboard.vercel.app",
+        "minutes": 0.5
+      },
+      {
+        "site": "shadcn-admin.netlify.app",
         "minutes": 0.5
       },
       {
@@ -158,27 +190,15 @@
         "minutes": 0.5
       },
       {
-        "site": "wj-site306.pages.dev",
-        "minutes": 0.5
-      },
-      {
         "site": "wj-site313.pages.dev",
         "minutes": 0.5
       },
       {
-        "site": "aicodewith.com",
-        "minutes": 0.4
-      },
-      {
-        "site": "www.google.com",
-        "minutes": 0.3
-      },
-      {
-        "site": "shadcn-admin.netlify.app",
+        "site": "a1.caaca.top",
         "minutes": 0.2
       },
       {
-        "site": "a1.caaca.top",
+        "site": "ii.quickshipin.com",
         "minutes": 0.2
       },
       {
