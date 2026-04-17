@@ -1,57 +1,69 @@
 {
   "date": "2026-04-17",
-  "synced_at": "2026-04-17T03:00:10.492852+00:00",
+  "synced_at": "2026-04-17T04:00:13.386030+00:00",
   "computer": {
-    "active_minutes": 84.9,
-    "afk_minutes": 575.2,
+    "active_minutes": 115.6,
+    "afk_minutes": 622.6,
     "active_intervals": [
       {
         "start": "09:35",
-        "end": "11:00"
+        "end": "11:34"
+      },
+      {
+        "start": "11:34",
+        "end": "11:37"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 43.8
-      },
-      {
-        "app": "msedge.exe",
-        "minutes": 9.8
+        "minutes": 49.3
       },
       {
         "app": "firefox.exe",
-        "minutes": 9.5
+        "minutes": 22.1
+      },
+      {
+        "app": "msedge.exe",
+        "minutes": 12.4
       },
       {
         "app": "Code.exe",
-        "minutes": 8.3
+        "minutes": 10.4
+      },
+      {
+        "app": "LockApp.exe",
+        "minutes": 7.0
       },
       {
         "app": "explorer.exe",
-        "minutes": 3.1
-      },
-      {
-        "app": "Weixin.exe",
-        "minutes": 0.4
+        "minutes": 3.9
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 0.3
+        "minutes": 2.0
+      },
+      {
+        "app": "Weixin.exe",
+        "minutes": 1.8
       },
       {
         "app": "SunBrowser.exe",
         "minutes": 0.3
+      },
+      {
+        "app": "olk.exe",
+        "minutes": 0.2
       }
     ],
     "sites": [
       {
         "site": "dash.cloudflare.com",
-        "minutes": 7.8
+        "minutes": 16.0
       },
       {
         "site": "grok.com",
-        "minutes": 7.0
+        "minutes": 7.8
       },
       {
         "site": "weijukeji.feishu.cn",
@@ -59,15 +71,15 @@
       },
       {
         "site": "127.0.0.1:8787",
-        "minutes": 3.7
+        "minutes": 4.5
       },
       {
         "site": "beta.publishers.adsterra.com",
-        "minutes": 1.7
+        "minutes": 3.7
       },
       {
         "site": "github.com",
-        "minutes": 1.5
+        "minutes": 1.6
       },
       {
         "site": "shadcn-dashboard.kiranism.dev",
@@ -94,11 +106,31 @@
         "minutes": 0.5
       },
       {
+        "site": "bb.quickshipin.com",
+        "minutes": 0.5
+      },
+      {
+        "site": "wj-site313.pages.dev",
+        "minutes": 0.5
+      },
+      {
         "site": "aicodewith.com",
         "minutes": 0.4
       },
       {
+        "site": "wj-site306.pages.dev",
+        "minutes": 0.4
+      },
+      {
+        "site": "shadcn-admin.netlify.app",
+        "minutes": 0.2
+      },
+      {
         "site": "a1.caaca.top",
+        "minutes": 0.2
+      },
+      {
+        "site": "ff.quickshipin.com",
         "minutes": 0.2
       }
     ]
