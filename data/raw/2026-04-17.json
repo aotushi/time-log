@@ -1,8 +1,8 @@
 {
   "date": "2026-04-17",
-  "synced_at": "2026-04-17T09:00:10.456177+00:00",
+  "synced_at": "2026-04-17T10:00:10.688292+00:00",
   "computer": {
-    "active_minutes": 358.2,
+    "active_minutes": 418.2,
     "afk_minutes": 714.5,
     "active_intervals": [
       {
@@ -35,7 +35,7 @@
       },
       {
         "start": "13:19",
-        "end": "17:00"
+        "end": "18:00"
       },
       {
         "start": "16:25",
@@ -45,19 +45,19 @@
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 120.3
+        "minutes": 135.7
       },
       {
         "app": "Code.exe",
-        "minutes": 111.3
+        "minutes": 115.8
       },
       {
         "app": "msedge.exe",
-        "minutes": 85.9
+        "minutes": 90.9
       },
       {
         "app": "firefox.exe",
-        "minutes": 79.0
+        "minutes": 85.5
       },
       {
         "app": "LockApp.exe",
@@ -65,23 +65,23 @@
       },
       {
         "app": "Weixin.exe",
-        "minutes": 29.9
+        "minutes": 32.5
+      },
+      {
+        "app": "SunBrowser.exe",
+        "minutes": 15.9
       },
       {
         "app": "AdsPower Global.exe",
-        "minutes": 7.7
+        "minutes": 11.6
       },
       {
         "app": "explorer.exe",
-        "minutes": 6.7
+        "minutes": 6.8
       },
       {
         "app": "WeChatAppEx.exe",
         "minutes": 3.2
-      },
-      {
-        "app": "SunBrowser.exe",
-        "minutes": 2.4
       },
       {
         "app": "ShellHost.exe",
@@ -93,7 +93,7 @@
       },
       {
         "app": "olk.exe",
-        "minutes": 0.4
+        "minutes": 0.6
       },
       {
         "app": "PickerHost.exe",
@@ -101,7 +101,7 @@
       },
       {
         "app": "PixPin.exe",
-        "minutes": 0.2
+        "minutes": 0.3
       },
       {
         "app": "ShellExperienceHost.exe",
@@ -119,7 +119,7 @@
       },
       {
         "site": "weijukeji.feishu.cn",
-        "minutes": 19.3
+        "minutes": 25.7
       },
       {
         "site": "grok.com",
@@ -146,6 +146,10 @@
         "minutes": 3.0
       },
       {
+        "site": "account.microsoft.com",
+        "minutes": 2.8
+      },
+      {
         "site": "aicodewith.com",
         "minutes": 1.5
       },
@@ -166,6 +170,10 @@
         "minutes": 1.3
       },
       {
+        "site": "account.live.com",
+        "minutes": 1.2
+      },
+      {
         "site": "bb.nfiuh.top",
         "minutes": 1.0
       },
@@ -179,6 +187,10 @@
       },
       {
         "site": "wj-site306.pages.dev",
+        "minutes": 0.6
+      },
+      {
+        "site": "login.microsoftonline.com",
         "minutes": 0.6
       },
       {
@@ -198,6 +210,14 @@
         "minutes": 0.5
       },
       {
+        "site": "xenooa.shop",
+        "minutes": 0.4
+      },
+      {
+        "site": "login.microsoft.com",
+        "minutes": 0.3
+      },
+      {
         "site": "a1.caaca.top",
         "minutes": 0.2
       },
@@ -207,6 +227,10 @@
       },
       {
         "site": "ff.quickshipin.com",
+        "minutes": 0.2
+      },
+      {
+        "site": "www.microsoft.com",
         "minutes": 0.2
       }
     ]
