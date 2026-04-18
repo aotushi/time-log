@@ -1,9 +1,9 @@
 {
   "date": "2026-04-18",
-  "synced_at": "2026-04-18T12:00:10.097856+00:00",
+  "synced_at": "2026-04-18T13:00:12.144143+00:00",
   "computer": {
-    "active_minutes": 80.1,
-    "afk_minutes": 760.4,
+    "active_minutes": 97.1,
+    "afk_minutes": 827.3,
     "active_intervals": [
       {
         "start": "08:43",
@@ -48,12 +48,24 @@
       {
         "start": "19:20",
         "end": "19:23"
+      },
+      {
+        "start": "20:13",
+        "end": "20:15"
+      },
+      {
+        "start": "20:31",
+        "end": "20:49"
+      },
+      {
+        "start": "20:40",
+        "end": "20:41"
       }
     ],
     "apps": [
       {
         "app": "msedge.exe",
-        "minutes": 64.4
+        "minutes": 80.1
       },
       {
         "app": "LockApp.exe",
@@ -61,11 +73,19 @@
       },
       {
         "app": "chrome.exe",
-        "minutes": 12.3
+        "minutes": 12.7
       },
       {
         "app": "explorer.exe",
         "minutes": 3.4
+      },
+      {
+        "app": "claude.exe",
+        "minutes": 2.9
+      },
+      {
+        "app": "Code.exe",
+        "minutes": 1.8
       },
       {
         "app": "unknown",
@@ -74,14 +94,6 @@
       {
         "app": "ShellHost.exe",
         "minutes": 1.4
-      },
-      {
-        "app": "Code.exe",
-        "minutes": 0.3
-      },
-      {
-        "app": "claude.exe",
-        "minutes": 0.2
       },
       {
         "app": "clash-verge.exe",
@@ -95,11 +107,11 @@
       },
       {
         "site": "rxresu.me",
-        "minutes": 2.8
+        "minutes": 2.9
       },
       {
         "site": "ghproxy.vip",
-        "minutes": 1.9
+        "minutes": 2.2
       },
       {
         "site": "account.bilibili.com",
@@ -130,19 +142,19 @@
         "minutes": 1.0
       },
       {
+        "site": "status.rxresu.me",
+        "minutes": 0.9
+      },
+      {
         "site": "www.youtube.com",
         "minutes": 0.9
       },
       {
-        "site": "status.rxresu.me",
-        "minutes": 0.8
-      },
-      {
-        "site": "space.bilibili.com",
+        "site": "docs.rxresu.me",
         "minutes": 0.6
       },
       {
-        "site": "docs.rxresu.me",
+        "site": "space.bilibili.com",
         "minutes": 0.6
       },
       {
