@@ -1,9 +1,9 @@
 {
   "date": "2026-04-18",
-  "synced_at": "2026-04-18T11:00:10.042039+00:00",
+  "synced_at": "2026-04-18T12:00:10.097856+00:00",
   "computer": {
-    "active_minutes": 77.2,
-    "afk_minutes": 661.8,
+    "active_minutes": 80.1,
+    "afk_minutes": 760.4,
     "active_intervals": [
       {
         "start": "08:43",
@@ -44,6 +44,10 @@
       {
         "start": "17:36",
         "end": "17:43"
+      },
+      {
+        "start": "19:20",
+        "end": "19:23"
       }
     ],
     "apps": [
@@ -60,16 +64,16 @@
         "minutes": 12.3
       },
       {
+        "app": "explorer.exe",
+        "minutes": 3.4
+      },
+      {
         "app": "unknown",
         "minutes": 1.7
       },
       {
         "app": "ShellHost.exe",
         "minutes": 1.4
-      },
-      {
-        "app": "explorer.exe",
-        "minutes": 0.5
       },
       {
         "app": "Code.exe",
