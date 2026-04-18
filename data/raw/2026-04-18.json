@@ -1,11 +1,33 @@
 {
   "date": "2026-04-18",
-  "synced_at": "2026-04-18T00:43:29.628637+00:00",
+  "synced_at": "2026-04-18T01:00:12.004174+00:00",
   "computer": {
     "active_minutes": 0.0,
-    "afk_minutes": 0.0,
-    "active_intervals": [],
-    "apps": [],
+    "afk_minutes": 29.5,
+    "active_intervals": [
+      {
+        "start": "08:43",
+        "end": "08:43"
+      },
+      {
+        "start": "08:43",
+        "end": "08:46"
+      },
+      {
+        "start": "08:46",
+        "end": "08:50"
+      }
+    ],
+    "apps": [
+      {
+        "app": "LockApp.exe",
+        "minutes": 5.8
+      },
+      {
+        "app": "unknown",
+        "minutes": 0.5
+      }
+    ],
     "sites": []
   }
 }
