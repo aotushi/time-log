@@ -1,9 +1,9 @@
 {
   "date": "2026-04-18",
-  "synced_at": "2026-04-18T09:00:10.013156+00:00",
+  "synced_at": "2026-04-18T10:00:09.976136+00:00",
   "computer": {
-    "active_minutes": 52.4,
-    "afk_minutes": 532.6,
+    "active_minutes": 77.2,
+    "afk_minutes": 601.7,
     "active_intervals": [
       {
         "start": "08:43",
@@ -35,21 +35,29 @@
       },
       {
         "start": "16:26",
-        "end": "16:59"
+        "end": "17:24"
+      },
+      {
+        "start": "17:12",
+        "end": "17:12"
+      },
+      {
+        "start": "17:36",
+        "end": "17:43"
       }
     ],
     "apps": [
+      {
+        "app": "msedge.exe",
+        "minutes": 64.4
+      },
       {
         "app": "LockApp.exe",
         "minutes": 51.0
       },
       {
-        "app": "msedge.exe",
-        "minutes": 36.9
-      },
-      {
         "app": "chrome.exe",
-        "minutes": 9.9
+        "minutes": 12.3
       },
       {
         "app": "unknown",
@@ -61,7 +69,7 @@
       },
       {
         "app": "explorer.exe",
-        "minutes": 0.4
+        "minutes": 0.5
       },
       {
         "app": "Code.exe",
@@ -70,44 +78,72 @@
       {
         "app": "claude.exe",
         "minutes": 0.2
+      },
+      {
+        "app": "clash-verge.exe",
+        "minutes": 0.2
       }
     ],
     "sites": [
+      {
+        "site": "x.com",
+        "minutes": 2.9
+      },
       {
         "site": "rxresu.me",
         "minutes": 2.8
       },
       {
-        "site": "x.com",
-        "minutes": 1.7
+        "site": "ghproxy.vip",
+        "minutes": 1.9
       },
       {
         "site": "account.bilibili.com",
-        "minutes": 1.3
+        "minutes": 1.4
       },
       {
         "site": "www.bilibili.com",
         "minutes": 1.2
       },
       {
+        "site": "www.baidu.com",
+        "minutes": 1.2
+      },
+      {
+        "site": "www.soundcore.com",
+        "minutes": 1.1
+      },
+      {
         "site": "dash.cloudflare.com",
         "minutes": 1.1
+      },
+      {
+        "site": "www.cloudflare.com",
+        "minutes": 1.0
+      },
+      {
+        "site": "www.google.com",
+        "minutes": 1.0
       },
       {
         "site": "www.youtube.com",
         "minutes": 0.9
       },
       {
+        "site": "status.rxresu.me",
+        "minutes": 0.8
+      },
+      {
         "site": "space.bilibili.com",
         "minutes": 0.6
       },
       {
-        "site": "www.google.com",
-        "minutes": 0.5
+        "site": "docs.rxresu.me",
+        "minutes": 0.6
       },
       {
-        "site": "www.soundcore.com",
-        "minutes": 0.4
+        "site": "www.reddit.com",
+        "minutes": 0.6
       },
       {
         "site": "info.9shi.cc",
