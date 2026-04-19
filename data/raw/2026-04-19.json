@@ -1,19 +1,23 @@
 {
   "date": "2026-04-19",
-  "synced_at": "2026-04-19T03:00:12.838298+00:00",
+  "synced_at": "2026-04-19T04:00:09.957422+00:00",
   "computer": {
-    "active_minutes": 23.3,
-    "afk_minutes": 73.6,
+    "active_minutes": 34.8,
+    "afk_minutes": 142.4,
     "active_intervals": [
       {
         "start": "09:43",
         "end": "10:21"
+      },
+      {
+        "start": "11:10",
+        "end": "11:27"
       }
     ],
     "apps": [
       {
         "app": "chrome.exe",
-        "minutes": 15.2
+        "minutes": 29.2
       },
       {
         "app": "claude.exe",
@@ -21,18 +25,30 @@
       },
       {
         "app": "msedge.exe",
-        "minutes": 3.0
+        "minutes": 4.1
       },
       {
         "app": "Code.exe",
-        "minutes": 3.0
+        "minutes": 3.1
+      },
+      {
+        "app": "PixPin.exe",
+        "minutes": 0.7
       },
       {
         "app": "eudic.exe",
-        "minutes": 0.3
+        "minutes": 0.5
       }
     ],
     "sites": [
+      {
+        "site": "greasyfork.org",
+        "minutes": 1.3
+      },
+      {
+        "site": "dash.cloudflare.com",
+        "minutes": 1.1
+      },
       {
         "site": "hlofigcdgjlnalbkeeinfcjceabpamci",
         "minutes": 0.9
@@ -42,8 +58,8 @@
         "minutes": 0.9
       },
       {
-        "site": "greasyfork.org",
-        "minutes": 0.8
+        "site": "www.google.com",
+        "minutes": 0.6
       },
       {
         "site": "rxresu.me",
@@ -55,6 +71,10 @@
       },
       {
         "site": "www.tampermonkey.net",
+        "minutes": 0.5
+      },
+      {
+        "site": "9shi.cc",
         "minutes": 0.3
       }
     ]
